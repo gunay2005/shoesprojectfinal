@@ -464,11 +464,14 @@ const ShopPage = () => {
     if (location.state?.designer) {
       setActiveDesigner(location.state.designer);
     }
-    // Зависим от конкретных примитивных значений (subcategory, ?category=, state),
-    // а НЕ от объекта searchParams или location.key целиком — иначе этот эффект
-    // будет срабатывать при КАЖДОМ вызове setSearchParams (например при смене
-    // страницы пагинации) и ошибочно сбрасывать activeFilter обратно на "all".
-  }, [subcategory, searchParams.get('category'), location.state]);
+    // Зависим от конкретных примитивных значений (subcategory, ?category=,
+    // location.state.filter/designer), а НЕ от объекта searchParams или
+    // location.state целиком. Браузерный History API клонирует location.state
+    // при каждом pushState/replaceState, поэтому его ссылка меняется даже когда
+    // содержимое то же самое — если завязаться на сам объект, этот эффект будет
+    // срабатывать при КАЖДОМ вызове setSearchParams (например при смене
+    // категории или страницы пагинации) и откатывать activeFilter обратно.
+  }, [subcategory, searchParams.get('category'), location.state?.filter, location.state?.designer]);
 
   const toggleColor = (color) => {
     setActiveColors(prev => prev.includes(color) ? prev.filter(c => c !== color) : [...prev, color]);
