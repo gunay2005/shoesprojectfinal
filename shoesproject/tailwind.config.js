@@ -23,11 +23,20 @@ export default {
           900: '#881337',
         },
       },
+      // 1. Добавляем ключ keyframes
+      keyframes: {
+        sunset: {
+          '0%, 100%': { 'background-position': '0% 50%' },
+          '50%': { 'background-position': '100% 50%' },
+        },
+      },
+      // 2. Добавляем саму анимацию к твоим 'float' и 'shimmer'
       animation: {
         'float': 'float 3s ease-in-out infinite',
         'shimmer': 'shimmer 2s linear infinite',
+        'sunset': 'sunset 10s ease infinite',
       },
     },
   },
   plugins: [],
-}
+} 

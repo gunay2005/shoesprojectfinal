@@ -1,0 +1,4623 @@
+[
+  {
+    "id": "sandals-001",
+    "name": "Kristal Qayışlı Səndəllər",
+    "image": "https://cultgaia.com/cdn/shop/files/CAMILLA_PTL_250924_CultGaia__R26-AX__10566.jpg?v=1765234977",
+    "images": [
+      "https://cultgaia.com/cdn/shop/files/CAMILLA_PTL_250924_CultGaia__R26-AX__10566.jpg?v=1765234977",
+      "https://cultgaia.com/cdn/shop/files/CAMILLA_BLK_250924_CultGaia__R26-AX__10591_WEBBED.jpg?v=1766615168"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Jimmy Choo",
+    "price": 230,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 124,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Çəhrayı", "Qara"],
+    "description": "Zərif kristal bəzəkli qayışları və şpilka dabanı olan incə səndəllər.",
+    "fullDescription": "Jimmy Choo brendinin nəfis zərifliyini təcəssüm etdirən bu səndəllər incə təbii dəri qayışlar üzərində parıldayan kristal bəzəklərlə işlənmişdir. Təntənəli gecə tədbirləri üçün mükəmməl seçimdir."
+  },
+  {
+    "id": "sandals-002",
+    "name": "Loqo Təfərrüatlı Yastı Səndəllər",
+    "image": "https://cdn2.emporium.az/i/p/500/16208546-1ab581591dd4c26a4b653a826d8ccf38.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16208546-1ab581591dd4c26a4b653a826d8ccf38.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Alexander Wang",
+    "price": 450,
+    "oldPrice": 565,
+    "badge": "Endirim",
+    "rating": 4.3,
+    "reviews": 67,
+    "sizes": [ "37", "38.5", "39.5", "40"],
+    "colors": [ "Qəhvəyi"],
+    "description": "Relyefli loqo detalı olan geniş dəri kəmərli minimalist yastı səndəllər.",
+    "fullDescription": "Alexander Wang stilinin minimalist ruhunu əks etdirən bu yastı səndəllər geniş dəri kəmər üzərində relyefli loqo detalı ilə seçilir."
+  },
+  {
+    "id": "sandals-003",
+    "name": "Hörülmə Dəri Səndəllər",
+    "image": "https://cdn2.emporium.az/i/p/500/16210762-0f638602a3f4efa6300bdb1f40757271.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16210762-0f638602a3f4efa6300bdb1f40757271.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Bottega Veneta",
+    "price": 720,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 89,
+    "sizes": ["35", "37", "38", "39", "40", "41"],
+    "colors": ["Qümüş"],
+    "description": "Intrecciato üslubunda hörülmüş dəri kəmərli rahat yastı səndəllər.",
+    "fullDescription": "Bottega Veneta evinin vizit kartı olan məşhur Intrecciato əl hörüməsi texnikası ilə hazırlanmış zərif səndəllər."
+  },
+  {
+    "id": "sandals-004",
+    "name": "Tribute Dəri Səndəllər",
+    "image": "https://cdn2.emporium.az/i/p/500/16204130-d01f3d5e0c87db3792c87bdb5ed90dde.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16204130-d01f3d5e0c87db3792c87bdb5ed90dde.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Saint Laurent",
+    "price": 990,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 180,
+    "sizes": ["35","36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Hörülmüş kəmərli və platformalı dabanlı dəri səndəl.",
+    "fullDescription": "Saint Laurent-in ikonik Tribute platformalı səndəlləri. İncə hörülmüş dəri qayışlar və tənzimlənən topuq kəməri ilə zəriflik yaradır."
+  },
+  {
+    "id": "sandals-005",
+    "name": "FF Motivli Platforrma Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16207221-5fe6f2f68e6c32940b6a97069798b2a0.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16207221-5fe6f2f68e6c32940b6a97069798b2a0.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Fendi",
+    "price": 820,
+    "oldPrice": 950,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 54,
+    "sizes": ["35.5", "36", "37", "38", "39"],
+    "colors": ["Bej"],
+    "description": "Ikonik FF jakard motivli rahat platforma səndəl.",
+    "fullDescription": "Fendi-nin zərif brend motivləri ilə işlənmiş dabanlı platforma səndəlləri yay mövsümündə unikal görünüş bəxş edir."
+  },
+  {
+    "id": "sandals-006",
+    "name": "Minimalist Dəri Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16202132-8530f253047042b1633f8718f4e77e0e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16202132-8530f253047042b1633f8718f4e77e0e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Prada",
+    "price": 680,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 42,
+    "sizes": ["36", "37", "38", "38.5", "39"],
+    "colors": ["Qəhvəyi"],
+    "description": "Üçbucaq loqo bəzəkli hamar dəri səndəl.",
+    "fullDescription": "Prada-nın zamansız minimalist dizayn yanaşması ilə istehsal olunmuş hamar dəri səndəl."
+  },
+  {
+    "id": "sandals-007",
+    "name": "Loqo Detallı Gecə Səndəli",
+    "image": "https://cdn2.emporium.az/i/p/500/16196415-0568729eeae37feaf3bb629b3bd704ca.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16196415-0568729eeae37feaf3bb629b3bd704ca.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Jimmy Choo",
+    "price": 950,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 110,
+    "sizes": ["35", "36", "37", "38", "39"],
+    "colors": ["Bej"],
+    "description": "Arxası zərif ipək bantlı dikdaban səndəl.",
+    "fullDescription": "Zərif gecə geyimləri üçün nəzərdə tutulmuş parıltılı ipək bəzəkli dikdaban səndəl."
+  },
+  {
+    "id": "sandals-008",
+    "name": "Kalf Dəri Topuq Kəmərli Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16206727-b51bfd20c2f6438b12e8b78bfa6db7f8.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206727-b51bfd20c2f6438b12e8b78bfa6db7f8.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Alexander Wang",
+    "price": 510,
+    "oldPrice": 620,
+    "badge": "Endirim",
+    "rating": 4.2,
+    "reviews": 38,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Gümüşü metal detallı modern dəri səndəl.",
+    "fullDescription": "Urban üslubu sevənlər üçün xüsusi olaraq hazırlanmış, rahat və dəbli gündəlik səndəl."
+  },
+  {
+    "id": "sandals-009",
+    "name": "Kvadrat Burun Hörümə Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16203920-a25c238fb2987c06e0a03c02e2d36b2a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16203920-a25c238fb2987c06e0a03c02e2d36b2a.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Bottega Veneta",
+    "price": 880,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 95,
+    "sizes": ["36", "37", "37.5", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Kvadrat burunlu və qabarıq dabanlı dəri səndəl.",
+    "fullDescription": "Bottega Veneta-nın trend yaradan kvadrat burun dizaynı və super yumşaq nappa dərisi."
+  },
+  {
+    "id": "sandals-010",
+    "name": "Cassandra Loqolu Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16202795-e9a52fff3cebf71e8d42594bbfea4c63.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16202795-e9a52fff3cebf71e8d42594bbfea4c63.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Saint Laurent",
+    "price": 790,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 81,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Göy"],
+    "description": "Önündə qızılı YSL loqosu olan nəfis zərif səndəl.",
+    "fullDescription": "Həm gündəlik, həm də xüsusi tədbirlər üçün uyğun gələn ikona çevrilmiş Saint Laurent səndəli."
+  },
+  {
+    "id": "sandals-011",
+    "name": "Rəngli İpək Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16201069-6c98dbac88c0f04023b7f55c87783044.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16201069-6c98dbac88c0f04023b7f55c87783044.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Fendi",
+    "price": 750,
+    "oldPrice": 890,
+    "badge": "Endirim",
+    "rating": 4.3,
+    "reviews": 29,
+    "sizes": [ "37", "38", "39"],
+    "colors": ["Multi"],
+    "description": "Əlvan naxışlı ipək materialdan hazırlanmış yay səndəli.",
+    "fullDescription": "Yaz-yay kolleksiyasının ən canlı və diqqətçəkən platforma modelli səndəllərindən biri."
+  },
+  {
+    "id": "sandals-012",
+    "name": "Nappa Dəri Platforma Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16201258-e17f7107c5a3feedae4c9a5b7a21468a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16201258-e17f7107c5a3feedae4c9a5b7a21468a.jpg",
+      "https://cdn2.emporium.az/i/p/500/16201254-af1c6c0564debee5fbf71147e6dae6b1.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Prada",
+    "price": 890,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 112,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi", "Qara"],
+    "description": "Qalın platformalı və dabanlı yumşaq nappa səndəl.",
+    "fullDescription": "Prada-dan həm rahatlıq, həm də boyu vizual olaraq ucaldan dəbli həll."
+  },
+  {
+    "id": "sandals-013",
+    "name": "Beyaz Dəri Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16200715-cc00f7ab8c0c6cb100097faa80efb1b0.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16200715-cc00f7ab8c0c6cb100097faa80efb1b0.jpg"
+      
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Jimmy Choo",
+    "price": 810,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 73,
+    "sizes": ["35", "36", "38", "39", "40"],
+    "colors": ["Ağ"],
+    "description": "Parıldayan metalik dəridən olan zərif dikdaban səndəl.",
+    "fullDescription": "Gecə dəblərinin imtina edilməz seçimi olan parlaq fakturalı səndəl."
+  },
+  {
+    "id": "sandals-014",
+    "name": "İpli Yastı Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/325794-3dbeef5be8762ffea4897cbcb5a57503.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/325794-3dbeef5be8762ffea4897cbcb5a57503.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Alexander Wang",
+    "price": 420,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.1,
+    "reviews": 45,
+    "sizes": ["35", "36", "38", "39","41"],
+    "colors": ["Qara"],
+    "description": "Topuq ətrafı metal zəncirli yastı səndəl.",
+    "fullDescription": "Alexander Wang-ın üsyankar və müasir xəttini əks etdirən xüsusi dizayn."
+  },
+  {
+    "id": "sandals-015",
+    "name": "Stretch Dəri Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16189920-e13e0ea1dd8088686097d77802b89f6e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16189920-e13e0ea1dd8088686097d77802b89f6e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Bottega Veneta",
+    "price": 920,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 105,
+    "sizes": ["34", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "İncə rezin qayışlı və incə dabanlı zərif səndəl.",
+    "fullDescription": "Ayağı zərif şəkildə saran və vizual olaraq uzadan unikal Bottega modeli."
+  },
+  {
+    "id": "sandals-016",
+    "name": "Saten Qayışlı Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16184556-b1ac452373fd1e103fce969323a1ded6.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16184556-b1ac452373fd1e103fce969323a1ded6.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Saint Laurent",
+    "price": 730,
+    "oldPrice": 850,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 60,
+    "sizes": ["35", "37", "38", "39"],
+    "colors": ["Ağ"],
+    "description": "Şəffaf detallı və ultra incə dabanlı səndəl.",
+    "fullDescription": "Ayaqda demək olar ki, görünməyən zərif kəmərləri ilə diqqət çəkən model."
+  },
+  {
+    "id": "sandals-017",
+    "name": "Velvet Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16180211-7cb703661b3f374f03edf5c2ad224892.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16180211-7cb703661b3f374f03edf5c2ad224892.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Fendi",
+    "price": 590,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.2,
+    "reviews": 31,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Çimərlik və şəhər gəzintiləri üçün rahat rezin səndəl.",
+    "fullDescription": "Fendi loqolu, su keçirməyən və son dərəcə rahat yay səndəli."
+  },
+  {
+    "id": "sandals-018",
+    "name": "Cilalanmış Dəri Səndəl",
+    "image": "https://static.pxlecdn.com/products/73001877/primary/thumb/29e3b825075a7550ae0502781abd28b6.jpg",
+    "images": [
+      "https://static.pxlecdn.com/products/73001877/primary/thumb/29e3b825075a7550ae0502781abd28b6.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Prada",
+    "price": 780,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 88,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Cilalanmış spazzalato dəridən olan toqqalı səndəl.",
+    "fullDescription": "Prada-nın məşhur cilalanmış dərisindən hazırlanmış və uzunömürlü istifadə təklif edən model."
+  },
+  {
+    "id": "sandals-019",
+    "name": "Toqqali İncə Səndəl",
+    "image": "https://static.pxlecdn.com/products/72854299/primary/thumb/e91f6303af662c89c20b65af8cde00f2.jpg",
+    "images": [
+      "https://static.pxlecdn.com/products/72854299/primary/thumb/e91f6303af662c89c20b65af8cde00f2.jpg",
+      "https://static.pxlecdn.com/products/72854299/primary/thumb/e91f6303af662c89c20b65af8cde00f2.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Jimmy Choo",
+    "price": 860,
+    "oldPrice": 990,
+    "badge": "Endirim",
+    "rating": 4.6,
+    "reviews": 64,
+    "sizes": ["35.5", "36", "37", "38", "39"],
+    "colors": ["Ağ"],
+    "description": "Əlvan rəngli və incə dik dabanlı zərif səndəl.",
+    "fullDescription": "Yay tədbirlərinizə parlaqlıq qatacaq xüsusi dizaynlı Jimmy Choo modeli."
+  },
+  {
+    "id": "sandals-020",
+    "name": "Dəri Toqqalı Şəhər Səndəli",
+    "image": "https://cdn2.emporium.az/i/p/500/16203046-31b1497c269a7079bd3d5263acd8d83d.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16203046-31b1497c269a7079bd3d5263acd8d83d.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Alexander Wang",
+    "price": 480,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.3,
+    "reviews": 51,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qəhvəyi"],
+    "description": "Qalın rezin altlıqlı və metal toqqalı rahat səndəl.",
+    "fullDescription": "Uzunmüddətli gəzintilər üçün maksimum komfort və müasir stil təmin edir."
+  },
+  {
+    "id": "sandals-021",
+    "name": "Metalik Qayışlı Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16207048-605d80cbd87a0eca05c892acc9714ec9.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16207048-605d80cbd87a0eca05c892acc9714ec9.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Jimmy Choo",
+    "price": 640,
+    "oldPrice": 750,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 43,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Gümüşü"],
+    "description": "Parıltılı metalik dəridən hazırlanmış incə qayışlı zərif səndəl.",
+    "fullDescription": "Ayaqda möhtəşəm parıltı yaradan və hər cür ziyafət geyiminə uyğunlaşan Jimmy Choo dizaynı."
+  },
+  {
+    "id": "sandals-022",
+    "name": "Zəncir Detallı Dəri Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16208550-675de703d15af01a177cc0b95b152b02.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16208550-675de703d15af01a177cc0b95b152b02.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Alexander Wang",
+    "price": 530,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.4,
+    "reviews": 56,
+    "sizes": ["35", "36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Qalın zəncir aksesuarlı, hamar dəri gündəlik səndəl.",
+    "fullDescription": "Müasir şəhər üslubunu sərt metal aksesuarlarla birləşdirən Alexander Wang modeli."
+  },
+  {
+    "id": "sandals-023",
+    "name": "Yastı Intrecciato Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16208337-bb69e8f798a28da7897dfccd2dd445db.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16208337-bb69e8f798a28da7897dfccd2dd445db.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Bottega Veneta",
+    "price": 690,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 92,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Bej"],
+    "description": "Yumşaq hörülmüş dəridən ibarət rahat yastı səndəl.",
+    "fullDescription": "Gündəlik kombinlərinizin vazkeçilməz hissəsi olacaq əl işi Bottega Veneta səndəli."
+  },
+  {
+    "id": "sandals-024",
+    "name": "Opyum Loqo Dabanlı Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16202794-4fb3124fc3a15efb75ec1f0e9d95ff8c.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16202794-4fb3124fc3a15efb75ec1f0e9d95ff8c.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Saint Laurent",
+    "price": 1050,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 145,
+    "sizes": ["35", "36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Metal YSL hərfləri şəklində dizayn edilmiş dabanlı səndəl.",
+    "fullDescription": "Saint Laurent brendinin ikonik estetik gururunu əks etdirən möhtəşəm gecə ayaqqabısı."
+  },
+  {
+    "id": "sandals-025",
+    "name": "Loqo Bantlı Metallik Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/192504-1820d4771acdb6f783c9c92048b52122.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/192504-1820d4771acdb6f783c9c92048b52122.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Fendi",
+    "price": 580,
+    "oldPrice": 690,
+    "badge": "Endirim",
+    "rating": 4.3,
+    "reviews": 35,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qümüş"],
+    "description": "Tənzimlənən tekstil lentli və loqolu rahat yay səndəli.",
+    "fullDescription": "Aktiv həyat tərzi sürən və brend tərzindən ödün verməyənlər üçün Fendi seçimi."
+  },
+  {
+    "id": "sandals-026",
+    "name": "Platforma Sabit Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16196415-0568729eeae37feaf3bb629b3bd704ca.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16196415-0568729eeae37feaf3bb629b3bd704ca.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Prada",
+    "price": 840,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 77,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Bej"],
+    "description": "Rezin altlıqlı və minimal üçbucaq nişanlı Prada səndəli.",
+    "fullDescription": "Yüngül və rahat strukturu ilə yay günlərində maksimum komfort təmin edir."
+  },
+  {
+    "id": "sandals-027",
+    "name": "Payet Bəzəkli Ziyafət Səndəli",
+    "image": "https://cdn2.emporium.az/i/p/500/243207-ca2af70f08fe06f800aa73cd7ef2839d.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/243207-ca2af70f08fe06f800aa73cd7ef2839d.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Jimmy Choo",
+    "price": 910,
+    "oldPrice": 1020,
+    "badge": "Endirim",
+    "rating": 4.8,
+    "reviews": 62,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Ağ"],
+    "description": "Parıldayan payetlərlə örtülmüş incə dabanlı səndəl.",
+    "fullDescription": "Xüsusi gecələrdə diqqət mərkəzində olmaq istənlər üçün parlaq Jimmy Choo modeli."
+  },
+  {
+    "id": "sandals-028",
+    "name": "Kauchuk Dabanlı Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/240508-79d8c908ea95542e2fc0a03c73505b0a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/240508-79d8c908ea95542e2fc0a03c73505b0a.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Alexander Wang",
+    "price": 460,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.2,
+    "reviews": 40,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Ağ"],
+    "description": "Geniş kauchuk altlıqlı və kəmərli idman üslublu səndəl.",
+    "fullDescription": "Gündəlik gəzintilər üçün davamlı və rahat struktur təqdim edir."
+  },
+  {
+    "id": "sandals-029",
+    "name": "Yumşaq Padded Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/240908-6bfcc7ebe910d24060b83adfbafe7705.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/240908-6bfcc7ebe910d24060b83adfbafe7705.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Bottega Veneta",
+    "price": 950,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 118,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": [ "Qara"],
+    "description": "Qabarıq yastıqlı dəri kəmərləri olan dəbli səndəl.",
+    "fullDescription": "Mövsümün ən populyar trendlərindən biri olan Bottega Veneta-nın yastıqlı dizaynı."
+  },
+  {
+    "id": "sandals-030",
+    "name": "Ankle Wrap Dəri Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/317373-fa51aab8f36bbb0a39efd59f23044058.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/317373-fa51aab8f36bbb0a39efd59f23044058.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Saint Laurent",
+    "price": 820,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.5,
+    "reviews": 65,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": [ "Qara"],
+    "description": "Topuq ətrafına ikiqat dolanan incə ipək lentli səndəl.",
+    "fullDescription": "Ayaq biləyini zərif şəkildə vurğulayan klassik Saint Laurent axşam modeli."
+  },
+  {
+    "id": "sandals-031",
+    "name": "Laminə Dəri Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/215550-c944b92a342bc9c8e84985c959a8e0cb.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/215550-c944b92a342bc9c8e84985c959a8e0cb.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Fendi",
+    "price": 710,
+    "oldPrice": 830,
+    "badge": "Endirim",
+    "rating": 4.4,
+    "reviews": 50,
+    "sizes": ["37", "38", "39", "40"],
+    "colors": ["Ağ"],
+    "description": "Laminə olunmuş parlaq dəridən hazırlanan Fendi səndəli.",
+    "fullDescription": "Günəş işığında parıldayan zərif səthə və rahat daban hündürlüyünə malikdir."
+  },
+  {
+    "id": "sandals-032",
+    "name": "Rezin Şəhər Səndəli",
+    "image": "https://cdn2.emporium.az/i/p/500/232690-b85c8b67bff7f8cbdd8f20b545fed27f.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/232690-b85c8b67bff7f8cbdd8f20b545fed27f.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Prada",
+    "price": 520,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 83,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Bej"],
+    "description": "İşləməli rezin materialdan yüngül dabanlı səndəl.",
+    "fullDescription": "Həm çimərlik, həm də isti yay günlərində şəhər gəzintiləri üçün əvəzolunmazdır."
+  },
+  {
+    "id": "sandals-033",
+    "name": "Biju Bəzəkli Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/251179-3576caaf3d03e6f53a0e85c7ae04ad67.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/251179-3576caaf3d03e6f53a0e85c7ae04ad67.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Jimmy Choo",
+    "price": 980,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.9,
+    "reviews": 130,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Gümüşü"],
+    "description": "Daş-qaş bəzəkli mərkəzi elementi olan zərif lüks səndəl.",
+    "fullDescription": "Zərgərlik məmulatlarını xatırladan işləmələri ilə göz oxşayan Jimmy Choo sənətkarlığı."
+  },
+  {
+    "id": "sandals-034",
+    "name": "Kvars Dəri Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/250320-103d15892b12e6f908facc0c59e41ed1.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/250320-103d15892b12e6f908facc0c59e41ed1.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Alexander Wang",
+    "price": 490,
+    "oldPrice": 590,
+    "badge": "Endirim",
+    "rating": 4.3,
+    "reviews": 34,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Minimalist kəmər dizaynlı, zərif rəngli dəri səndəl.",
+    "fullDescription": "Gündəlik geyimlərə təmiz və səliqəli bir toxunuş qatan Alexander Wang modeli."
+  },
+  {
+    "id": "sandals-035",
+    "name": "Klassik Dəri T Kəmər Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/248773-aff1006d9f1add45f691d7c0e85bc2e7.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/248773-aff1006d9f1add45f691d7c0e85bc2e7.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Bottega Veneta",
+    "price": 760,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 85,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Yaşıl"],
+    "description": "T formalında kəmər quruluşuna malik hamar dəri səndəl.",
+    "fullDescription": "Zamana meydan oxuyan klassik dizaynı ilə hər zaman dəbdə qalan model."
+  },
+  {
+    "id": "sandals-036",
+    "name": "Tribute Lak Dəri Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/16212498-920ff351865d40b58734ffb4b3ad2843.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16212498-920ff351865d40b58734ffb4b3ad2843.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Saint Laurent",
+    "price": 940,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 112,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qızıl"],
+    "description": "Parlaq lak dəridən hazırlanmış platformalı Tribute səndəli.",
+    "fullDescription": "Saint Laurent-in ən məşhur platforma seriyasının parlaq lak işləməli versiyası."
+  },
+  {
+    "id": "sandals-037",
+    "name": "FF Zolaqlı Yay Səndəli",
+    "image": "https://cdn2.emporium.az/i/p/500/198182-413e912a269caf401895211433155c13.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/198182-413e912a269caf401895211433155c13.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Fendi",
+    "price": 670,
+    "oldPrice": 790,
+    "badge": "Endirim",
+    "rating": 4.4,
+    "reviews": 46,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Ağ"],
+    "description": "Loqolu toxunma zolaqları olan rahat düz altlıq səndəl.",
+    "fullDescription": "Fendi brendinin məşhur zolaqlı motivlərini daşıyan yüngül yay ayaqqabısı."
+  },
+  {
+    "id": "sandals-038",
+    "name": "Spazzalato Platforma Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/241147-cf07fd9cf31aaa798cf7dae6f3afb926.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/241147-cf07fd9cf31aaa798cf7dae6f3afb926.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Prada",
+    "price": 910,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 94,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Narinci"],
+    "description": "Cilalanmış dərili və qalın altlıqlı müasir Prada səndəli.",
+    "fullDescription": "Möhkəm quruluşu və modern silueti ilə fərqlənən unikal Prada dizaynı."
+  },
+  {
+    "id": "sandals-039",
+    "name": "İnci Bəzəkli İncə Səndəl",
+    "image": "https://cdn2.emporium.az/i/p/500/258693-aaf72b2bf2e4355e56305c9c58c30cac.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/258693-aaf72b2bf2e4355e56305c9c58c30cac.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Jimmy Choo",
+    "price": 890,
+    "oldPrice": 1050,
+    "badge": "Endirim",
+    "rating": 4.9,
+    "reviews": 102,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Göy"],
+    "description": "Zərif süni incilərlə bəzədilmiş qayışlı gecə səndəli.",
+    "fullDescription": "Toy və xüsusi dəvətlər üçün ideal olan incə detallı Jimmy Choo şah əsəri."
+  },
+  {
+    "id": "sandals-040",
+    "name": "Kvars Dəri Şəhər Səndəli",
+    "image": "https://cdn2.emporium.az/i/p/500/257202-0a645d23a46e445ce4386ed9c3821064.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/257202-0a645d23a46e445ce4386ed9c3821064.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sandals",
+    "designer": "Alexander Wang",
+    "price": 470,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.2,
+    "reviews": 39,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qoy"],
+    "description": "Yumşaq dəri kəmərli və rahat anatomik altlıqlı səndəl.",
+    "fullDescription": "Ayağın formasını alaraq uzun gəzintilərdə belə rahatlıq təmin edən Alexander Wang modeli."
+  },
+  {
+    "id": "stilettos-001",
+    "name": "Kristallı Şpilka Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16206663-b18a45edc54f69c608fa7c99f5e7a510.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206663-b18a45edc54f69c608fa7c99f5e7a510.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Jimmy Choo",
+    "price": 1250,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 156,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Qara", "Qümüş"],
+    "description": "Bütün səthi parıldayan kristalla bəzədilmiş sivri burunlu şpilka tufli.",
+    "fullDescription": "Jimmy Choo Love kolleksiyasından olan bu sivri burunlu şpilka tufli bütün səthi əhatə edən parlaq kristal bəzəkləri ilə diqqət çəkir."
+  },
+  {
+    "id": "stilettos-002",
+    "name": "Atlas  Dikdaban Tufli",
+    "image": "https://cdn.shopify.com/s/files/1/0336/7793/files/LUNAMULE_CH_260709_CultGaia_F2621724_WEBBED_300x.jpg?v=1786992292",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0336/7793/files/LUNAMULE_CH_260709_CultGaia_F2621724_WEBBED_300x.jpg?v=1786992292"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Prada",
+    "price": 890,
+    "oldPrice": 1110,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 98,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Multi"],
+    "description": "Arxasında emallı üçbucaq loqo olan parlaq atlas materialdan tufli.",
+    "fullDescription": "Prada brendinin dəbdəbəli ipək atlas materialından hazırlanmış sivri burunlu dikdaban tuflisi."
+  },
+  {
+    "id": "stilettos-003",
+    "name": "Opyum Loqo Dabanlı Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16196743-5e535a6999c83fe8a99bcdbc34a1bae4.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16196743-5e535a6999c83fe8a99bcdbc34a1bae4.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Saint Laurent",
+    "price": 980,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 134,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Metaldan hazırlanmış YSL ikonik loqo dabanlı dəri şpilka tufli.",
+    "fullDescription": "Saint Laurent-in ən məşhur ikonasından biri olan Opyum modeli. Metalik YSL monoqram formalı dabanı ilə cəsarətli görünüş yaradır."
+  },
+  {
+    "id": "stilettos-004",
+    "name": "Kvadrat Burun Dikdaban Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/16196748-f03824e94eb7eaae4df7a52adabaa19a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16196748-f03824e94eb7eaae4df7a52adabaa19a.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Bottega Veneta",
+    "price": 920,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 76,
+    "sizes": ["35", "37", "38", "39","40"],
+    "colors": ["Bordo"],
+    "description": "Nappa dəridən kvadrat burunlu ultra modelyer stiletto.",
+    "fullDescription": "Müasir dəbin ən dəbdə olan dizayn elementlərini özündə birəşdirən eksklüziv stiletto."
+  },
+  {
+    "id": "stilettos-005",
+    "name": "Stretch Dəri Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/16203044-dac368da557e6cf73c0fd3cf39e368a3.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16203044-dac368da557e6cf73c0fd3cf39e368a3.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Alexander Wang",
+    "price": 640,
+    "oldPrice": 780,
+    "badge": "Endirim",
+    "rating": 4.3,
+    "reviews": 41,
+    "sizes": ["36", "37", "38", "39", "40","41"],
+    "colors": ["Narinci"],
+    "description": "Topuğunda metalik zəncir detallı sivri burun stiletto.",
+    "fullDescription": "Alexander Wang-a xüsusi modern kəsim və metal vurğularla zənginləşdirilmiş model."
+  },
+  {
+    "id": "stilettos-006",
+    "name": "FF Şəffaf Şpilka Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16201838-4e693add3210c2c2245f053e0c21f5ce.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16201838-4e693add3210c2c2245f053e0c21f5ce.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Fendi",
+    "price": 870,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.5,
+    "reviews": 63,
+    "sizes": ["36", "37", "37.5", "38", "39"],
+    "colors": ["Multi"],
+    "description": "Tor material üzərində FF loqo naxışlı şpilka tufli.",
+    "fullDescription": "Fendi-dən ayağı incə göstərən, şəffaf tor panelli dəbdəbəli stiletto."
+  },
+  {
+    "id": "stilettos-007",
+    "name": "Anouk Patent Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/16189643-e2a0adc0e7c2cfe844025b781d69e234.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16189643-e2a0adc0e7c2cfe844025b781d69e234.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Jimmy Choo",
+    "price": 750,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 115,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "120mm yüksək şpilka dabanlı laklı stiletto.",
+    "fullDescription": "Klassik stiletto siluetinin ən kəskin və cazibədar forması."
+  },
+  {
+    "id": "stilettos-008",
+    "name": "Açıq Arxalı Dəri Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/16189005-8f701d805377d4bd9ad5a9720452b064.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16189005-8f701d805377d4bd9ad5a9720452b064.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Prada",
+    "price": 830,
+    "oldPrice": 960,
+    "badge": "Endirim",
+    "rating": 4.4,
+    "reviews": 52,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Ağ"],
+    "description": "Arxası elastik qayışlı və saçaqlı sivri stiletto.",
+    "fullDescription": "Prada-nın idman və klassikanı birləşdirən unikal fəlsəfəsinin məhsulu."
+  },
+  {
+    "id": "stilettos-009",
+    "name": "Zərif Qayışlı Şpilka Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16185973-08251426c6189d33ed2b264d4273427a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16185973-08251426c6189d33ed2b264d4273427a.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Saint Laurent",
+    "price": 890,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 88,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Topuqdan çarpaz qayışlı hamar dəri stiletto.",
+    "fullDescription": "İncə detalları ilə diqqət çəkən, ayağı mükəmməl qavrayan Saint Laurent tuflisi."
+  },
+  {
+    "id": "stilettos-010",
+    "name": "Padded Dəri Şpilka Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16181205-95faa8b554666512e24fc08cf28b32a1.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16181205-95faa8b554666512e24fc08cf28b32a1.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Bottega Veneta",
+    "price": 960,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 102,
+    "sizes": ["36", "36.5", "37", "38", "39"],
+    "colors": ["Bej"],
+    "description": "Yumşaldılmış qabarıq nappa dəridən stiletto.",
+    "fullDescription": "Həm vizual fərqlilik, həm də daxili yumşaq rahatlıq təmin edən xüsusi model."
+  },
+  {
+    "id": "stilettos-011",
+    "name": "Şəffaf Vinil Şpilka Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16185308-7900967ef4106a548d2a3ee714a92779.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16185308-7900967ef4106a548d2a3ee714a92779.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Alexander Wang",
+    "price": 580,
+    "oldPrice": 690,
+    "badge": "Endirim",
+    "rating": 4.1,
+    "reviews": 33,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": [ "Ağ"],
+    "description": "Şəffaf PVC panelli və kristal bəzəkli stiletto.",
+    "fullDescription": "Ayaqda Yoxmuş kimi görünən, modern və minimalist dizaynlı ayaqqabı."
+  },
+  {
+    "id": "stilettos-012",
+    "name": "Sculptured Dabanlı Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/16184566-753d73567236b92c776298bba50710a1.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16184566-753d73567236b92c776298bba50710a1.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Fendi",
+    "price": 910,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 47,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Multi"],
+    "description": "Arxitektura formalı F dabanlı dəri stiletto.",
+    "fullDescription": "Fendi-nin innovativ heykəltəraşlıq yanaşmasını əks etdirən daban dizaynı."
+  },
+  {
+    "id": "stilettos-013",
+    "name": "Aura Zamş Şpilka Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16185311-dd125b5c9e0622c9ae836c2b2942b3f3.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16185311-dd125b5c9e0622c9ae836c2b2942b3f3.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Jimmy Choo",
+    "price": 790,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 90,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qümüş"],
+    "description": "Təbii zamş dəridən Sivri burunlu klassik stiletto.",
+    "fullDescription": "Rəsmi və alicənab kombinlər üçün mükəmməl zamş fakturalı şpilka."
+  },
+  {
+    "id": "stilettos-014",
+    "name": "Metal Burunlu Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/16180241-cd1ea0221137b8c3adb0ce81914303c9.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16180241-cd1ea0221137b8c3adb0ce81914303c9.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Prada",
+    "price": 860,
+    "oldPrice": 990,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 68,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qümüş"],
+    "description": "Ön hissəsində gümüşü metal ucluq olan stiletto.",
+    "fullDescription": "Prada-nın cəsarətli və kəskin xətlərə malik məşhur modelyer stili."
+  },
+  {
+    "id": "stilettos-015",
+    "name": "Ankle Wrap Dəri Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/351245-ea2c8ca992cec6ff961251964015b8e3.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/351245-ea2c8ca992cec6ff961251964015b8e3.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Saint Laurent",
+    "price": 940,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 79,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Topuğa dolaşan uzun dəri lentli stiletto.",
+    "fullDescription": "Ayağı cazibədar şəkildə nümayiş etdirən uzun bağlamalı yüksək şpilka."
+  },
+  {
+    "id": "stilettos-016",
+    "name": "Metalik Detalli Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/16180286-32cbb84f912145e055bc4a4bbe7cc888.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16180286-32cbb84f912145e055bc4a4bbe7cc888.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Bottega Veneta",
+    "price": 1050,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.9,
+    "reviews": 110,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qızıl"],
+    "description": "Qızılı intrecciato dəridən hazırlanmış stiletto.",
+    "fullDescription": "Lüks anlayışına tamamilə yeni ölçü gətirən parlaq əl işi stiletto."
+  },
+  {
+    "id": "stilettos-017",
+    "name": "Feather Trim Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/16179923-f323ade87a699ebdd0d0050da2d64787.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16179923-f323ade87a699ebdd0d0050da2d64787.jpg",
+      "https://cdn2.emporium.az/i/p/500/16179922-901de87edfde97f8b78fa06857ac4e5f.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Alexander Wang",
+    "price": 670,
+    "oldPrice": 800,
+    "badge": "Endirim",
+    "rating": 4.2,
+    "reviews": 25,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Çəhrayı", "Qara"],
+    "description": "Ön tərəfi təbii lələk bəzəkli ekstravaqant stiletto.",
+    "fullDescription": "Parti və parlaq tədbirlər üçün diqqət mərkəzində olacaq fərqli model."
+  },
+  {
+    "id": "stilettos-018",
+    "name": "Gradient Atlas Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/16178905-a005eb1f16c0f7d5119f18037ec85b1d.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16178905-a005eb1f16c0f7d5119f18037ec85b1d.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Jimmy Choo",
+    "price": 880,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 83,
+    "sizes": ["35.5", "36", "37", "38", "39"],
+    "colors": ["Qırmızı"],
+    "description": "Rəng keçidli atlas parçadan hazırlanmış stiletto.",
+    "fullDescription": "İki rəngin harmoniyasını təqdim edən dəbdəbəli geyim aksesuarı."
+  },
+  {
+    "id": "stilettos-019",
+    "name": "Klassik Laklı Şpilka",
+    "image": "https://cdn2.emporium.az/i/p/500/16178947-e1a9ba764c951aab83e8d79e34025b96.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16178947-e1a9ba764c951aab83e8d79e34025b96.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Saint Laurent",
+    "price": 780,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 140,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qara"],
+    "description": "Parlaq laklı dəridən sivri burun klassik tufli.",
+    "fullDescription": "Qarderobun baza hissəsini təşkil edən, heç vaxt dəbdən düşməyən model."
+  },
+  {
+    "id": "stilettos-020",
+    "name": "Plexi Panelli Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/352752-c4324650b4ef40a3168e12ebc8a4517e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/352752-c4324650b4ef40a3168e12ebc8a4517e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Fendi",
+    "price": 840,
+    "oldPrice": 980,
+    "badge": "Endirim",
+    "rating": 4.4,
+    "reviews": 49,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qümüş"],
+    "description": "Yanları şəffaf pleksi panelli incə stiletto.",
+    "fullDescription": "Optik olaraq ayağı daha zərif göstərən dizayner işi."
+  },
+  {
+    "id": "stilettos-021",
+    "name": "Bambuk Dəstəkli Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/227963-6998cbd895732e7386ba605d00b6e0c2.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/227963-6998cbd895732e7386ba605d00b6e0c2.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Gucci",
+    "price": 950,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 92,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qümüş"],
+    "description": "Daban hissəsində ikonik bambuk elementi olan lüks dəri stiletto.",
+    "fullDescription": "Gucci evinin klassik irsini və təbii materialları birləşdirən eksklüziv şpilka tufli modeli."
+  },
+  {
+    "id": "stilettos-022",
+    "name": "Spike Detallı Laklı Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/241221-b014bff9ed12350fd8e37f38d6e1901e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/241221-b014bff9ed12350fd8e37f38d6e1901e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Christian Louboutin",
+    "price": 1100,
+    "oldPrice": 1300,
+    "badge": "Endirim",
+    "rating": 4.9,
+    "reviews": 145,
+    "sizes": ["35", "36", "37", "38", "39"],
+    "colors": ["Yaşıl"],
+    "description": "Metal tikanlı (spike) bəzəkləri və qırmızı altlığı olan məşhur stiletto.",
+    "fullDescription": "Christian Louboutin-in üsyançı və cəsarətli ruhunu əks etdirən zərif şpilka."
+  },
+  {
+    "id": "stilettos-023",
+    "name": "Krujeva Örtüklü Şpilka",
+    "image": "https://cdn2.emporium.az/i/p/500/248932-3b85182871a9a196478d19887054f61b.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/248932-3b85182871a9a196478d19887054f61b.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Jimmy Choo",
+    "price": 890,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 64,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Göy"],
+    "description": "Fransız krujavası ilə örtülmüş romantik və zərif stiletto.",
+    "fullDescription": "Xüsusi günlər və toy mərasimləri üçün ideal olan incə krujeva naxışlı lüks tufli."
+  },
+  {
+    "id": "stilettos-024",
+    "name": "Asimmetrik Kəmərli Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/245585-5be485daa0fb257d57d4eb190326e6ee.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/245585-5be485daa0fb257d57d4eb190326e6ee.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Prada",
+    "price": 940,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.5,
+    "reviews": 51,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Ayaq üzərindən asimmetrik keçən incə dəri kəmərli stiletto.",
+    "fullDescription": "Prada-nın qeyri-adi həndəsi formaları sevən xanımlar üçün təqdim etdiyi modern model."
+  },
+  {
+    "id": "stilettos-025",
+    "name": "Klassik Qırmızı Şpilka",
+    "image": "https://cdn2.emporium.az/i/p/500/250659-e54dcdc14528edac339a23af19320f0e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/250659-e54dcdc14528edac339a23af19320f0e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Christian Louboutin",
+    "price": 990,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.9,
+    "reviews": 210,
+    "sizes": ["35", "36", "37", "38", "39", "40", "41"],
+    "colors": ["Gümüşü"],
+    "description": "İkonik qırmızı rəngli laklı dəri klassik şpilka tufli.",
+    "fullDescription": "Qadın qarderobunun əsas simvolu olan, hər addımda özgüvən bəxş edən əfsanəvi model."
+  },
+  {
+    "id": "stilettos-026",
+    "name": "Mirror Metallik Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/258565-8b11ff7d69240bdbce7f8ab5e6eaf431.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/258565-8b11ff7d69240bdbce7f8ab5e6eaf431.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Saint Laurent",
+    "price": 920,
+    "oldPrice": 1050,
+    "badge": "Endirim",
+    "rating": 4.6,
+    "reviews": 73,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qümüş"],
+    "description": "Güzgü effektli parlaq metallik dəridən hazırlanmış şpilka.",
+    "fullDescription": "Gecə klubları və parlaq tədbirlər üçün işıq saçan füsunkar dizayn."
+  },
+  {
+    "id": "stilettos-027",
+    "name": "Süet Bağcıqlı Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/258550-abe1f185f39ee6ffe38dacc0fc4dd25b.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/258550-abe1f185f39ee6ffe38dacc0fc4dd25b.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Bottega Veneta",
+    "price": 980,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 85,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Yaşıl"],
+    "description": "Nazik süet bağcıqları ilə ayağı sarıyan zərif şpilka.",
+    "fullDescription": "Bottega Veneta keyfiyyəti ilə hazırlanan, ayaqda incə sənət əsəri kimi görünən model."
+  },
+  {
+    "id": "stilettos-028",
+    "name": "Platformalı Yüksək Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/243383-bce40b81c7a4c47b4e74983b2407524c.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/243383-bce40b81c7a4c47b4e74983b2407524c.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Versace",
+    "price": 1150,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 118,
+    "sizes": ["35", "36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Qalın platforması və incə şpilka dabanı olan Medusa detallı tufli.",
+    "fullDescription": "Versace-nin cəsarətli və debütant üslubunu tam əks etdirən maksimum hündürlükdə stiletto."
+  },
+  {
+    "id": "stilettos-029",
+    "name": "Jandahl Dəri Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/233926-cbab01f879e38d3d18d50930c02688ff.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/233926-cbab01f879e38d3d18d50930c02688ff.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Jimmy Choo",
+    "price": 820,
+    "oldPrice": 940,
+    "badge": "Endirim",
+    "rating": 4.4,
+    "reviews": 59,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Ağ"],
+    "description": "Gündəlik zəriflik üçün rahat yastıqlı daban hissəli dəri stiletto.",
+    "fullDescription": "Jimmy Choo brendinin rahatlıq və estetikanı birləşdirən populyar ofis modeli."
+  },
+  {
+    "id": "stilettos-030",
+    "name": "Tweed Naxışlı Şpilka",
+    "image": "https://cdn2.emporium.az/i/p/500/275001-aad5188cc41473985324b24de1a7c808.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/275001-aad5188cc41473985324b24de1a7c808.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Chanel",
+    "price": 1200,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 130,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": [ "Qara"],
+    "description": "Klassik tweed parça materialından hazırlanmış zərif burunlu stiletto.",
+    "fullDescription": "Chanel üslubunun əbədi zərifliyini ayaqqabı dəbinə daşıyan eksklüziv parça dizaynı."
+  },
+  {
+    "id": "stilettos-031",
+    "name": "Klassik Nude Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/275109-982a212fa0b29f6c4ef95ee8de99dd8a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/275109-982a212fa0b29f6c4ef95ee8de99dd8a.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Christian Louboutin",
+    "price": 950,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.9,
+    "reviews": 195,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Göy"],
+    "description": "Ayağı vizual olaraq uzadan bədən rəngli mat dəri stiletto.",
+    "fullDescription": "Hər bir qadının qarderobunda olmalı olan universal və qüsursuz nude rəngli şpilka."
+  },
+  {
+    "id": "stilettos-032",
+    "name": "Chain Link Dabanlı Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/263933-e8edeabcc1a7464f8179c858263af290.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/263933-e8edeabcc1a7464f8179c858263af290.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Tom Ford",
+    "price": 1050,
+    "oldPrice": 1220,
+    "badge": "Endirim",
+    "rating": 4.6,
+    "reviews": 67,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Bənövşəyi"],
+    "description": "Daban hissəsində qızılı zəncir elementi olan parlaq stiletto.",
+    "fullDescription": "Tom Ford-un cazibədar və dəbdəbəli estetikasına sahib cəsarətli axşam tuflisi."
+  },
+  {
+    "id": "stilettos-033",
+    "name": "Süni İlan Dərisi Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/261952-7ab893762feaece47cbb699949b79683.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/261952-7ab893762feaece47cbb699949b79683.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Saint Laurent",
+    "price": 990,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 81,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Bej"],
+    "description": "Teksturalı ilan dərisi naxışlı qabarıq dəri şpilka.",
+    "fullDescription": "Ekzotik naxışları sevənlər üçün Saint Laurent-in zövqlə hazırladığı incə stiletto."
+  },
+  {
+    "id": "stilettos-034",
+    "name": "Klassik Dəri Şpilka 100mm",
+    "image": "https://cdn2.emporium.az/i/p/500/276676-2e9d14f3814f7561c5bd6370c816474a.JPG",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/276676-2e9d14f3814f7561c5bd6370c816474a.JPG"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Manolo Blahnik",
+    "price": 890,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.9,
+    "reviews": 160,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Yaşıl"],
+    "description": "Əfsanəvi 100mm hündürlüyündə hamar dana dərisindən stiletto.",
+    "fullDescription": "Manolo Blahnik keyfiyyətinin zirvəsi olan, heç vaxt dəbdən düşməyən klassik şpilka."
+  },
+  {
+    "id": "stilettos-035",
+    "name": "Satin Kristal Broşlu Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/275030-cd1a3e298c4f69b60247444ce58b7ecf.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/275030-cd1a3e298c4f69b60247444ce58b7ecf.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Manolo Blahnik",
+    "price": 1250,
+    "oldPrice": 1400,
+    "badge": "Endirim",
+    "rating": 5.0,
+    "reviews": 188,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Göy"],
+    "description": "Mavi satin material və üzərində parlaq daşlı kvadrat broş olan şpilka.",
+    "fullDescription": "Məşhur 'Hangisi' modelinin incə şpilka dabanlı və ecazkar satin görünüşlü versiyası."
+  },
+  {
+    "id": "stilettos-041",
+    "name": "Kristallı Şpilka Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16206663-b18a45edc54f69c608fa7c99f5e7a510.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206663-b18a45edc54f69c608fa7c99f5e7a510.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Prada",
+    "price": 1250,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 156,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Qara", "Qümüş"],
+    "description": "Bütün səthi parıldayan kristalla bəzədilmiş sivri burunlu şpilka tufli.",
+    "fullDescription": "Jimmy Choo Love kolleksiyasından olan bu sivri burunlu şpilka tufli bütün səthi əhatə edən parlaq kristal bəzəkləri ilə diqqət çəkir."
+  },
+  {
+    "id": "stilettos-042",
+    "name": "Opyum Loqo Dabanlı Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16196743-5e535a6999c83fe8a99bcdbc34a1bae4.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16196743-5e535a6999c83fe8a99bcdbc34a1bae4.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Jimmy Choo",
+    "price": 980,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 134,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Metaldan hazırlanmış YSL ikonik loqo dabanlı dəri şpilka tufli.",
+    "fullDescription": "Saint Laurent-in ən məşhur ikonasından biri olan Opyum modeli. Metalik YSL monoqram formalı dabanı ilə cəsarətli görünüş yaradır."
+  },
+  {
+    "id": "stilettos-043",
+    "name": "Stretch Dəri Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/16203044-dac368da557e6cf73c0fd3cf39e368a3.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16203044-dac368da557e6cf73c0fd3cf39e368a3.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Bottega Veneta",
+    "price": 640,
+    "oldPrice": 780,
+    "badge": "Endirim",
+    "rating": 4.3,
+    "reviews": 41,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Narinci"],
+    "description": "Topuğunda metalik zəncir detallı sivri burun stiletto.",
+    "fullDescription": "Alexander Wang-a xüsusi modern kəsim və metal vurğularla zənginləşdirilmiş model."
+  },
+  {
+    "id": "stilettos-044",
+    "name": "Anouk Patent Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/16189643-e2a0adc0e7c2cfe844025b781d69e234.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16189643-e2a0adc0e7c2cfe844025b781d69e234.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Fendi",
+    "price": 750,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 115,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "120mm yüksək şpilka dabanlı laklı stiletto.",
+    "fullDescription": "Klassik stiletto siluetinin ən kəskin və cazibədar forması."
+  },
+  {
+    "id": "stilettos-045",
+    "name": "Zərif Qayışlı Şpilka Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16185973-08251426c6189d33ed2b264d4273427a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16185973-08251426c6189d33ed2b264d4273427a.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Christian Louboutin",
+    "price": 890,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 88,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Topuqdan çarpaz qayışlı hamar dəri stiletto.",
+    "fullDescription": "İncə detalları ilə diqqət çəkən, ayağı mükəmməl qavrayan Saint Laurent tuflisi."
+  },
+  {
+    "id": "stilettos-046",
+    "name": "Şəffaf Vinil Şpilka Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16185308-7900967ef4106a548d2a3ee714a92779.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16185308-7900967ef4106a548d2a3ee714a92779.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Valentino Garavani",
+    "price": 580,
+    "oldPrice": 690,
+    "badge": "Endirim",
+    "rating": 4.1,
+    "reviews": 33,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Ağ"],
+    "description": "Şəffaf PVC panelli və kristal bəzəkli stiletto.",
+    "fullDescription": "Ayaqda yoxmuş kimi görünən, modern və minimalist dizaynlı ayaqqabı."
+  },
+  {
+    "id": "stilettos-047",
+    "name": "Aura Zamş Şpilka Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16185311-dd125b5c9e0622c9ae836c2b2942b3f3.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16185311-dd125b5c9e0622c9ae836c2b2942b3f3.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Manolo Blahnik",
+    "price": 790,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 90,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qümüş"],
+    "description": "Təbii zamş dəridən sivri burunlu klassik stiletto.",
+    "fullDescription": "Rəsmi və alicənab kombinlər üçün mükəmməl zamş fakturalı şpilka."
+  },
+  {
+    "id": "stilettos-048",
+    "name": "Ankle Wrap Dəri Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/351245-ea2c8ca992cec6ff961251964015b8e3.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/351245-ea2c8ca992cec6ff961251964015b8e3.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Tom Ford",
+    "price": 940,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 79,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Topuğa dolaşan uzun dəri lentli stiletto.",
+    "fullDescription": "Ayağı cazibədar şəkildə nümayiş etdirən uzun bağlamalı yüksək şpilka."
+  },
+  {
+    "id": "stilettos-049",
+    "name": "Feather Trim Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/16179923-f323ade87a699ebdd0d0050da2d64787.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16179923-f323ade87a699ebdd0d0050da2d64787.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Versace",
+    "price": 670,
+    "oldPrice": 800,
+    "badge": "Endirim",
+    "rating": 4.2,
+    "reviews": 25,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Çəhrayı", "Qara"],
+    "description": "Ön tərəfi təbii lələk bəzəkli ekstravaqant stiletto.",
+    "fullDescription": "Parti və parlaq tədbirlər üçün diqqət mərkəzində olacaq fərqli model."
+  },
+  {
+    "id": "stilettos-050",
+    "name": "Klassik Laklı Şpilka",
+    "image": "https://cdn2.emporium.az/i/p/500/16178947-e1a9ba764c951aab83e8d79e34025b96.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16178947-e1a9ba764c951aab83e8d79e34025b96.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Dolce & Gabbana",
+    "price": 780,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 140,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qara"],
+    "description": "Parlaq laklı dəridən sivri burun klassik tufli.",
+    "fullDescription": "Qarderobun baza hissəsini təşkil edən, heç vaxt dəbdən düşməyən model."
+  },
+  {
+    "id": "stilettos-036",
+    "name": "Kvadrat Uclu Laklı Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/259073-0784180b91be79e5b664179bd464f410.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/259073-0784180b91be79e5b664179bd464f410.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Prada",
+    "price": 870,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.5,
+    "reviews": 53,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Müasir kvadrat burun formasına malik parlaq laklı şpilka tufli.",
+    "fullDescription": "Prada-nın minimalist dizayn xəttini əks etdirən rahat və qəşəng ayaqqabı."
+  },
+  {
+    "id": "stilettos-037",
+    "name": "Orta Hündürlükdə Zərif Şpilka",
+    "image": "https://cdn2.emporium.az/i/p/500/261955-7bd64c0e5e84e81dc24b9e623a445d25.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/261955-7bd64c0e5e84e81dc24b9e623a445d25.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Jimmy Choo",
+    "price": 760,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 94,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Çəhrayı"],
+    "description": "Gündəlik istifadə üçün 70mm hündürlüyündə rahat şpilka daban tufli.",
+    "fullDescription": "Həm iş həyatı, həm də axşam gəzintiləri üçün ideal balans təmin edən model."
+  },
+  {
+    "id": "stilettos-038",
+    "name": "Open-Flank Dəri Stiletto",
+    "image": "https://cdn2.emporium.az/i/p/500/265719-825437543e0f3b11779d85934bdaddb9.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/265719-825437543e0f3b11779d85934bdaddb9.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Gianvito Rossi",
+    "price": 840,
+    "oldPrice": 960,
+    "badge": "Endirim",
+    "rating": 4.8,
+    "reviews": 71,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Bej"],
+    "description": "Yan tərəfləri açıq kəsimli zərif dəri şpilka tufli.",
+    "fullDescription": "Gianvito Rossi-nin ayağın təbii gözəlliyini ön plana çıxaran məşhur kəsim texnologiyası."
+  },
+  {
+    "id": "stilettos-039",
+    "name": "Kardigan Kəmərli Şpilka",
+    "image": "https://cdn2.emporium.az/i/p/500/307289-9050a645d18877a9f7e62df1b01b4268.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/307289-9050a645d18877a9f7e62df1b01b4268.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Valentino Garavani",
+    "price": 1020,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 112,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Bordo"],
+    "description": "Kiçik zəncirvari mismar (Rockstud) detallı incə kəmərli stiletto.",
+    "fullDescription": "Valentino Garavani-nin ikonik Rockstud estetikası ilə bəzədilmiş lüks şpilka."
+  },
+  {
+    "id": "stilettos-040",
+    "name": "Brocat Zərif Şpilka Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/297182-cc5d4aa1545447730cae40f704cc3971.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/297182-cc5d4aa1545447730cae40f704cc3971.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "stilettos",
+    "designer": "Dolce & Gabbana",
+    "price": 980,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 48,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Narıncı"],
+    "description": "Barokko üslubunda qızılı naxışlı brokat parçadan hazırlanmış stiletto.",
+    "fullDescription": "Dolce & Gabbana-nın Sicilian dəbdəbəsini və kral estetikasını əks etdirən möhtəşəm model."
+  },
+  {
+    "id": "sneakers-001",
+    "name": "Monolith Qalın Altlıqlı Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16210374-ecae9bdbdeb5993ae5be0578e1993267.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16210374-ecae9bdbdeb5993ae5be0578e1993267.jpg",
+      "https://cdn2.emporium.az/i/p/500/16208555-e316920f42304cd9374de3508e58cb92.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Prada",
+    "price": 650,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 203,
+    "sizes": ["35", "36", "37", "38", "39", "40", "41"],
+    "colors": ["Bej","Ağ"],
+    "description": "Tor və rezinləşdirilmiş dəri detallı, Protektorlu həcmli krossovka.",
+    "fullDescription": "Prada Monolith krossovkası nəfəsalan tor parça və rezinləşdirilmiş dəri detalların sintezidir."
+  },
+  {
+    "id": "sneakers-002",
+    "name": "Court Classic Dəri Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16211002-b4625fd3e398380055973cfae3d7f4ac.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16211002-b4625fd3e398380055973cfae3d7f4ac.jpg",
+      "https://cdn2.emporium.az/i/p/500/16210798-8e6a3b5ad48f6b63f76e07c917c711ba.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Saint Laurent",
+    "price": 495,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.2,
+    "reviews": 145,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Ağ", "Bej"],
+    "description": "Vintage effektli rezin altlığı olan aşağı kəsimli hamar dəri krossovka.",
+    "fullDescription": "Saint Laurent brendindən retro üslublu minimal aşağı kəsimli krossovka."
+  },
+  {
+    "id": "sneakers-003",
+    "name": "Runner Suede və Tor Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16206771-c0e79cff7b2557f9c2477d3431d466be.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206771-c0e79cff7b2557f9c2477d3431d466be.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Alexander Wang",
+    "price": 380,
+    "oldPrice": 475,
+    "badge": "Endirim",
+    "rating": 4.0,
+    "reviews": 78,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Zamş və tor panellərin birləşməsindən yaradılmış retro style krossovka.",
+    "fullDescription": "Alexander Wang imzalı retro qaçış ayaqqabısı dizaynı."
+  },
+  {
+    "id": "sneakers-004",
+    "name": "Pillow Həcmli Dəri Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16208554-1f163e1dc95502a857932e2aad7db2bf.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16208554-1f163e1dc95502a857932e2aad7db2bf.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Bottega Veneta",
+    "price": 790,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 62,
+    "sizes": ["36", "37", "38", "39", "40", "41", "42"],
+    "colors": ["Bej"],
+    "description": "Yumşaq qabarıq dəridən olan modern urban krossovka.",
+    "fullDescription": "Maksimum daxili rahatlıq və futuristik dizaynı bir araya gətirən model."
+  },
+  {
+    "id": "sneakers-005",
+    "name": "Match FF Loqolu Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16208574-f453c08b83a79d5dcd13990d540f98cf.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16208574-f453c08b83a79d5dcd13990d540f98cf.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Fendi",
+    "price": 680,
+    "oldPrice": 820,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 89,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Bej"],
+    "description": "Zamş və dəri örtüklü, FF motivli həcmli krossovka.",
+    "fullDescription": "Fendi-nin gündəlik istifadə üçün nəzərdə tutulmuş idman üslublu ayaqqabısı."
+  },
+  {
+    "id": "sneakers-006",
+    "name": "Hawaii Kristal Bəzəkli Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16208508-a9783b484ec746f3da18751e4f1c0a76.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16208508-a9783b484ec746f3da18751e4f1c0a76.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Jimmy Choo",
+    "price": 590,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 110,
+    "sizes": ["35", "36", "37", "38", "39"],
+    "colors": ["Ağ"],
+    "description": "Dabanında kristal bəzəklər olan ağ dəri krossovka.",
+    "fullDescription": "İdman üslubuna lüks və parlaqlıq qatacaq zərif dabanlı model."
+  },
+  {
+    "id": "sneakers-007",
+    "name": "Cloudbust Thunder Futuristik Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16206645-00a9ce455e3d7033a799ff02db61a235.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206645-00a9ce455e3d7033a799ff02db61a235.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Prada",
+    "price": 890,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 175,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qəhvəyi"],
+    "description": "3D rezin detallı və heykəltəraşlıq altlıqlı krossovka.",
+    "fullDescription": "Prada-nın ən diqqətçəkən və fərqli dizayna malik kult krossovkası."
+  },
+  {
+    "id": "sneakers-008",
+    "name": "SL24 Yüksək Boğazlı Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16206723-02d24584a0244b36fe24adc6d249e5bd.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206723-02d24584a0244b36fe24adc6d249e5bd.jpg",
+      "https://cdn2.emporium.az/i/p/500/16206766-d5b6903d6b16961603cdc168cdd26003.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Saint Laurent",
+    "price": 620,
+    "oldPrice": 740,
+    "badge": "Endirim",
+    "rating": 4.3,
+    "reviews": 53,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Ağ","Çəhrayı"],
+    "description": "Baskettbol üslublu yüksək boğazlı vintage krossovka.",
+    "fullDescription": "Köhnəlmiş dəri effekti verilmiş rahat və dəbli idman ayaqqabısı."
+  },
+  {
+    "id": "sneakers-009",
+    "name": "Stadium Zamş Detallı Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16206747-b3af483e34ba0d87badddd2976cbd060.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206747-b3af483e34ba0d87badddd2976cbd060.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Alexander Wang",
+    "price": 410,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.1,
+    "reviews": 36,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qümüş"],
+    "description": "Yüngül rezin altlığı olan zamş panelli krossovka.",
+    "fullDescription": "Gündəlik aktiv istifadə üçün uyğun olan yüngül konstruksiyalı model."
+  },
+  {
+    "id": "sneakers-010",
+    "name": "Speedster Dəri Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16206780-6a171727282dd1d8bded321df0199b86.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206780-6a171727282dd1d8bded321df0199b86.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Bottega Veneta",
+    "price": 710,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.5,
+    "reviews": 48,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Multi"],
+    "description": "Çoxrəngli bağcıqlı və hamar dəri örtüklü krossovka.",
+    "fullDescription": "Təbii materialların yüksək keyfiyyətli işlənməsi ilə hazırlanan model."
+  },
+  {
+    "id": "sneakers-011",
+    "name": "Flow Rezin Altlıqlı Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16204369-cc64b03c380f4fe0ac040abcee19b839.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16204369-cc64b03c380f4fe0ac040abcee19b839.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Fendi",
+    "price": 750,
+    "oldPrice": 880,
+    "badge": "Endirim",
+    "rating": 4.6,
+    "reviews": 67,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Yan tərəfi zəncirbəndli və neopren panelli krossovka.",
+    "fullDescription": "Ayağı çorab kimi saran və amortizasiyalı altlığı olan Fendi krossovkası."
+  },
+  {
+    "id": "sneakers-012",
+    "name": "Memphis Həcmli Altlıq Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16206502-dc71bc8d49a00ef8a86d1482912031b8.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206502-dc71bc8d49a00ef8a86d1482912031b8.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Jimmy Choo",
+    "price": 640,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 59,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qəhvəyi"],
+    "description": "Erqonomik daban dizaynlı və neoprene panelli krossovka.",
+    "fullDescription": "Yüngül materiallardan hazırlanmış dinamik şəhər stili ayaqqabısı."
+  },
+  {
+    "id": "sneakers-013",
+    "name": "Prax 01 Tekstil Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16202652-eec7a001fc459f96d020f1dbb500e114.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16202652-eec7a001fc459f96d020f1dbb500e114.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Prada",
+    "price": 620,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.5,
+    "reviews": 92,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Göy"],
+    "description": "Re-Nylon parçadan və rezin loqolu sport krossovka.",
+    "fullDescription": "Prada-nın ekoloji təkrar emal edilmiş neylon materialından işlənmiş krossovkası."
+  },
+  {
+    "id": "sneakers-014",
+    "name": "Venice Slip-On Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16205242-3aa402dc4373fc0246ddc7769bb5a1bb.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16205242-3aa402dc4373fc0246ddc7769bb5a1bb.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Saint Laurent",
+    "price": 450,
+    "oldPrice": 530,
+    "badge": "Endirim",
+    "rating": 4.2,
+    "reviews": 40,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Bej"],
+    "description": "Bağcıqsız, elastik yan panelli dəri slip-on.",
+    "fullDescription": "Geyinilməsi çox asan olan, minimalist dəri idman ayaqqabısı."
+  },
+  {
+    "id": "sneakers-015",
+    "name": "Kombinə Zamş Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16201346-3661db681468d9a9dec2762b522e1411.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16201346-3661db681468d9a9dec2762b522e1411.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Alexander Wang",
+    "price": 390,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.0,
+    "reviews": 31,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qümüş"],
+    "description": "İki tonlu zamş panelli fərqli dizaynlı krossovka.",
+    "fullDescription": "Küçə moda dəbinin aktiv elementlərini özündə birləşdirən model."
+  },
+  {
+    "id": "sneakers-016",
+    "name": "Climber Protektorlu Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16200522-cb33bb1d1c739beda11ef0d9f53ebd84.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16200522-cb33bb1d1c739beda11ef0d9f53ebd84.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Bottega Veneta",
+    "price": 820,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 55,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Multi"],
+    "description": "Dağçılıq stilində protektorlu rezin altlıqlı krossovka.",
+    "fullDescription": "Möhkəm tutuş və hava şəraitinə dözümlü xüsusi material seçimi."
+  },
+  {
+    "id": "sneakers-017",
+    "name": "Force Dəri Aşağı Kəsim Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16195266-222c0e65e1b2074b11860c50dfba818d.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16195266-222c0e65e1b2074b11860c50dfba818d.jpg",
+      "https://cdn2.emporium.az/i/p/500/16195266-222c0e65e1b2074b11860c50dfba818d.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Fendi",
+    "price": 690,
+    "oldPrice": 810,
+    "badge": "Endirim",
+    "rating": 4.4,
+    "reviews": 71,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qırmızı", "Göy"],
+    "description": "Yan tərəfində FF reliesi olan klassik dəri krossovka.",
+    "fullDescription": "Həm idman şalvarları, həm də cinslərlə rahat uyğunlaşan universal model."
+  },
+  {
+    "id": "sneakers-018",
+    "name": "Verona Örmə Çorab Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16195266-222c0e65e1b2074b11860c50dfba818d.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16195266-222c0e65e1b2074b11860c50dfba818d.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Jimmy Choo",
+    "price": 580,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 104,
+    "sizes": ["35", "36", "37", "38", "39"],
+    "colors": ["Bej"],
+    "description": "Toxuma parçadan parlaq detallı çorab stil krossovka.",
+    "fullDescription": "Ayağa elastik uyğunlaşan və ultra yüngül daban altlığına malik olan model."
+  },
+  {
+    "id": "sneakers-019",
+    "name": "Title Loqo Bandlı Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16187290-00070bd40e3a8b8fc3afcc51a9856729.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16187290-00070bd40e3a8b8fc3afcc51a9856729.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Prada",
+    "price": 570,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.3,
+    "reviews": 60,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Ağ"],
+    "description": "Kətan parçadan təkər naxışlı rezin altlıqlı krossovka.",
+    "fullDescription": "Prada-nın casual kolleksiyasının ən sevilən kətan idman ayaqqabılarından biri."
+  },
+  {
+    "id": "sneakers-020",
+    "name": "Malibu Kətan Krossovka",
+    "image": "https://cdn2.emporium.az/i/p/500/16183411-599d42ef5f1dc731fdfdb8a69669b399.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16183411-599d42ef5f1dc731fdfdb8a69669b399.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "designer": "Saint Laurent",
+    "price": 420,
+    "oldPrice": 490,
+    "badge": "Endirim",
+    "rating": 4.1,
+    "reviews": 38,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Ağ"],
+    "description": "Yan tərəfində Saint Laurent imzası olan kətan krossovka.",
+    "fullDescription": "Yay ayları üçün yüngül, nəfəsalan və üslublu kətan ayaqqabı."
+  },
+
+  {
+    "id": "pumps-001",
+    "name": "FF Platformalı Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16185960-6a3885440ec11262f27bad0a2056e740.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16185960-6a3885440ec11262f27bad0a2056e740.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Fendi",
+    "price": 780,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 87,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Daban hissəsində relyefli FF motivi işlənmiş platformalı tufli.",
+    "fullDescription": "Fendi-dən hamar dəri platformalı zərif tufli. Daban hissəsində relyefli FF motivi var."
+  },
+  {
+    "id": "pumps-002",
+    "name": "Plexi Şəffaf Dabanlı Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16182402-ca8d2cb2e8dbb446d3f2f20470fcfc60.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16182402-ca8d2cb2e8dbb446d3f2f20470fcfc60.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Prada",
+    "price": 850,
+    "oldPrice": 1065,
+    "badge": "Endirim",
+    "rating": 4.4,
+    "reviews": 112,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qəhvəyi"],
+    "description": "Şəffaf pleksiklas blok dabanı olan laklı dəri tufli.",
+    "fullDescription": "Prada-nın parlaq laklı dəri və avro-modern pleksiklas daban kombinasiyası."
+  },
+  {
+    "id": "pumps-003",
+    "name": "Klassik Nappa Dəri Pump",
+    "image": "https://cdn2.emporium.az/i/p/500/16185172-eed73c52f7fd9fd8b7ebc609e84b133e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16185172-eed73c52f7fd9fd8b7ebc609e84b133e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Jimmy Choo",
+    "price": 690,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 130,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Bej"],
+    "description": "Müstəsna komfortlu, orta dabanlı nappa tufli.",
+    "fullDescription": "Ofis və gündəlik rəsmi geyimlər üçün imtina edilməz zəriflik."
+  },
+  {
+    "id": "pumps-004",
+    "name": "Kvadrat Blok Daban Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/16203248-4bde9d80d3c26d143abb0419281bf473.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16203248-4bde9d80d3c26d143abb0419281bf473.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Bottega Veneta",
+    "price": 820,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.5,
+    "reviews": 64,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Kvadrat burunlu və qalın sabit dabanlı dəri tufli.",
+    "fullDescription": "Stabil gediş və unikal dizayn axtaranlar üçün xüsusi Bottega modeli."
+  },
+  {
+  "id": "pumps-005",
+  "name": "Metal Topuqlu Dəri Pump",
+  "image": "https://cdn2.emporium.az/i/p/500/254133-519df763b24a78c5814b07d0a84b087e.jpg",
+  "images": [
+    "https://cdn2.emporium.az/i/p/500/254133-519df763b24a78c5814b07d0a84b087e.jpg"
+  ],
+  "category": "shoes",
+  "subcategory": "pumps",
+  "designer": "Saint Laurent",
+  "price": 750,
+  "oldPrice": 890,
+  "badge": "Endirim",
+  "rating": 4.3,
+  "reviews": 51,
+  "sizes": ["36", "37", "38", "39", "40"],
+  "colors": [ "Qara"],
+  "description": "Ön hissəsində kiçik qızılı toqqa olan zamş tufli.",
+  "fullDescription": "Zamş dərinin alicənablığı və metallik vurğuların sintezi."
+},
+  {
+    "id": "pumps-006",
+    "name": "Grace Dəri Blok Daban Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/254133-519df763b24a78c5814b07d0a84b087e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/254133-519df763b24a78c5814b07d0a84b087e.jpg",
+      "https://cdn2.emporium.az/i/p/500/333770-132cde44558af21b02b363047330413e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Alexander Wang",
+    "price": 520,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.1,
+    "reviews": 39,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": [ "Qara"],
+    "description": "Gümüşü metal örtüklü dabanı olan dəri tufli.",
+    "fullDescription": "Gündəlik üslubda dəbdəbəli vurğular yaratmaq üçün ideal seçim."
+  },
+  {
+    "id": "pumps-007",
+    "name": "Mary Jane Qayışlı Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/337947-04a1e9a7672973c181d707bd8998ba67.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/337947-04a1e9a7672973c181d707bd8998ba67.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Prada",
+    "price": 890,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 118,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Ağız hissəsi kəmərli retro Mary Jane tipli tufli.",
+    "fullDescription": "Prada tərəfindən yenidən şərh olunan zamansız retro Mary Jane modeli."
+  },
+  {
+    "id": "pumps-008",
+    "name": "Pattent Slingback Pump",
+    "image": "https://cdn2.emporium.az/i/p/500/345558-41d28862cf6968bc151bd67142403645.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/345558-41d28862cf6968bc151bd67142403645.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Fendi",
+    "price": 790,
+    "oldPrice": 920,
+    "badge": "Endirim",
+    "rating": 4.4,
+    "reviews": 73,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Bej"],
+    "description": "Laklı dəridən, arxası açıq ortaboy dabanlı tufli.",
+    "fullDescription": "Zərif rəng palitrası ilə yaz-yay aylarının əvəzolunmaz parçası."
+  },
+  {
+    "id": "pumps-009",
+    "name": "Ruffle Ətəkli Zamş Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/345557-b67cf89806a33470c440d20f2465b80b.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/345557-b67cf89806a33470c440d20f2465b80b.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Jimmy Choo",
+    "price": 840,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 82,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Kənarları büzməli atlas parçadan romantik tufli.",
+    "fullDescription": "Özəl gecələrdə diqqət cəlb etmək üçün xüsusi işlənmiş dabanlı model."
+  },
+  {
+    "id": "pumps-010",
+    "name": "Minimalist Dəri Blok Daban",
+    "image": "https://cdn2.emporium.az/i/p/500/337847-01bed5b888fdf8250f66cff98b7bb0fe.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/337847-01bed5b888fdf8250f66cff98b7bb0fe.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Saint Laurent",
+    "price": 710,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.5,
+    "reviews": 57,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Dördbucaqlı dabanlı və hamar dana dərisi tufli.",
+    "fullDescription": "Sadəlikdə gizlənən lüks anlayışının tam təcəssümü."
+  },
+  {
+    "id": "pumps-011",
+    "name": "Alçaq Daban Dəri Pump",
+    "image": "https://cdn2.emporium.az/i/p/500/337845-735981cd14e6794616ccd6427dcbb111.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/337845-735981cd14e6794616ccd6427dcbb111.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Bottega Veneta",
+    "price": 760,
+    "oldPrice": 880,
+    "badge": "Endirim",
+    "rating": 4.3,
+    "reviews": 44,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "5 sm rahat dabanlı, elastik kənarlı dəri tufli.",
+    "fullDescription": "Gün boyu ayağı yormayan rahat daxili quruluşa malikdir."
+  },
+  {
+    "id": "pumps-012",
+    "name": "Zəncirli Topuq Qayışlı Pump",
+    "image": "https://cdn2.emporium.az/i/p/500/337847-01bed5b888fdf8250f66cff98b7bb0fe.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/337847-01bed5b888fdf8250f66cff98b7bb0fe.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Alexander Wang",
+    "price": 590,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.2,
+    "reviews": 35,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Topuq qayışı metal zəncirlə işlənmiş dəri tufli.",
+    "fullDescription": "Müasir şəhər stilinə uyğun gələn üsyankar və şıq görünüş."
+  },
+  {
+    "id": "pumps-013",
+    "name": "Triangle Heeled Pump",
+    "image": "https://cdn2.emporium.az/i/p/500/324385-935b49d72314ecfb525751e859a16174.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/324385-935b49d72314ecfb525751e859a16174.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Prada",
+    "price": 920,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 125,
+    "sizes": ["35.5", "36", "37", "38", "39"],
+    "colors": ["Bordo"],
+    "description": "Üçbucaq formalı dabanlı modern dəri tufli.",
+    "fullDescription": "Prada geometrik xəttlərini ayaqqabı dizaynında mükəmməl əks etdirir."
+  },
+  {
+    "id": "pumps-014",
+    "name": "Bantlı Saten Pump",
+    "image": "https://cdn2.emporium.az/i/p/500/313784-933704c7757a77e6ad9cac1e5b7fbf3e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/313784-933704c7757a77e6ad9cac1e5b7fbf3e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Jimmy Choo",
+    "price": 770,
+    "oldPrice": 910,
+    "badge": "Endirim",
+    "rating": 4.6,
+    "reviews": 69,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Önündə böyük saten bant olan dabanlı tufli.",
+    "fullDescription": "Xüsusi tədbirlərdə geyiminizə rəng qatacaq gözəçarpan aksesuar."
+  },
+  {
+    "id": "pumps-015",
+    "name": "Opyum Slingback Pump",
+    "image": "https://cdn2.emporium.az/i/p/500/296409-beac3c9d0ae91dbb8382e1bd50c53042.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/296409-beac3c9d0ae91dbb8382e1bd50c53042.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Saint Laurent",
+    "price": 950,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.9,
+    "reviews": 142,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "YSL dabanlı, arxası açıq laklı tufli.",
+    "fullDescription": "Saint Laurent бреndinin zamansız imza modellərindən biri."
+  },
+  {
+    "id": "pumps-016",
+    "name": "Jakard FF Monogram Pump",
+    "image": "https://cdn2.emporium.az/i/p/500/250150-8e75466e01a109c66d6158ef8b66d285.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/250150-8e75466e01a109c66d6158ef8b66d285.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Fendi",
+    "price": 810,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.4,
+    "reviews": 50,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Ağ"],
+    "description": "Jakard toxumalı FF naxışlı orta daban tufli.",
+    "fullDescription": "Gündəlik eleqantlığı dəbdəbəli toxuma materialı ilə təmin edir."
+  },
+  {
+    "id": "pumps-017",
+    "name": "Soft Wave Dəri Pump",
+    "image": "https://cdn2.emporium.az/i/p/500/292617-9d5cddfd45400ea83eb9fe9e90a7b4d4.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/292617-9d5cddfd45400ea83eb9fe9e90a7b4d4.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Bottega Veneta",
+    "price": 860,
+    "oldPrice": 990,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 61,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Bej"],
+    "description": "Dalğavari kəsimli, yumşaq dana dərisindən tufli.",
+    "fullDescription": "Ayaq quruluşunu axıcı siluetlə sarıyan modelyer dizaynı."
+  },
+  {
+    "id": "pumps-018",
+    "name": "Kvadrat Burun Metalik Pump",
+    "image": "https://cdn2.emporium.az/i/p/500/275982-3fc61bb42256d29b1a69fa91a0580c83.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/275982-3fc61bb42256d29b1a69fa91a0580c83.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Alexander Wang",
+    "price": 540,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.1,
+    "reviews": 28,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qümüş"],
+    "description": "Gümüşü parlaq örtüklü kvadrat burunlu tufli.",
+    "fullDescription": "Parti və klub geyimlərini tamamlayacaq müasir görünüş."
+  },
+  {
+    "id": "pumps-019",
+    "name": "Klassik Zamş Dabanlı Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/296270-b76a34977cdfb78afb017cbaa17d6e1e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/296270-b76a34977cdfb78afb017cbaa17d6e1e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Jimmy Choo",
+    "price": 720,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 93,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Yüksək keyfiyyətli təbii zamşdan hazırlanmış tufli.",
+    "fullDescription": "Universal istifadəyə uyğun olan klassik zamş dikdaban tufli."
+  },
+  {
+    "id": "pumps-020",
+    "name": "Brush Dəri Platforma Pump",
+    "image": "https://cdn2.emporium.az/i/p/500/346350-0ed405de0f527151a08acd06a584cbb5.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/346350-0ed405de0f527151a08acd06a584cbb5.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "pumps",
+    "designer": "Prada",
+    "price": 940,
+    "oldPrice": 1100,
+    "badge": "Endirim",
+    "rating": 4.8,
+    "reviews": 110,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Cilalanmış dəridən qalın platformalı tufli.",
+    "fullDescription": "Prada-nın məşhur cilalanmış fakturalı dərisindən ekstravaqant platforma."
+  },
+
+
+  {
+    "id": "flats-001",
+    "name": "Lauren Dalğalı Baletka",
+    "image": "https://cdn2.emporium.az/i/p/500/16204129-d7e1d3ca6d889877de17c705822498ea.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16204129-d7e1d3ca6d889877de17c705822498ea.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Bottega Veneta",
+    "price": 420,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.3,
+    "reviews": 65,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Ağ"],
+    "description": "Dalğavari kənarları və incə bant detalı olan nappa dəri baletka.",
+    "fullDescription": "İncə görünümlü, daxili quzu dərisindən hazırlanmış rahat yastıbaletka."
+  },
+  {
+    "id": "flats-002",
+    "name": "Loqo Toqqalı Dəri Baletka",
+    "image": "https://cdn2.emporium.az/i/p/500/16206521-1402912dce34c7ce1d8472a04bf8580f.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206521-1402912dce34c7ce1d8472a04bf8580f.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Prada",
+    "price": 580,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.5,
+    "reviews": 43,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Bordo"],
+    "description": "Ön tərəfində metalik emal loqo olan zərif dəri baletka.",
+    "fullDescription": "Prada-dan gündəlik eleqantlıq üçün ideal yastıbaletka."
+  },
+  {
+    "id": "flats-003",
+    "name": "FF Jakard Yastı Baletka",
+    "image": "https://cdn2.emporium.az/i/p/500/16203919-a042cdb4298d0fe71fbada7228ff29ff.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16203919-a042cdb4298d0fe71fbada7228ff29ff.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Fendi",
+    "price": 510,
+    "oldPrice": 620,
+    "badge": "Endirim",
+    "rating": 4.2,
+    "reviews": 38,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qoy"],
+    "description": "FF loqo motivli parça və dəri haşiyəli baletka.",
+    "fullDescription": "İkonik brend motivləri ilə bəzədilmiş yüngül və narahatlıq yaratmayan model."
+  },
+  {
+    "id": "flats-004",
+    "name": "Kristal Toqqalı Zamş Baletka",
+    "image": "https://cdn2.emporium.az/i/p/500/16205238-d58d5dda9326cb78ace67edc92cc915c.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16205238-d58d5dda9326cb78ace67edc92cc915c.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Jimmy Choo",
+    "price": 640,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 89,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Qoy"],
+    "description": "Sivri burunlu, kristal toqqa bəzəkli zamş baletka.",
+    "fullDescription": "Həm gündüz, həm də gecə geyimləri üçün parlaq yastıbaletka seçimi."
+  },
+  {
+    "id": "flats-005",
+    "name": "Kvadrat Burun Hörümə Muli",
+    "image": "https://cdn2.emporium.az/i/p/500/16201369-48b333a98b53d75ea5bee46e95850c1e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16201369-48b333a98b53d75ea5bee46e95850c1e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Bottega Veneta",
+    "price": 690,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 72,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Bej"],
+    "description": "Arxası açıq, intrecciato texnikalı yastı muli.",
+    "fullDescription": "Ayağa asan geyinilən və unikal üslub yaradan Bottega mulisi."
+  },
+  {
+    "id": "flats-006",
+    "name": "Klassik Dəri Pointed Flat",
+    "image": "https://cdn2.emporium.az/i/p/500/16201290-c0518ad081acdf542f8534aeecac9c68.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16201333-73909da510cc51ccb28149a3c9307def.jpg"
+      
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Saint Laurent",
+    "price": 550,
+    "oldPrice": 650,
+    "badge": "Endirim",
+    "rating": 4.4,
+    "reviews": 51,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": [ "Narıncı"],
+    "description": "Sivri burunlu, kiçik qızılı loqolu yastı tufli.",
+    "fullDescription": "Minimalist stili üstün tutanlar üçün zamansız klassik model."
+  },
+  {
+    "id": "flats-007",
+    "name": "Metal Zəncirli Dəri Baletka",
+    "image": "https://cdn2.emporium.az/i/p/500/16190035-6b6d9521cc18d2f745749dc433bed8c9.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16190035-6b6d9521cc18d2f745749dc433bed8c9.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Alexander Wang",
+    "price": 390,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.0,
+    "reviews": 27,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Ön hissəsində qalın gümüşü zəncir olan baletka.",
+    "fullDescription": "Üsyankar şəhər stilini yastıbaletka rahatlığı ilə birləşdirir."
+  },
+  {
+    "id": "flats-008",
+    "name": "Plexi Şəffaf Kənarlı Flat",
+    "image": "https://cdn2.emporium.az/i/p/500/16196014-487c453c4aee0ea49e4fdace965b8b5f.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16196014-487c453c4aee0ea49e4fdace965b8b5f.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Prada",
+    "price": 610,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.5,
+    "reviews": 40,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qəhvəyi"],
+    "description": "Yan panelləri şəffaf PVC-dən işlənmiş yastı tufli.",
+    "fullDescription": "Modern kəsim və hava keçirən rahat dizayn."
+  },
+  {
+    "id": "flats-009",
+    "name": "Bantlı Saten Yastı Tufli",
+    "image": "https://cdn2.emporium.az/i/p/500/274188-654135efcec29e9540888c742dcdb1d0.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/274188-654135efcec29e9540888c742dcdb1d0.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Jimmy Choo",
+    "price": 570,
+    "oldPrice": 680,
+    "badge": "Endirim",
+    "rating": 4.3,
+    "reviews": 58,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Nəfis ipək satendən hazırlanmış incə baletka.",
+    "fullDescription": "Ayaqda dözümlü və olduqca incə görünən bayramstilli model."
+  },
+  {
+    "id": "flats-010",
+    "name": "Dəri Espadril Yastı Ayaqqabı",
+    "image": "https://cdn2.emporium.az/i/p/500/16189782-6d203022cef156e7f993bb91937bef86.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16189782-6d203022cef156e7f993bb91937bef86.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Fendi",
+    "price": 480,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.2,
+    "reviews": 33,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": [ "Bej"],
+    "description": "Altlığı çətənə ipi ilə hörülmüş dəri espadril.",
+    "fullDescription": "Yay istilərində təbii material rahatlığı bəxş edən Fendi espadrili."
+  },
+  {
+    "id": "flats-011",
+    "name": "Kvadrat Burun Yumşaq Baletka",
+    "image": "https://cdn2.emporium.az/i/p/500/16203921-8fc6c68cc06ffd105fe590b298008a12.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16203921-8fc6c68cc06ffd105fe590b298008a12.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Bottega Veneta",
+    "price": 630,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 80,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": [ "Qəhvəyi"],
+    "description": "Elastik kənarlı super yumşaq nappa baletka.",
+    "fullDescription": "Əlcək kimi ayağa oturan maksimum konfortlu baletka."
+  },
+  {
+    "id": "flats-012",
+    "name": "Kətan və Dəri Kombinə Flat",
+    "image": "https://cdn2.emporium.az/i/p/500/16189010-5ddaf3ea3c333bdee7b8c63e30e7b412.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16189010-5ddaf3ea3c333bdee7b8c63e30e7b412.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Saint Laurent",
+    "price": 490,
+    "oldPrice": 580,
+    "badge": "Endirim",
+    "rating": 4.1,
+    "reviews": 29,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Bej"],
+    "description": "Təbii kətan parça və dəri burunlu yastı tufli.",
+    "fullDescription": "Yay mövsümü üçün təbii teksturalı və dəbli seçim."
+  },
+  {
+    "id": "flats-013",
+    "name": "Logolu Rezin Yastı Muli",
+    "image": "https://cdn2.emporium.az/i/p/500/16189010-5ddaf3ea3c333bdee7b8c63e30e7b412.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16189010-5ddaf3ea3c333bdee7b8c63e30e7b412.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Alexander Wang",
+    "price": 320,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 3.9,
+    "reviews": 21,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Bej"],
+    "description": "Suya dözümlü, loqo naxışlı rezin yastı muli.",
+    "fullDescription": "Çimərlik və hovuz kənarı üçün rahat rezin aksesuar."
+  },
+  {
+    "id": "flats-014",
+    "name": "Cilalanmış Dəri Pointed Flat",
+    "image": "https://cdn2.emporium.az/i/p/500/16185972-10535187b2df0c90475d986d32b07a80.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16185972-10535187b2df0c90475d986d32b07a80.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Prada",
+    "price": 670,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 66,
+    "sizes": ["35.5", "36", "37", "38", "39"],
+    "colors": ["Qəhvəyi"],
+    "description": "Sivri burunlu cilalanmış spazzalato dəri baletka.",
+    "fullDescription": "Prada-nın parlaq dəri emalı ilə hazırlanan gözəçarpan yastıbaletka."
+  },
+  {
+    "id": "flats-015",
+    "name": "Perforasiyalı Dəri Baletka",
+    "image": "https://cdn2.emporium.az/i/p/500/16185961-c70ac4cdf86719e25c4aaf9dc7c3cf87.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16185961-c70ac4cdf86719e25c4aaf9dc7c3cf87.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Jimmy Choo",
+    "price": 530,
+    "oldPrice": 620,
+    "badge": "Endirim",
+    "rating": 4.2,
+    "reviews": 37,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Nəfəsalan deşikli naxışlı dəri baletka.",
+    "fullDescription": "İsti günlərdə ayağın hava almasını təmin edən dəlikli dizayn."
+  },
+  {
+    "id": "flats-016",
+    "name": "Bantlı Dəri Mary Jane Flat",
+    "image": "https://cdn2.emporium.az/i/p/500/16181514-d91780b0cf531ce1647f39fde7ea131e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16181514-d91780b0cf531ce1647f39fde7ea131e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Fendi",
+    "price": 590,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 49,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": [ "Qara"],
+    "description": "İncə kəmərli və balaca toqqalı dəri flat.",
+    "fullDescription": "Zərif qadın üslubunu tamamlayan retro formalı yastı tufli."
+  },
+  {
+    "id": "flats-017",
+    "name": "Dəri Intrecciato Flat",
+    "image": "https://cdn2.emporium.az/i/p/500/16180179-c2a7b23db612e2d4d10ac1a0965f3d8e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16180179-c2a7b23db612e2d4d10ac1a0965f3d8e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Bottega Veneta",
+    "price": 750,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 91,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Gümüşü və qızılı tonda hörülmüş dəri baletka.",
+    "fullDescription": "Parıltılı metalik dəri hörüməsi ilə fərqlənən təkrarolunmaz model."
+  },
+  {
+    "id": "flats-018",
+    "name": "Zamş Slingback Flat",
+    "image": "https://cdn2.emporium.az/i/p/500/16179914-ffb4813c60530ac6fa7149c5a3d1de20.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16179914-ffb4813c60530ac6fa7149c5a3d1de20.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Saint Laurent",
+    "price": 520,
+    "oldPrice": 610,
+    "badge": "Endirim",
+    "rating": 4.3,
+    "reviews": 42,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qırmızı"],
+    "description": "Arxası açıq, rezini elastik zamş yastı tufli.",
+    "fullDescription": "İncə kəsimi ilə ayaqda çox eleqant görünən yastıbaletka."
+  },
+  {
+    "id": "flats-019",
+    "name": "Kalf Daxili Zəfəran Muli",
+    "image": "https://cdn2.emporium.az/i/p/500/351715-5a77743a6f6a0f657c6e4993326aa6e4.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/351715-5a77743a6f6a0f657c6e4993326aa6e4.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Alexander Wang",
+    "price": 450,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.1,
+    "reviews": 30,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Yaşıl"],
+    "description": "İçi yumşaq tüklü, dəri örtüklü yastı muli.",
+    "fullDescription": "Payız mövsümü üçün rahatlıq və istilik vəd edən stil."
+  },
+  {
+    "id": "flats-020",
+    "name": "Minimalist Dəri Slip-On Flat",
+    "image": "https://cdn2.emporium.az/i/p/500/248299-3bf8d8e38507232d5983a442346037f2.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/248299-3bf8d8e38507232d5983a442346037f2.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "flats",
+    "designer": "Prada",
+    "price": 640,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.5,
+    "reviews": 53,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Tikişsiz kənarlı, hamar dana dərisi yastı tufli.",
+    "fullDescription": "Gündəlik qarderobun baza elementinə çevriləcək minimalist baletka."
+  },
+
+  {
+    "id": "loafers-001",
+    "name": "Classic Metalic Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16205938-ac400adb27d44f7f1420aeef5a050f30.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16205938-ac400adb27d44f7f1420aeef5a050f30.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Bottega Veneta",
+    "price": 720,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 91,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": [ "Qəhvəyi"],
+    "description": "Metal toqqa detalı olan klassik cilalanmış dəri lofer.",
+    "fullDescription": "Cilalanmış dana dərisindən hazırlanmış klassik lofer."
+  },
+  {
+    "id": "loafers-002",
+    "name": "Monoqramlı Dəri Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16206889-3512d4f77a8a26d9b1fd45f7916a48d3.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206889-3512d4f77a8a26d9b1fd45f7916a48d3.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Saint Laurent",
+    "price": 590,
+    "oldPrice": 740,
+    "badge": "Endirim",
+    "rating": 4.4,
+    "reviews": 56,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Üzərində qızılı YSL monoqramı olan hamar dana dərisi lofer.",
+    "fullDescription": "Saint Laurent imzalı hamar dana dərisi lofer. Dil hissəsində qızılı tonda monoqram var."
+  },
+  {
+    "id": "loafers-003",
+    "name": "Qalın Altlıqlı Loqo Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16205088-74adab863e39d1ca71a0c55493b0a1ce.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16205088-74adab863e39d1ca71a0c55493b0a1ce.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Prada",
+    "price": 950,
+    "oldPrice": 1100,
+    "badge": "Endirim",
+    "rating": 4.8,
+    "reviews": 230,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Üçbucaq emal loqolu cilalanmış dəridən həcmli lofer.",
+    "fullDescription": "Prada-nın məşhur cilalanmış dəri emallı üçbucaq loqolu qalın altlıqlı loferi."
+  },
+  {
+    "id": "loafers-004",
+    "name": "Intrecciato Dəri Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16201953-531bd53e0ec00c6942368cf13b949f2c.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16201953-531bd53e0ec00c6942368cf13b949f2c.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Bottega Veneta",
+    "price": 810,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 75,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Bordo"],
+    "description": "Tamamilə hörülmüş nappa dəri premium lofer.",
+    "fullDescription": "İtalyan əl işçiliyinin yüksək keyfiyyətini nümayiş etdirən klassik dizayn."
+  },
+  {
+    "id": "loafers-005",
+    "name": "FF Toqqalı Zamş Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16206178-b2c0728d59eaf7c7ce958f14b574f397.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206178-b2c0728d59eaf7c7ce958f14b574f397.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Fendi",
+    "price": 670,
+    "oldPrice": 790,
+    "badge": "Endirim",
+    "rating": 4.3,
+    "reviews": 48,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Qızılı FF toqqalı yumşaq zamş lofer.",
+    "fullDescription": "Ofis geyimlərinizə lüks və zəriflik qatacaq zamş lofer."
+  },
+  {
+    "id": "loafers-006",
+    "name": "Zəncirli Platforma Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16203041-8e8412d6c40fc4a3e3c86278debfc925.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16203041-8e8412d6c40fc4a3e3c86278debfc925.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Alexander Wang",
+    "price": 530,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.1,
+    "reviews": 32,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Gümüşü iri zəncirli və kalın altlıqlı lofer.",
+    "fullDescription": "Urban və modern görünüş sevənlər üçün xüsusi daban kəsimi."
+  },
+  {
+    "id": "loafers-007",
+    "name": "Tüklü Bəzəkli Zamş Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16205644-553a2fa0749dbca08320af36e14e57de.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16205644-553a2fa0749dbca08320af36e14e57de.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Jimmy Choo",
+    "price": 710,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 84,
+    "sizes": ["35.5", "36", "37", "38", "39"],
+    "colors": [ "Qəhvəyi"],
+    "description": "Üstü miniatür kristalla işlənmiş dabanlı lofer.",
+    "fullDescription": "Klassik lofer formasının parlaq bəzəklərlə gecə stilinə uyğunlaşdırılması."
+  },
+  {
+    "id": "loafers-008",
+    "name": "Klassik Penny Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16204553-ea2a90d8e338862dae583b856056878e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16204553-ea2a90d8e338862dae583b856056878e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Saint Laurent",
+    "price": 620,
+    "oldPrice": 720,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 60,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qara"],
+    "description": "Təbii dana dərisindən sadə Penny Lofer.",
+    "fullDescription": "Zamansız qarderobun ən vacib baza ayaqqabılarından biri."
+  },
+  {
+    "id": "loafers-009",
+    "name": "Laklı Nappa Soft Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16203039-95aa092e015bc634a444b5cfc21eef49.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16203039-95aa092e015bc634a444b5cfc21eef49.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Prada",
+    "price": 840,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 90,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Maksimum yumşaq dəridən rahat lofer.",
+    "fullDescription": "Gün ərzində ayağı yormayan daxili yastıqcıq panellərinə sahibdir."
+  },
+  {
+    "id": "loafers-010",
+    "name": "Arxası Açıq Dəri Lofer Muli",
+    "image": "https://cdn2.emporium.az/i/p/500/16201951-82fac424ef73e862fcc82cd8b8c3dd97.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16201951-82fac424ef73e862fcc82cd8b8c3dd97.jpg",
+      "https://cdn2.emporium.az/i/p/500/16201048-3a8ce9d58b0d2f4fa871d57f8257a07c.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Fendi",
+    "price": 630,
+    "oldPrice": 750,
+    "badge": "Endirim",
+    "rating": 4.2,
+    "reviews": 39,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Ağ", "Qəhvəyi"],
+    "description": "FF toqqalı, arxası açıq dəri muli lofer.",
+    "fullDescription": "Yaz və payız aylarında rahat geyinilib çıxarıla bilən praktik model."
+  },
+  {
+    "id": "loafers-011",
+    "name": "Traktör Altlıqlı Dəri Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16182639-03c35dd32b1e8d625d38c35c61dbd26f.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16182639-03c35dd32b1e8d625d38c35c61dbd26f.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Alexander Wang",
+    "price": 580,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.0,
+    "reviews": 29,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qoy"],
+    "description": "Dişli rezin Protektorlu həcmli lofer.",
+    "fullDescription": "Yağışlı və soyuq havalarda sürüşməyən dözümlü rezin altlıq."
+  },
+  {
+    "id": "loafers-012",
+    "name": "Kvadrat Burun Zamş Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16185923-26067f09f164bf7b04e8dccacc61a458.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16185923-26067f09f164bf7b04e8dccacc61a458.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Bottega Veneta",
+    "price": 790,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 101,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Narinci"],
+    "description": "Kvadrat kəsimli burunlu zərif zamş lofer.",
+    "fullDescription": "Avanqard dəb həvəskarları üçün cəsarətli rəng palitrası."
+  },
+  {
+    "id": "loafers-013",
+    "name": "Dəri Toqqalı Şıq Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16186273-18d8b930ce5e8e8b70ca556108cdc286.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16186273-18d8b930ce5e8e8b70ca556108cdc286.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Jimmy Choo",
+    "price": 660,
+    "oldPrice": 780,
+    "badge": "Endirim",
+    "rating": 4.4,
+    "reviews": 52,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Narinci"],
+    "description": "Qızılı detallı hamar dəri lofer.",
+    "fullDescription": "Həm klassik, həm də cins şalvarlarla mükəmməl uzlaşır."
+  },
+  {
+    "id": "loafers-014",
+    "name": "Emallı Üçbucaq Laklı Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16186422-d11921af7d1121b2e041b9a8bd5958f4.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16186422-d11921af7d1121b2e041b9a8bd5958f4.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Prada",
+    "price": 890,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.9,
+    "reviews": 160,
+    "sizes": ["35", "36", "37", "38", "39", "40"],
+    "colors": ["Narinci"],
+    "description": "Parlaq laklı dəridən ikonik Prada lofer.",
+    "fullDescription": "Dünya ulduzlarının ən çox üstünlük verdiyi parlaq laklı model."
+  },
+  {
+    "id": "loafers-015",
+    "name": "Minimalist Dəri Slip-Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/16179954-6d2ceaf63b4f5b6257df4a08c5e0994a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16179954-6d2ceaf63b4f5b6257df4a08c5e0994a.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Saint Laurent",
+    "price": 570,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.3,
+    "reviews": 41,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": [ "Bej"],
+    "description": "Əlavə bəzəksiz, ultra minimalist dəri lofer.",
+    "fullDescription": "Təmiz kəsim xətləri ilə sadəliyi sevənlərin seçimi."
+  },
+  {
+    "id": "loafers-016",
+    "name": "FF Embossed Leather Loafer",
+    "image": "https://cdn2.emporium.az/i/p/500/16206761-c89544668a38f08cda69d60f7756deb6.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206761-c89544668a38f08cda69d60f7756deb6.jpg",
+      "https://cdn2.emporium.az/i/p/500/16206761-c89544668a38f08cda69d60f7756deb6.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Fendi",
+    "price": 730,
+    "oldPrice": 860,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 63,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": [ "Qara"],
+    "description": "Bütün səthi FF basma naxışlı dəri lofer.",
+    "fullDescription": "Dəri üzərində xüsusi basma texnikası ilə işlənmiş brend loqosu."
+  },
+  {
+    "id": "loafers-017",
+    "name": "Topuq Qayışlı Sancaq Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/351945-a64558fd29ad280aea2652b69c7f8e9a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/351945-a64558fd29ad280aea2652b69c7f8e9a.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Alexander Wang",
+    "price": 490,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.0,
+    "reviews": 23,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qəhvəyi"],
+    "description": "Daban hissəsində metal detalları olan lofer.",
+    "fullDescription": "Arxa daban hissəsində xüsusi metalik vurğuları olan dizayn."
+  },
+  {
+    "id": "loafers-018",
+    "name": "Padded Leather Loafer",
+    "image": "https://cdn2.emporium.az/i/p/500/351474-c5246e3cae5303c0e64752f287d66333.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/351474-c5246e3cae5303c0e64752f287d66333.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Bottega Veneta",
+    "price": 850,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 77,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Bordo"],
+    "description": "Qabarıq daxili dolğulu yumşaq dəri lofer.",
+    "fullDescription": "Vizual həcm və yumşaq addım komfortu təklif edir."
+  },
+  {
+    "id": "loafers-019",
+    "name": "Minimalist və Dəri Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/345553-72b9c7d886af0addb5bc7a8278d464ec.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/345553-72b9c7d886af0addb5bc7a8278d464ec.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Jimmy Choo",
+    "price": 590,
+    "oldPrice": 690,
+    "badge": "Endirim",
+    "rating": 4.2,
+    "reviews": 38,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Ağ"],
+    "description": "Kətan gövdəli və dəri haşiyəli yaz loferi.",
+    "fullDescription": "İsti havalar üçün ideal nəfəsalan kətan teksturası."
+  },
+  {
+    "id": "loafers-020",
+    "name": "Bordürlü Dəri Lofer",
+    "image": "https://cdn2.emporium.az/i/p/500/343679-738a16f052ed354448eacc69e72de0b2.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/343679-738a16f052ed354448eacc69e72de0b2.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "loafers",
+    "designer": "Prada",
+    "price": 810,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 88,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Əl tikişi bordür detallı yüksək keyfiyyətli lofer.",
+    "fullDescription": "Tikiş detalları ilə zənginləşdirilmiş İtalyan kəsim lofer."
+  },
+  {
+    "id": "boots-001",
+    "name": "Chelsea Dəri Yarımçəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/352791-fa93593522266e6aff3a6e4024873fce.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/352791-fa93593522266e6aff3a6e4024873fce.jpg"
+      
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Saint Laurent",
+    "price": 950,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 167,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qara"],
+    "description": "Yanları elastik panelli hamar dəri klassik Chelsea yarımçəkmə.",
+    "fullDescription": "Saint Laurent brendindən hamar dana dərisindən hazırlanmış klassik Chelsea yarımçəkməsi."
+  },
+  {
+    "id": "boots-002",
+    "name": "FF Jakard Hündür Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/16196339-636b3a28bb6144388c8fc6d761aeecd5.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16196339-636b3a28bb6144388c8fc6d761aeecd5.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Fendi",
+    "price": 1100,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 74,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "FF jakard toxumalı parça və dəri haşiyəli dizdən çəkmə.",
+    "fullDescription": "Fendi-nin xüsusi FF jakard toxuma parçasından və təbii dəri haşiyələrindən hazırlanmış dizdən hündür çəkməsi."
+  },
+  {
+    "id": "boots-003",
+    "name": "Tire Qalın Altlıqlı Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/16202649-48913195c92dda8485523524412f777a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16202649-48913195c92dda8485523524412f777a.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Bottega Veneta",
+    "price": 890,
+    "oldPrice": 1115,
+    "badge": "Endirim",
+    "rating": 4.7,
+    "reviews": 134,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Qabarıq Protektorlu rezin altlıqlı modern dəri çəkmə.",
+    "fullDescription": "Bottega Veneta-nın məşhur Tire boot modeli. Hamar dana dərisi üstlüyü və dalğalı həcmli rezin altlığı var."
+  },
+  {
+    "id": "boots-004",
+    "name": "Monolith Cibi Olan Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/16196336-869bfb2d0140ecdba917bb0877d9f88f.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16196336-869bfb2d0140ecdba917bb0877d9f88f.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Prada",
+    "price": 1250,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 210,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Yan tərəfində çıxarıla bilən neylon cibi olan həcmli çəkmə.",
+    "fullDescription": "Prada-nın dünyada kultlaşmış həcmli altlıqlı və kəmərli neylon cib detalına sahib modeli."
+  },
+  {
+    "id": "boots-005",
+    "name": "Kvadrat Burun Zamş Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/348805-8782ad004a63a9c9efc841697a798f76.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/348805-8782ad004a63a9c9efc841697a798f76.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Jimmy Choo",
+    "price": 880,
+    "oldPrice": 1020,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 68,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": [ "Qəhvəyi"],
+    "description": "Zərif dabanlı və kvadrat burun kəsimli zamş çəkmə.",
+    "fullDescription": "Payız-qış dəbi üçün xüsusi olaraq işlənmiş dözümlü və zərif zamş yarımçəkmə."
+  },
+  {
+    "id": "boots-006",
+    "name": "Memphis Zəncirli Hərbi Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/348805-8782ad004a63a9c9efc841697a798f76.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/348805-8782ad004a63a9c9efc841697a798f76.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Alexander Wang",
+    "price": 720,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.3,
+    "reviews": 45,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi" ],
+    "description": "Bağcıqlı, gümüşü metal detallı dözümlü çəkmə.",
+    "fullDescription": "Hərbi stilə uyğunlaşdırılmış, dözümlü rezin altlığı olan dəri çəkmə."
+  },
+  {
+    "id": "boots-007",
+    "name": "Lug Sole Dəri Ankle Boot",
+    "image": "https://cdn2.emporium.az/i/p/500/347929-3ab96c908a130e5ccf7ef142b7e90be4.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/347929-3ab96c908a130e5ccf7ef142b7e90be4.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Bottega Veneta",
+    "price": 980,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 112,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": [ "Qara"],
+    "description": "Rəngli rezin altlığı olan modern Chelsea çəkmə.",
+    "fullDescription": "Daban hissəsində fərqli rəng vurğuları olan cəsarətli dizaynlı çəkmə."
+  },
+  {
+    "id": "boots-008",
+    "name": "Sivri Burun Kovboy Stil Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/347351-0f0b20507150a37b431db9b1dd49674e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/347351-0f0b20507150a37b431db9b1dd49674e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Saint Laurent",
+    "price": 1050,
+    "oldPrice": 1200,
+    "badge": "Endirim",
+    "rating": 4.7,
+    "reviews": 89,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Bordo"],
+    "description": "Əyri dabanlı və naxışlı dəri kovboy çəkməsi.",
+    "fullDescription": "Kovboy üslubunun Fransız eleqantlığı ilə unikal sintezi."
+  },
+  {
+    "id": "boots-009",
+    "name": "Biker Buckle Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/302998-5f5b33d7cfec4b0166d1277d372699fc.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/302998-5f5b33d7cfec4b0166d1277d372699fc.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Jimmy Choo",
+    "price": 890,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 53,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "İri metal toqqaları olan bayker stili çəkmə.",
+    "fullDescription": "Sərt görünüşü zərif detallarla balanslaşdırılmış keyfiyyətli dəri çəkmə."
+  },
+  {
+    "id": "boots-010",
+    "name": "FF Monogram Sock Boot",
+    "image": "https://cdn2.emporium.az/i/p/500/347284-4c5cd1d3dc2092e15649cdac84b9ff33.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/347284-4c5cd1d3dc2092e15649cdac84b9ff33.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Fendi",
+    "price": 920,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 71,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": [ "Qara"],
+    "description": "Toxuma çorab boğazlı, FF loqolu yarımçəkmə.",
+    "fullDescription": "Ayağı sarıyan toxuma materialı və daban altlığı ilə şıq çorab çəkmə."
+  },
+  {
+    "id": "boots-011",
+    "name": "Neylon İsti Qış Çəkməsi",
+    "image": "https://cdn2.emporium.az/i/p/500/16204430-13ac806354437461e14a9b9de6a14aa1.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16204430-13ac806354437461e14a9b9de6a14aa1.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Prada",
+    "price": 850,
+    "oldPrice": 990,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 60,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qəhvəyi"],
+    "description": "Su keçirməyən Re-Nylon materialdan puffer çəkmə.",
+    "fullDescription": "Qarlı və soyuq havalar üçün xüsusi daxili xəz izolyasiyalı model."
+  },
+  {
+    "id": "boots-012",
+    "name": "Padded Leather Ankle Boot",
+    "image": "https://cdn2.emporium.az/i/p/500/16205105-e6eba5aeb214acd9079330ee1292770f.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16205105-e6eba5aeb214acd9079330ee1292770f.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Bottega Veneta",
+    "price": 940,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 83,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Yumşaq dolğulu nappa dəri yarımçəkmə.",
+    "fullDescription": "Bottega-nın qabarıq və yumşaldılmış dəri trendinin çəkmə versiyası."
+  },
+  {
+    "id": "boots-013",
+    "name": "Platforma Dabanlı Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/346307-3c18153208275e8efbe08287b3ff186b.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/346307-3c18153208275e8efbe08287b3ff186b.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Alexander Wang",
+    "price": 680,
+    "oldPrice": 790,
+    "badge": "Endirim",
+    "rating": 4.2,
+    "reviews": 37,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Hündür platformalı və kəsik dabanlı çəkmə.",
+    "fullDescription": "Alexander Wang imzalı kəsik daban detallı xüsusi üslub."
+  },
+  {
+    "id": "boots-014",
+    "name": "Dizüstü Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/16206661-14804c289861f716105ba064e8239e55.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206661-14804c289861f716105ba064e8239e55.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Jimmy Choo",
+    "price": 1150,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 105,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Narinci"],
+    "description": "Ayağı sarıyan elastik zamş dizüstü hündür çəkmə.",
+    "fullDescription": "Silueti çox incə və uzun göstərən dəbdəbəli zamş dizüstü çəkmə."
+  },
+  {
+    "id": "boots-015",
+    "name": "Klassik Zamş Chelsea Boot",
+    "image": "https://cdn2.emporium.az/i/p/500/16207863-0469b35aac1a5b042981b84b665aac25.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16207863-0469b35aac1a5b042981b84b665aac25.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Saint Laurent",
+    "price": 870,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 94,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qəhvəyi"],
+    "description": "Təbii dəri altlıqlı narın zamş Chelsea yarımçəkməsi.",
+    "fullDescription": "Premium keyfiyyətli zamş dəridən işlənmiş universal model."
+  },
+  {
+    "id": "boots-016",
+    "name": "Cilalanmış Dəri Blok Daban Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/16206664-9cfff771102c1190bd8cebe0333ecddc.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16206664-9cfff771102c1190bd8cebe0333ecddc.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Prada",
+    "price": 990,
+    "oldPrice": 1150,
+    "badge": "Endirim",
+    "rating": 4.8,
+    "reviews": 128,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Spazzalato dəridən sabit dabanlı şıq çəkmə.",
+    "fullDescription": "Prada-nın parlaq spazzalato dərisindən hazırlanmış rahat dabanlı çəkmə."
+  },
+  {
+    "id": "boots-017",
+    "name": "Dəri Ride Boot",
+    "image": "https://cdn2.emporium.az/i/p/500/16200425-a7bef2fa8d812655cd29410085ce50d4.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16200425-a7bef2fa8d812655cd29410085ce50d4.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Fendi",
+    "price": 1080,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 65,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Atçılıq üslubunda hamar dəri dizdən çəkmə.",
+    "fullDescription": "Klassik atçılıq stilini müasir lüks dəbə daşıyan düz altlıqlı çəkmə."
+  },
+  {
+    "id": "boots-018",
+    "name": "Şəffaf Dabanlı Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/16189582-e28c9638c01c75d6f459d8676bd2b44e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16189582-e28c9638c01c75d6f459d8676bd2b44e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Alexander Wang",
+    "price": 650,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.1,
+    "reviews": 31,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Pleksi şəffaf dabanlı elastik dəri yarımçəkmə.",
+    "fullDescription": "Avanqard şüşə daban effekti ilə dizayn edilmiş fərqli model."
+  },
+  {
+    "id": "boots-019",
+    "name": "Kristal Zəncirli Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/352683-cdad6c88135d0ce25913cd0004fe3566.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/352683-cdad6c88135d0ce25913cd0004fe3566.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Jimmy Choo",
+    "price": 1020,
+    "oldPrice": 1180,
+    "badge": "Endirim",
+    "rating": 4.8,
+    "reviews": 97,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Topuğunda parıldayan kristal kəməri olan çəkmə.",
+    "fullDescription": "Zərif gecə geyimlərinin altına belə istifadə oluna biləcək dəbdəbəli çəkmə."
+  },
+  {
+    "id": "boots-020",
+    "name": "Kvadrat Burun İncə Daban Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/346773-5dc9aa991e8913fec921f99d5f816ddd.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/346773-5dc9aa991e8913fec921f99d5f816ddd.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Bottega Veneta",
+    "price": 960,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 78,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": [ "Qara"],
+    "description": "Ultra nazik dikdabanlı və kvadrat burunlu nappa çəkmə.",
+    "fullDescription": "Bottega Veneta-nın modelyer xətlərini qoruyan, daxildən fermuarlı premium model."
+  },
+  {
+    "id": "boots-021",
+    "name": "Klassik Dəri Worker Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/274615-a789a9f01ef8730b0609200d60ee1e3b.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/274615-a789a9f01ef8730b0609200d60ee1e3b.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Prada",
+    "price": 980,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 82,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Davamlı qalın altlıqlı və rahat bağcıqlı işçi üslublu çəkmə.",
+    "fullDescription": "Gündəlik istifadə üçün maksimum rahatlıq və dözümlülük təmin edən Prada işçi stili çəkmə."
+  },
+  {
+    "id": "boots-022",
+    "name": "Metal Burunlu Kovboy Çəkməsi",
+    "image": "https://cdn2.emporium.az/i/p/500/272034-d8e8914583dd025d9e95570c6330e571.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/272034-d8e8914583dd025d9e95570c6330e571.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Saint Laurent",
+    "price": 1120,
+    "oldPrice": 1300,
+    "badge": "Endirim",
+    "rating": 4.8,
+    "reviews": 64,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Burun hissəsində metal haşiyə olan naxışlı dəri kovboy çəkməsi.",
+    "fullDescription": "Saint Laurent-in zərif tikişləri və metal detalları ilə fərqlənən lüks kovboy modeli."
+  },
+  {
+    "id": "boots-023",
+    "name": "Re-Nylon Qısa Yarımçəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/265768-1ab2d7e56151c64915eee2334e90f254.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/265768-1ab2d7e56151c64915eee2334e90f254.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Prada",
+    "price": 860,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.5,
+    "reviews": 51,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Yaşıl"],
+    "description": "Ekoloji təmiz re-nylon materialdan hazırlanmış idman üslublu çəkmə.",
+    "fullDescription": "Şəhər tərzinə uyğunlaşdırılmış yüngül və sukeçirməz Prada yarımçəkməsi."
+  },
+  {
+    "id": "boots-024",
+    "name": "Zəncir Bəzəkli Dəri Ankle Boot",
+    "image": "https://cdn2.emporium.az/i/p/500/270270-505a944f09ede934dba41c3c5cf38b58.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/270270-505a944f09ede934dba41c3c5cf38b58.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Alexander Wang",
+    "price": 790,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.4,
+    "reviews": 43,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Bej"],
+    "description": "Bilək hissəsində qalın metal zəncir aksessuarı olan dəri çəkmə.",
+    "fullDescription": "Cəsarətli və qiyamçı ruhu əks etdirən Alexander Wang dizaynı."
+  },
+  {
+    "id": "boots-025",
+    "name": "Stretch Laklı Çorab Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/266621-101f2dfeb2cba84586f753b369e408c9.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/266621-101f2dfeb2cba84586f753b369e408c9.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Fendi",
+    "price": 940,
+    "oldPrice": 1050,
+    "badge": "Endirim",
+    "rating": 4.6,
+    "reviews": 70,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Parlaq laklı və ayağı tam sarıyan elastik materialdan çorab çəkmə.",
+    "fullDescription": "Fendi-nin ayaq formasına mükəmməl uyğunlaşan zərif və parlaq modeli."
+  },
+  {
+    "id": "boots-026",
+    "name": "Platforma Trebiniz Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/292608-5faeae616679297098796f3a2fbd9699.JPG",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/292608-5faeae616679297098796f3a2fbd9699.JPG"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Bottega Veneta",
+    "price": 1050,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 118,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qəhvəyi"],
+    "description": "Fərqli rəng seçimləri olan hündür platformalı rezin altlıqlı çəkmə.",
+    "fullDescription": "Bottega Veneta-nın ikonik qalın altlıq estetikasını davam etdirən model."
+  },
+  {
+    "id": "boots-027",
+    "name": "Klassik Bordo Zamş Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/344807-07a5dfb039f937d5af7ea152b86ed942.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/344807-07a5dfb039f937d5af7ea152b86ed942.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Jimmy Choo",
+    "price": 910,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 85,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Bordo"],
+    "description": "Yumşaq tünd qırmızı zamş dəridən zərif dizaynlı çəkmə.",
+    "fullDescription": "Payız qarderobuna rəng qatan zərif Jimmy Choo zamş yarımçəkməsi."
+  },
+  {
+    "id": "boots-028",
+    "name": "Kəmər Detallı Biker Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/344993-bb851c3bf0981ac6a8d22b3ad4fefe3c.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/344993-bb851c3bf0981ac6a8d22b3ad4fefe3c.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Tom Ford",
+    "price": 1250,
+    "oldPrice": 1400,
+    "badge": "Endirim",
+    "rating": 4.8,
+    "reviews": 59,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Çoxsaylı incə dəri kəmərlərlə bəzədilmiş lüks bayker çəkməsi.",
+    "fullDescription": "Tom Ford keyfiyyəti və qüsursuz detalları ilə seçilən premium bayker çəkməsi."
+  },
+  {
+    "id": "boots-029",
+    "name": "Hündür Blok Dabanlı Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/342601-9c25ef14b4cb73f9bd5940c714388b34.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/342601-9c25ef14b4cb73f9bd5940c714388b34.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Versace",
+    "price": 990,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 73,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Gümüş"],
+    "description": "Meduza aksesuarı olan hündür dabanlı hamar dəri çəkmə.",
+    "fullDescription": "Versace-nin simvolik Meduza detalları ilə zənginləşdirilmiş zərif dizayn."
+  },
+  {
+    "id": "boots-030",
+    "name": "Minimalist Dəri Ankle Boot",
+    "image": "https://cdn2.emporium.az/i/p/500/344994-2ee20707ebdc6dc1736584bd2aebc35c.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/344994-2ee20707ebdc6dc1736584bd2aebc35c.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Dolce & Gabbana",
+    "price": 840,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.5,
+    "reviews": 66,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Yaşıl"],
+    "description": "Gizli fermuarlı və təmiz xətlərə malik klassik dəri yarımçəkmə.",
+    "fullDescription": "Gündəlik və klassik geyimlərlə asanlıqla uyğunlaşan Dolce & Gabbana modeli."
+  },
+  {
+    "id": "boots-031",
+    "name": "Yüksək Platforma Goth Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/343512-1eabfad175d1ad3b6b6f7ae54f94f2dd.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/343512-1eabfad175d1ad3b6b6f7ae54f94f2dd.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Alexander Wang",
+    "price": 780,
+    "oldPrice": 920,
+    "badge": "Endirim",
+    "rating": 4.3,
+    "reviews": 39,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qəhvəyi"],
+    "description": "Ekstremal hündür platformaya sahib qotik üslublu dəri çəkmə.",
+    "fullDescription": "Dəb səhnəsində iddialı görünüş sevənlər üçün Alexander Wang platforması."
+  },
+  {
+    "id": "boots-032",
+    "name": "Kvadrat Burun Laklı Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/315986-1601a62c21382116fce4216e5fcac341.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/315986-1601a62c21382116fce4216e5fcac341.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Fendi",
+    "price": 960,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 55,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Retro üslublu kvadrat burunlu və parlaq laklı dəri çəkmə.",
+    "fullDescription": "Fendi-nin 70-ci illərin estetikasını müasir dəblə birləşdirən məhsulu."
+  },
+  {
+    "id": "boots-033",
+    "name": "Fluffy Xəz Bəzəkli Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/343875-9ffeb016fa5e36384502043c62e5d0ea.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/343875-9ffeb016fa5e36384502043c62e5d0ea.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Jimmy Choo",
+    "price": 1080,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 77,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Bordo"],
+    "description": "Kənar hissələri yumşaq xəz ilə haşiyələnmiş dəri qış çəkməsi.",
+    "fullDescription": "Soyuq günlərdə belə şıklıqdan ödün verməyənlər üçün xüsusi Jimmy Choo dizaynı."
+  },
+  {
+    "id": "boots-034",
+    "name": "Elastik Detallı Derbi Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/343875-9ffeb016fa5e36384502043c62e5d0ea.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/343875-9ffeb016fa5e36384502043c62e5d0ea.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Prada",
+    "price": 920,
+    "oldPrice": 1050,
+    "badge": "Endirim",
+    "rating": 4.6,
+    "reviews": 81,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Bordo"],
+    "description": "Klassik derbi ayaqqabısının çəkmə formasına uyğunlaşdırılmış versiyası.",
+    "fullDescription": "Prada-nın ciddi və funksional xəttlərini daşıyan rahat gündəlik çəkmə."
+  },
+  {
+    "id": "boots-035",
+    "name": "Püsküllü Kovboy Çəkməsi",
+    "image": "https://cdn2.emporium.az/i/p/500/344564-0dbeb949ca5354c0ca4e1e391b83549a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/344564-0dbeb949ca5354c0ca4e1e391b83549a.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Saint Laurent",
+    "price": 1180,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 92,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "Yanlarında uzun dəri püskülləri olan dinamik kovboy çəkməsi.",
+    "fullDescription": "Hər addımda hərəkət edən püskülləri ilə diqqət çəkən Saint Laurent sənətkarlığı."
+  },
+  {
+    "id": "boots-036",
+    "name": "Hamar Dəri Ankle Boot",
+    "image": "https://cdn2.emporium.az/i/p/500/344566-bc39f8b242cce0eec8c82f5981ef1527.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/344566-bc39f8b242cce0eec8c82f5981ef1527.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Bottega Veneta",
+    "price": 890,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.5,
+    "reviews": 63,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Multi"],
+    "description": "Yüngül dabanlı və sadə siluetli təmiz dəri yarımçəkmə.",
+    "fullDescription": "Bottega Veneta-nın minimalist estetikasını sevənlər üçün əvəzolunmaz baza model."
+  },
+  {
+    "id": "boots-037",
+    "name": "Naxışlı Jakard Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/346795-322a433ef1ba45ec56fac8972acfd00d.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/346795-322a433ef1ba45ec56fac8972acfd00d.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Fendi",
+    "price": 990,
+    "oldPrice": 1120,
+    "badge": "Endirim",
+    "rating": 4.7,
+    "reviews": 75,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Eksklüzivito loqolu jakard parça və dəri kombinasiyalı çəkmə.",
+    "fullDescription": "Fendi brendinin tanınan toxuma motivlərini daşıyan zərif dizayn."
+  },
+  {
+    "id": "boots-038",
+    "name": "Geniş Boğazlı Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/343675-2c6de336b817682955c8d5f361994277.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/343675-2c6de336b817682955c8d5f361994277.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Tom Ford",
+    "price": 1150,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 88,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Sərbəst düşən geniş boğaz hissəsinə malik lüks dəri çəkmə.",
+    "fullDescription": "Ayaqda rahat duruşu və zərif parlaqlığı ilə seçilən Tom Ford çəkməsi."
+  },
+  {
+    "id": "boots-039",
+    "name": "Sport-Chic Qısa Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/346794-242262afcbfabf30f1b070ea78701cb2.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/346794-242262afcbfabf30f1b070ea78701cb2.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Prada",
+    "price": 880,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 48,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi"],
+    "description": "İdman ayaqqabısı altlığı üzərində qurulmuş dəri yarımçəkmə.",
+    "fullDescription": "Aktiv həyat tərzi sürənlər üçün Prada tərəfindən hazırlanmış komfortlu model."
+  },
+  {
+    "id": "boots-040",
+    "name": "Klassik Fermuarlı Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/261857-52f50639d0b98107259d8a859057e344.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/261857-52f50639d0b98107259d8a859057e344.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Saint Laurent",
+    "price": 950,
+    "oldPrice": 1080,
+    "badge": "Endirim",
+    "rating": 4.7,
+    "reviews": 96,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qara"],
+    "description": "Ön hissəsində metal fermuar xətti olan şıq dəri yarımçəkmə.",
+    "fullDescription": "Saint Laurent-in zamansız estetikasını əks etdirən funksional və zərif çəkmə."
+  },
+  {
+    "id": "boots-041",
+    "name": "Kristal Daşlı Saten Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/265723-b3249b454a9c24d3557971a8de6351ea.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/265723-b3249b454a9c24d3557971a8de6351ea.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Jimmy Choo",
+    "price": 1350,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 110,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Bütün səthi kristal bəzəkli saten materialdan gecə çəkməsi.",
+    "fullDescription": "Xüsusi tədbirlər və gecə dəvətləri üçün parıltılı Jimmy Choo şah əsəri."
+  },
+  {
+    "id": "boots-042",
+    "name": "Zəncirli Hərbi Stil Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/257131-c46905cc6c61781e3a01fc6042fdf7ce.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/257131-c46905cc6c61781e3a01fc6042fdf7ce.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Alexander Wang",
+    "price": 820,
+    "oldPrice": 950,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 52,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Qalın altlıqlı və bilək ətrafı zəncirli hərbi çəkmə.",
+    "fullDescription": "Gündəlik tərzi gücləndirən Alexander Wang-ın hərbi üslublu modeli."
+  },
+  {
+    "id": "boots-043",
+    "name": "Yumşaq Nappa Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/262593-be217e5826d771128b17aee20c676475.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/262593-be217e5826d771128b17aee20c676475.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Bottega Veneta",
+    "price": 980,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 84,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Ən yüksək keyfiyyətli yumşaq nappa dəridən hazırlanmış çəkmə.",
+    "fullDescription": "Ayaqda hiss olunmayan yumşaqlığı və premium toxuması ilə Bottega Veneta rahatlığı."
+  },
+  {
+    "id": "boots-044",
+    "name": "Kvadrat Burun Laklı Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/257702-2845adb5dcfdd988574b726d7d8501cc.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/257702-2845adb5dcfdd988574b726d7d8501cc.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Jimmy Choo",
+    "price": 940,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 69,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Həndəsi kvadrat burunlu və parlaq laklı dəri yarımçəkmə.",
+    "fullDescription": "Modern memarlıq xətlərindən ilhamlanaraq yaradılmış Prada modeli."
+  },
+  {
+    "id": "boots-045",
+    "name": "Geniş Boğazlı Dəri Dizçəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/259595-01344c081c0e9403cc3a0cdf75e8a178.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/259595-01344c081c0e9403cc3a0cdf75e8a178.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Saint Laurent",
+    "price": 1280,
+    "oldPrice": 1450,
+    "badge": "Endirim",
+    "rating": 4.9,
+    "reviews": 115,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Ağ"],
+    "description": "Dizə qədər uzanan və sərbəst duruşlu dəbdəbəli dizçəkmə.",
+    "fullDescription": "Paris dəbinin ən cəsarətli və eleqant təmsilçisi olan Saint Laurent dizüstü çəkməsi."
+  },
+  {
+    "id": "boots-046",
+    "name": "Sivri Burun Kovboy Stil Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/347351-0f0b20507150a37b431db9b1dd49674e.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/347351-0f0b20507150a37b431db9b1dd49674e.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Bottega Veneta",
+    "price": 1050,
+    "oldPrice": 1200,
+    "badge": "Endirim",
+    "rating": 4.7,
+    "reviews": 89,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Bordo"],
+    "description": "Əyri dabanlı və naxışlı dəri kovboy çəkməsi.",
+    "fullDescription": "Kovboy üslubunun Fransız eleqantlığı ilə unikal sintezi."
+  },
+  {
+    "id": "boots-047",
+    "name": "Biker Buckle Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/302998-5f5b33d7cfec4b0166d1277d372699fc.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/302998-5f5b33d7cfec4b0166d1277d372699fc.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Jimmy Choo",
+    "price": 890,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 53,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "İri metal toqqaları olan bayker stili çəkmə.",
+    "fullDescription": "Sərt görünüşü zərif detallarla balanslaşdırılmış keyfiyyətli dəri çəkmə."
+  },
+  {
+    "id": "boots-048",
+    "name": "Geniş Boğazlı Dəri Dizçəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/347284-4c5cd1d3dc2092e15649cdac84b9ff33.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/347284-4c5cd1d3dc2092e15649cdac84b9ff33.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Bottega Veneta",
+    "price": 920,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.6,
+    "reviews": 71,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": [ "Qara"],
+    "description": "Toxuma çorab boğazlı, FF loqolu yarımçəkmə.",
+    "fullDescription": "Ayağı sarıyan toxuma materialı və daban altlığı ilə şıq çorab çəkmə."
+  },
+  {
+    "id": "boots-049",
+    "name": "Neylon İsti Qış Çəkməsi",
+    "image": "https://cdn2.emporium.az/i/p/500/16204430-13ac806354437461e14a9b9de6a14aa1.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16204430-13ac806354437461e14a9b9de6a14aa1.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Fendi",
+    "price": 850,
+    "oldPrice": 990,
+    "badge": "Endirim",
+    "rating": 4.5,
+    "reviews": 60,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qəhvəyi"],
+    "description": "Su keçirməyən Re-Nylon materialdan puffer çəkmə.",
+    "fullDescription": "Qarlı və soyuq havalar üçün xüsusi daxili xəz izolyasiyalı model."
+  },
+  {
+    "id": "boots-050",
+    "name": "Neylon Leather Ankle Boot",
+    "image": "https://cdn2.emporium.az/i/p/500/16205105-e6eba5aeb214acd9079330ee1292770f.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16205105-e6eba5aeb214acd9079330ee1292770f.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Prada",
+    "price": 940,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 83,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Yumşaq dolğulu nappa dəri yarımçəkmə.",
+    "fullDescription": "Bottega-nın qabarıq və yumşaldılmış dəri trendinin çəkmə versiyası."
+  },
+  {
+    "id": "boots-046",
+    "name": "Metal Uclu Kovboy Çəkməsi",
+    "image": "https://cdn2.emporium.az/i/p/500/16207865-b18a45edc54f69c608fa7c99f5e7a510.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16207865-b18a45edc54f69c608fa7c99f5e7a510.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Saint Laurent",
+    "price": 1150,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.8,
+    "reviews": 60,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qəhvəyi", "Qara"],
+    "description": "Burun hissəsində metal işləmələri olan ənənəvi üslublu kovboy çəkməsi.",
+    "fullDescription": "Saint Laurent-in zərif tikişləri və fərqli metal detalları ilə tamamlanan lüks kovboy modeli."
+  },
+  {
+    "id": "boots-047",
+    "name": "Re-Nylon İdman Yarımçəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/16196744-5e535a6999c83fe8a99bcdbc34a1bae4.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16196744-5e535a6999c83fe8a99bcdbc34a1bae4.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Prada",
+    "price": 890,
+    "oldPrice": 990,
+    "badge": "Endirim",
+    "rating": 4.6,
+    "reviews": 45,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Davamlı re-nylon və dəri kombinasiyalı rahat şəhər çəkməsi.",
+    "fullDescription": "Şəhər gəzintiləri üçün ideal olan yüngül və funksional Prada dizaynı."
+  },
+  {
+    "id": "boots-048",
+    "name": "Zəncirli Dəri Biker Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/16203045-dac368da557e6cf73c0fd3cf39e368a3.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16203045-dac368da557e6cf73c0fd3cf39e368a3.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Alexander Wang",
+    "price": 810,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.5,
+    "reviews": 38,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Qalın altlıqlı və metal zəncir aksessuarlı dəri bayker çəkməsi.",
+    "fullDescription": "Alexander Wang-ın üsyankar və modern xəttlərini əks etdirən model."
+  },
+  {
+    "id": "boots-049",
+    "name": "Stretch Laklı Ankle Boot",
+    "image": "https://cdn2.emporium.az/i/p/500/16189644-e2a0adc0e7c2cfe844025b781d69e234.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16189644-e2a0adc0e7c2cfe844025b781d69e234.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Fendi",
+    "price": 950,
+    "oldPrice": 1050,
+    "badge": "Endirim",
+    "rating": 4.7,
+    "reviews": 72,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Ayağı corab kimi sarıyan parlaq laklı zərif yarımçəkmə.",
+    "fullDescription": "Fendi-nin ayaq formasına tam oturan və parıltısı ilə seçilən şıq modeli."
+  },
+  {
+    "id": "boots-050",
+    "name": "Platforma Trebiniz Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/16185974-08251426c6189d33ed2b264d4273427a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/16185974-08251426c6189d33ed2b264d4273427a.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Bottega Veneta",
+    "price": 1080,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.9,
+    "reviews": 104,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Bej", "Qara"],
+    "description": "Hündür rezin trebiniz altlığa malik komfortlu dəri çəkmə.",
+    "fullDescription": "Bottega Veneta-nın məşhur qalın altlıq dizaynına sahib premium məhsul."
+  },
+  {
+    "id": "boots-051",
+    "name": "Klassik Zamş Yarımçəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/242089-fcac6bdd2ec4615e9a03107bec823d7a.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/242089-fcac6bdd2ec4615e9a03107bec823d7a.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Jimmy Choo",
+    "price": 930,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 68,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Narıncı"],
+    "description": "Yumşaq zamş dəridən hazırlanmış təmiz xəttli zərif çəkmə.",
+    "fullDescription": "Payız-qış mövsümünün vazkeçilməz parçası olan Jimmy Choo zamş dizaynı."
+  },
+  {
+    "id": "boots-052",
+    "name": "Kəmər Detallı Lüks Bayker Çəkməsi",
+    "image": "https://cdn2.emporium.az/i/p/500/215340-d953b728523ca75d9cae082ae478eba9.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/215340-d953b728523ca75d9cae082ae478eba9.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Tom Ford",
+    "price": 1290,
+    "oldPrice": 1420,
+    "badge": "Endirim",
+    "rating": 4.8,
+    "reviews": 54,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Bej"],
+    "description": "Çoxsaylı metal tokalı kəmərlərlə bəzədilmiş premium çəkmə.",
+    "fullDescription": "Tom Ford keyfiyyəti və cəsarətli detalları özündə birləşdirən bayker çəkməsi."
+  },
+  {
+    "id": "boots-053",
+    "name": "Meduza Aksesuarlı Dəri Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/242248-444ab04cca61894ed33b8650d21be784.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/242248-444ab04cca61894ed33b8650d21be784.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Versace",
+    "price": 1020,
+    "oldPrice": null,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviews": 79,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": ["Qara"],
+    "description": "Blok dabanlı və simvolik Meduza detallı hamar dəri çəkmə.",
+    "fullDescription": "Versace estetikasına sadiq qalaraq hazırlanan zərif və diqqətiçəkən model."
+  },
+  {
+    "id": "boots-054",
+    "name": "Minimalist Fermuarlı Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/274076-cbd0a80c1e15aee6e62b97ca4f211684.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/274076-cbd0a80c1e15aee6e62b97ca4f211684.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Dolce & Gabbana",
+    "price": 860,
+    "oldPrice": null,
+    "badge": null,
+    "rating": 4.5,
+    "reviews": 61,
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": ["Qara"],
+    "description": "Gizli fermuarlı, klassik və təmiz siluetə malik dəri yarımçəkmə.",
+    "fullDescription": "Gündəlik kombinlər üçün ideal olan Dolce & Gabbana baza modeli."
+  },
+  {
+    "id": "boots-055",
+    "name": "Hündür Platforma Qotik Çəkmə",
+    "image": "https://cdn2.emporium.az/i/p/500/271865-0662569d31416c59d71f6f460affa20d.jpg",
+    "images": [
+      "https://cdn2.emporium.az/i/p/500/271865-0662569d31416c59d71f6f460affa20d.jpg"
+    ],
+    "category": "shoes",
+    "subcategory": "boots",
+    "designer": "Alexander Wang",
+    "price": 800,
+    "oldPrice": 940,
+    "badge": "Endirim",
+    "rating": 4.4,
+    "reviews": 41,
+    "sizes": ["36", "37", "38", "39"],
+    "colors": ["Qara"],
+    "description": "Ekstremal hündür platformalı və qalın dabanlı qotik üslublu çəkmə.",
+    "fullDescription": "Moda səhnəsində fərqli tərz axtaranlar üçün Alexander Wang platforması."
+  }
+  
+
+
+]

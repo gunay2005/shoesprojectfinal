@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sandals",
+    "subcategory": "sandals",
+    "name": "Səndəllər",
+    "category": "shoes",
+    "image": "https://cdn.shopify.com/s/files/1/0336/7793/files/CANDACESANDAL_SLV_260108_Cult-Gaia_Product13382_WEBBED_02ee1e70-fd90-40e6-9ace-dcf99bd203a0_300x.jpg?v=1767985598"
+  },
+  {
+    "id": "stilettos",
+    "subcategory": "stilettos",
+    "name": "Stilettolar",
+    "category": "shoes",
+    "image": "https://cdn.shopify.com/s/files/1/0336/7793/files/IRINAMULE_BLK_250924_CultGaia__R26-AX__10394_WEBBED_300x.jpg?v=1761178871"
+  },
+  {
+    "id": "flats",
+    "subcategory": "flats",
+    "name": "Yastıdaban",
+    "category": "shoes",
+    "image": "https://cdn.shopify.com/s/files/1/0336/7793/files/MayaSandalNaturalF_352x.png?v=1739233731"
+  },
+  {
+    "id": "mini",
+    "subcategory": "mini",
+    "name": "Mini",
+    "category": "bags",
+    "image": "https://cdn.shopify.com/s/files/1/0336/7793/files/ILARIACLUTCH_BR_260709_CultGaia_F2621966_WEBBED_300x.jpg?v=1786384533"
+  },
+  {
+    "id": "clutches",
+    "subcategory": "clutches",
+    "name": "Klatch",
+    "category": "bags",
+    "image": "https://cdn.shopify.com/s/files/1/0336/7793/files/AMARACLUTCH_IV_260420_CultGaia_Product-PF2617918_WEBBED_300x.jpg?v=1778005944"
+  },
+  {
+    "id": "bucket-bags",
+    "subcategory": "bucket",
+    "name": "Buket",
+    "category": "bags",
+    "image": "https://cdn.shopify.com/s/files/1/0336/7793/files/ASA_CARAMEL_251120_Cult-Gaia_Product_Front_v2_300x.jpg?v=1771446174"
+  }
+]
