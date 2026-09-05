@@ -59,13 +59,13 @@ export const Footer = () => {
             </ul>
           </div>
 
-          {/* Секция ÖDƏNİŞ и SOSİAL MEDİA */}
+          
           <div className="space-y-6">
             <div>
               <h4 className="font-bold text-sm tracking-widest uppercase mb-4 text-white/90">ÖDƏNİŞ</h4>
               <div className="flex gap-2.5 items-center">
                 
-                {/* Maestro / Mastercard Cirrus */}
+                
                 <div className="w-14 h-9 bg-white rounded-lg flex items-center justify-center p-1.5 shadow-sm">
                   <svg className="w-full h-full" viewBox="0 0 36 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <circle cx="13" cy="12" r="9" fill="#EB001B"/>
@@ -74,7 +74,7 @@ export const Footer = () => {
                   </svg>
                 </div>
 
-                {/* Mastercard */}
+               
                 <div className="w-14 h-9 bg-white rounded-lg flex items-center justify-center p-1.5 shadow-sm">
                   <svg className="w-full h-full" viewBox="0 0 36 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <circle cx="13" cy="12" r="9" fill="#EB001B"/>
@@ -83,7 +83,7 @@ export const Footer = () => {
                   </svg>
                 </div>
 
-                {/* Visa */}
+              
                 <div className="w-14 h-9 bg-white rounded-lg flex items-center justify-center p-2 shadow-sm">
                   <svg className="w-full h-full" viewBox="0 0 100 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M38.1 1.7L24.9 31.3H16.6L10.2 6.8C9.8 5.2 9.4 4.6 8.1 3.9C6 2.7 2.8 1.7 0 1.1L0.4 0H14C15.8 0 17.3 1.2 17.7 3.3L21.1 21.6L29.7 1.7H38.1ZM70.8 21.3C70.9 13.1 59.4 12.7 59.6 9C59.7 7.9 60.8 6.7 63.3 6.4C64.6 6.2 68.1 6.1 71.3 7.6L72.7 1.3C70.8 0.6 68.2 0 64.8 0C56.9 0 51.3 4.2 51.2 10.1C51 14.5 55.1 17 58.1 18.5C61.1 20 62.1 21 62.1 22.3C62 24.3 59.6 25.2 57.3 25.3C53.3 25.4 51 24.3 49.1 23.4L47.7 29.9C49.6 30.8 53.1 31.6 56.8 31.7C65.3 31.7 70.8 27.5 70.8 21.3ZM91.4 31.3H98.7L92.3 1.7H85.6C84 1.7 82.7 2.6 82.1 4L70.2 31.3H78.6L80.3 26.7H90.6L91.4 31.3ZM82.6 20.4L86.8 9L89.2 20.4H82.6ZM49.8 1.7L43.3 31.3H35.4L41.9 1.7H49.8Z" fill="#1A1F71"/>
@@ -93,7 +93,7 @@ export const Footer = () => {
               </div>
             </div>
 
-            {/* Социальные сети со вставленными ссылками */}
+           
             <div>
               <h4 className="font-bold text-sm tracking-widest uppercase mb-4 text-white/90">SOSİAL MEDİA</h4>
               <div className="flex gap-3">

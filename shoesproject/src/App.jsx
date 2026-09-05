@@ -16,7 +16,7 @@ import NewArrivalsPage from './pages/NewArrivalsPage.jsx';
 import ProductDetailPage from './pages/ProductDetailPage.jsx';
 import DiscountsPage from './pages/DiscountsPage.jsx';
 import AboutPage from './pages/AboutPage.jsx';
-import GalleryPage from './pages/GalleryPage.jsx';
+// import GalleryPage from './pages/GalleryPage.jsx';
 import ShoesDetailPage from './pages/ShoesDetailPage.jsx';
 import ProductRouter from './pages/ProductRouter.jsx';
 import { FavoritesPage } from './pages/FavoritesPage.jsx';
@@ -60,8 +60,7 @@ const ScrollToTop = () => {
   return null;
 };
 
-// Выносим внутреннее содержимое в отдельный компонент, 
-// чтобы он гарантированно был внутри Router и всех Provider'ов
+
 const MainContent = () => {
   const location = useLocation();
   const { user, login, logout } = useAuth();
@@ -95,8 +94,8 @@ const MainContent = () => {
           <Route path="/cantalar" element={<NewArrivalsPage />} />
           <Route path="/discounts" element={<DiscountsPage />} />
           <Route path="/about" element={<AboutPage />} />
-          <Route path="/cantalar/:subcategory" element={<GalleryPage mode="subcategory" />} />
-          <Route path="/designer/:name" element={<GalleryPage mode="designer" />} />
+            <Route path="/cantalar/:subcategory" element={<NewArrivalsPage />} />
++          <Route path="/designer/:name" element={<NewArrivalsPage />} />
           <Route path="/shoes/:id" element={<ShoesDetailPage />} />
           <Route path="/favorites" element={<FavoritesPage />} />
         </Routes>

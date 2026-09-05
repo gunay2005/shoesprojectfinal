@@ -7,7 +7,7 @@ import categories from '../data/categories.json';
 import gallery from '../data/gallery.json';
 import { ProductCard } from '../components/ProductCard.jsx';
 
-/* =========================  CONSTANTS  ========================= */
+
 const subcategories = [
   { id: 'all', label: 'Hamısı' },
   { id: 'sandals', label: 'Səndəllər' },
@@ -51,7 +51,7 @@ const shoeCategoryMap = {
   pumps: 'Hündürdaban ayaqqabılar', flats: 'Yastıdaban ayaqqabılar', loafers: 'Loferlər', boots: 'Çəkmələr',
 };
 
-/* =========================  HELPERS  ========================= */
+
 const getDisplayImageIndex = (product, activeColors) => {
   if (!activeColors || activeColors.length === 0) return 0;
   if (!product.colors || product.colors.length === 0) return 0;
@@ -62,7 +62,7 @@ const getDisplayImageIndex = (product, activeColors) => {
   return 0;
 };
 
-/* =========================  CATEGORY CIRCLES  ========================= */
+
 const CategoryCircles = ({ activeFilter, setActiveFilter }) => (
   <section className="px-4 sm:px-6 lg:px-8 pt-24 pb-6">
     <div className="max-w-7xl mx-auto">
@@ -98,7 +98,7 @@ const CategoryCircles = ({ activeFilter, setActiveFilter }) => (
   </section>
 );
 
-/* =========================  SIDEBAR (Desktop)  ========================= */
+
 const Sidebar = ({ activeFilter, setActiveFilter, activeColors, toggleColor, priceMin, setPriceMin, priceMax, setPriceMax, activeDesigner, setActiveDesigner, activeSizes, toggleSize, resultCount, onReset }) => {
   const [openSections, setOpenSections] = useState({ category: true, color: true, size: true, price: true, designer: true });
   const toggle = (k) => setOpenSections(p => ({ ...p, [k]: !p[k] }));
@@ -252,9 +252,6 @@ const MobileFilterDrawer = ({ isOpen, onClose, activeFilter, setActiveFilter, ac
   const [openSections, setOpenSections] = useState({ category: true, color: true, size: true, price: true, designer: true });
   const toggle = (k) => setOpenSections(p => ({ ...p, [k]: !p[k] }));
 
-  // Блокируем скролл фона, пока открыта мобильная шторка фильтров
-  // (только для этого drawer'а — на десктопе он никогда не рендерится,
-  // так что на десктоп-верстку это не влияет)
   useEffect(() => {
     if (isOpen) {
       const previousOverflow = document.body.style.overflow;
@@ -397,7 +394,7 @@ const MobileFilterDrawer = ({ isOpen, onClose, activeFilter, setActiveFilter, ac
   );
 };
 
-/* =========================  PAGE  ========================= */
+
 const ShopPage = () => {
   const { subcategory } = useParams();
   const location = useLocation();
@@ -406,7 +403,7 @@ const ShopPage = () => {
   const initialFilter = subcategory || searchParams.get('category') || location.state?.filter || 'all';
   const initialDesigner = location.state?.designer || 'Hamısı';
   
-  // URL-dən səhifə nömrəsini oxuyuruq, yoxdursa 1 götürürük
+ 
   const initialPage = parseInt(searchParams.get('page') || '1', 10);
 
   const [activeFilter, setActiveFilter] = useState(initialFilter);
@@ -419,21 +416,17 @@ const ShopPage = () => {
   const [searchQuery, setSearchQuery] = useState('');
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
 
-  // --- Səhifələmə state-i və URL sinxronizasiyası ---
+  
   const [currentPage, setCurrentPageState] = useState(initialPage);
   const ITEMS_PER_PAGE = 20;
 
-  // Флаг, чтобы не сбрасывать страницу на 1 при первом монтировании компонента
-  // (например, когда пользователь возвращается назад со страницы товара)
   const isFirstFilterRun = useRef(true);
 
   const setCurrentPage = (pageUpdater) => {
     const nextPage = typeof pageUpdater === 'function' ? pageUpdater(currentPage) : pageUpdater;
     setCurrentPageState(nextPage);
     
-    // Səhifə dəyişdikdə URL-i yeniləyirik ki, geri qayıdanda qalsın
-    // ВАЖНО: явно передаём state, чтобы navigate() не обнулял location.state
-    // (иначе это ломает фильтр/дизайнера, переданные через navigate state)
+    
     setSearchParams(prev => {
       if (nextPage > 1) {
         prev.set('page', nextPage.toString());
@@ -444,7 +437,7 @@ const ShopPage = () => {
     }, { replace: true, state: location.state });
   };
 
-  // Filtrlər dəyişəndə səhifəni 1-ə qaytarırıq və URL-dən page parametrini təmizləyirik
+ 
   useEffect(() => {
     if (isFirstFilterRun.current) {
       isFirstFilterRun.current = false;
@@ -464,13 +457,7 @@ const ShopPage = () => {
     if (location.state?.designer) {
       setActiveDesigner(location.state.designer);
     }
-    // Зависим от конкретных примитивных значений (subcategory, ?category=,
-    // location.state.filter/designer), а НЕ от объекта searchParams или
-    // location.state целиком. Браузерный History API клонирует location.state
-    // при каждом pushState/replaceState, поэтому его ссылка меняется даже когда
-    // содержимое то же самое — если завязаться на сам объект, этот эффект будет
-    // срабатывать при КАЖДОМ вызове setSearchParams (например при смене
-    // категории или страницы пагинации) и откатывать activeFilter обратно.
+
   }, [subcategory, searchParams.get('category'), location.state?.filter, location.state?.designer]);
 
   const toggleColor = (color) => {
@@ -555,7 +542,7 @@ const ShopPage = () => {
     <div className="min-h-screen bg-[#faf8f5]">
       <CategoryCircles activeFilter={activeFilter} setActiveFilter={setActiveFilter} />
 
-      {/* Top bar */}
+    
       <section className="px-4 sm:px-6 lg:px-8 pt-6 pb-4 sticky top-20 z-30 bg-[#faf8f5]/95 backdrop-blur-sm">
         <div className="max-w-7xl mx-auto">
           <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
@@ -600,7 +587,7 @@ const ShopPage = () => {
             </div>
           </div>
 
-          {/* Active chips */}
+         
           {(activeFilter !== 'all' || activeDesigner !== 'Hamısı' || activeColors.length > 0 || activeSizes.length > 0 || priceMin || priceMax || searchQuery) && (
             <motion.div initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} className="flex flex-wrap items-center gap-2 mt-4">
               {activeFilter !== 'all' && (
@@ -632,7 +619,7 @@ const ShopPage = () => {
         </div>
       </section>
 
-    {/* Main: sidebar + grid */}
+   
       <section className="px-4 sm:px-6 lg:px-8 pb-24 pt-4">
         <div className="max-w-7xl mx-auto flex flex-col lg:flex-row gap-8">
           <Sidebar

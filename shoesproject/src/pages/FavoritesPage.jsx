@@ -15,10 +15,10 @@ export const FavoritesPage = () => {
     e.stopPropagation();
     removeFromFavorites(product.id);
     
-    // Məhsulun adını bildirişə daxil edirik
+   
     setToastMessage(`"${product.name}" seçilmişlərdən silindi`);
     
-    // 3 saniyə sonra bildirişi bağlayırıq
+    
     setTimeout(() => {
       setToastMessage(null);
     }, 3000);
@@ -27,12 +27,12 @@ export const FavoritesPage = () => {
   return (
     <div className="min-h-screen relative overflow-hidden pt-36 pb-24 bg-gradient-to-br from-rose-50/60 via-amber-50/40 to-sky-50/50">
       
-      {/* Gün batımı fonu üçün dekorativ yumşaq işıq ləkələri */}
+      
       <div className="absolute top-0 left-1/4 w-96 h-96 bg-rose-200/30 rounded-full blur-3xl pointer-events-none" />
       <div className="absolute top-1/3 right-1/4 w-96 h-96 bg-amber-200/30 rounded-full blur-3xl pointer-events-none" />
       <div className="absolute bottom-10 left-1/3 w-96 h-96 bg-sky-200/30 rounded-full blur-3xl pointer-events-none" />
 
-      {/* Sağ üstdə çıxan yaşıl bildiriş (Toast) */}
+      
       <AnimatePresence>
         {toastMessage && (
           <motion.div
@@ -50,7 +50,7 @@ export const FavoritesPage = () => {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         
-        {/* Başlıq hissəsi */}
+      
         <motion.div 
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -74,7 +74,7 @@ export const FavoritesPage = () => {
           </div>
         </motion.div>
 
-        {/* Əgər favoritlər boşdursa */}
+        
         {favorites.length === 0 ? (
           <motion.div 
             initial={{ opacity: 0, scale: 0.95 }}
@@ -100,7 +100,7 @@ export const FavoritesPage = () => {
             </Link>
           </motion.div>
         ) : (
-          /* Məhsullar şəbəkəsi */
+          
           <motion.div 
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
@@ -120,7 +120,7 @@ export const FavoritesPage = () => {
                     transition={{ duration: 0.4, delay: index * 0.05 }}
                     className="group bg-white/80 backdrop-blur-md rounded-2xl overflow-hidden border border-white/80 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col"
                   >
-                    {/* Şəkil və düymələr hissəsi */}
+                    
                     <div 
                       className="relative aspect-[3/4] bg-[#f0ece6] overflow-hidden cursor-pointer"
                       onClick={() => navigate(`/product/${product.id}`)}
@@ -131,7 +131,7 @@ export const FavoritesPage = () => {
                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                       />
 
-                      {/* Qırmızı Ürək düyməsi (Basdıqda silinir və konkret məhsulun adı ilə bildiriş çıxır) */}
+                     
                       <button 
                         onClick={(e) => handleRemove(product, e)}
                         className="absolute top-3 right-3 p-2.5 bg-white/90 backdrop-blur-md rounded-full shadow-md transition-all z-10 hover:bg-white hover:scale-110"
@@ -140,7 +140,7 @@ export const FavoritesPage = () => {
                         <Heart size={16} className="fill-rose-500 text-rose-500" />
                       </button>
 
-                      {/* Hover zamanı səbətə at və bax düymələri */}
+                      
                       <div className="absolute bottom-3 left-3 right-3 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-between z-10">
                         <button 
                           onClick={(e) => {
@@ -165,7 +165,7 @@ export const FavoritesPage = () => {
                       </div>
                     </div>
 
-                    {/* Məhsul məlumatları */}
+                    
                     <div className="p-4 flex flex-col flex-grow justify-between">
                       <div>
                         <div className="flex items-center gap-1 mb-1">

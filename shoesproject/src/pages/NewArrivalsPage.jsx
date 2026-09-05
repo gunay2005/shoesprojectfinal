@@ -1,6 +1,6 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { useLocation, useNavigate, useSearchParams } from 'react-router-dom';
+import { useLocation, useNavigate, useSearchParams, useParams } from 'react-router-dom';
 import { Search, X, SlidersHorizontal, ChevronDown, ChevronUp } from 'lucide-react';
 import gallery from '../data/gallery.json';
 import { ProductCard } from '../components/ProductCard.jsx';
@@ -45,6 +45,22 @@ const bagCategoryMap = {
   crossbody: 'Crossbody çantalar', belt: 'Bel çantaları', accessories: 'Aksesuarlar',
   bucket: 'Bucket çantalar', clutch: 'Klatçlar', mini: 'Kiçik çantalar',
   shoulder: 'Çiyin çantaları', tote: 'Əl çantaları',
+};
+
+
+const matchSubcategory = (slug) => {
+  if (!slug) return null;
+  const clean = decodeURIComponent(slug).toLowerCase().trim();
+  const found = subcategories.find((c) => c.id === clean);
+  return found ? found.id : null;
+};
+
+
+const matchDesigner = (slug) => {
+  if (!slug) return null;
+  const clean = decodeURIComponent(slug).toLowerCase().trim();
+  const found = designers.find((d) => d.toLowerCase() === clean);
+  return found || null;
 };
 
 const getDisplayImageIndex = (product, activeColors) => {
@@ -279,7 +295,7 @@ const MobileFilterDrawer = ({ isOpen, onClose, activeFilter, setActiveFilter, ac
                 )}
               </div>
 
-              {/* Price */}
+             
               <div className="mb-5 border-t border-gray-100 pt-5">
                 <button onClick={() => toggle('price')} className="flex items-center justify-between w-full text-left mb-3">
                   <span className="text-xs font-semibold tracking-wider uppercase text-gray-900">Qiymət (₼)</span>
@@ -294,7 +310,7 @@ const MobileFilterDrawer = ({ isOpen, onClose, activeFilter, setActiveFilter, ac
                 )}
               </div>
 
-              {/* Designer */}
+           
               <div className="border-t border-gray-100 pt-5">
                 <button onClick={() => toggle('designer')} className="flex items-center justify-between w-full text-left mb-3">
                   <span className="text-xs font-semibold tracking-wider uppercase text-gray-900">Dizayner</span>
@@ -398,12 +414,24 @@ const Pagination = ({ currentPage, totalPages, onPageChange }) => {
 
 const NewArrivalsPage = () => {
   const location = useLocation();
+  const { subcategory, name } = useParams();
   const [searchParams, setSearchParams] = useSearchParams();
 
-  // Инициализируем страницу и фильтры из URL параметров или sessionStorage, либо дефолтные значения
+
   const initialPage = parseInt(searchParams.get('page') || sessionStorage.getItem('new_arrivals_page') || '1', 10);
-  const initialFilter = searchParams.get('filter') || location.state?.filter || 'all';
-  const initialDesigner = searchParams.get('designer') || location.state?.designer || 'Hamısı';
+
+
+  const initialFilter =
+    matchSubcategory(subcategory) ||
+    searchParams.get('filter') ||
+    location.state?.filter ||
+    'all';
+
+  const initialDesigner =
+    matchDesigner(name) ||
+    searchParams.get('designer') ||
+    location.state?.designer ||
+    'Hamısı';
 
   const [activeFilter, setActiveFilter] = useState(initialFilter);
   const [activeDesigner, setActiveDesigner] = useState(initialDesigner);
@@ -416,7 +444,7 @@ const NewArrivalsPage = () => {
   const [currentPage, setCurrentPage] = useState(initialPage);
   const itemsPerPage = 12;
 
-  // Сохраняем текущую страницу в sessionStorage и URL при её изменении
+  
   const handlePageChange = (page) => {
     setCurrentPage(page);
     sessionStorage.setItem('new_arrivals_page', page.toString());
@@ -434,7 +462,7 @@ const NewArrivalsPage = () => {
     }
   }, [location.state]);
 
-  // Сбрасываем страницу на 1 только если пользователь реально изменил фильтры/поиск, а не пришел обратно
+  
   useEffect(() => {
     // Если страница была восстановлена из sessionStorage, не сбрасываем её в первый рендер
     const savedPage = parseInt(sessionStorage.getItem('new_arrivals_page') || '1', 10);
@@ -443,7 +471,7 @@ const NewArrivalsPage = () => {
     }
   }, []);
 
-  // При изменении фильтров сбрасываем на 1 страницу (но не при первом монтировании, если сохранен page)
+  
   const handleFilterChangeType = (setter) => (val) => {
     setter(val);
     setCurrentPage(1);
@@ -476,9 +504,7 @@ const NewArrivalsPage = () => {
     setSearchParams({});
   };
 
-  // Блокируем скролл фона (body), пока открыт мобильный Drawer фильтров,
-  // чтобы не было "двойного" скролла на мобильных устройствах.
-  // Никак не затрагивает desktop, т.к. кнопка открытия скрыта на lg (lg:hidden).
+ 
   useEffect(() => {
     if (mobileFiltersOpen) {
       document.body.style.overflow = 'hidden';
@@ -545,7 +571,7 @@ const NewArrivalsPage = () => {
     <div className="min-h-screen bg-[#faf8f5]">
       <CategoryCircles activeFilter={activeFilter} setActiveFilter={handleFilterChangeType(setActiveFilter)} />
 
-      {/* Top bar: search + sort + mobile filter toggle */}
+    
       <section className="px-4 sm:px-6 lg:px-8 pt-6 pb-4 sticky top-20 z-30 bg-[#faf8f5]/95 backdrop-blur-sm">
         <div className="max-w-7xl mx-auto">
           <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
@@ -594,7 +620,7 @@ const NewArrivalsPage = () => {
             </div>
           </div>
 
-          {/* Active chips */}
+        
           {(activeFilter !== 'all' || activeDesigner !== 'Hamısı' || activeColors.length > 0 || priceMin || priceMax || searchQuery) && (
             <motion.div initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} className="flex flex-wrap items-center gap-2 mt-4">
               {activeFilter !== 'all' && (
@@ -621,7 +647,7 @@ const NewArrivalsPage = () => {
         </div>
       </section>
 
-      {/* Main: sidebar + grid */}
+      
       <section className="px-4 sm:px-6 lg:px-8 pb-24 pt-4">
         <div className="max-w-7xl mx-auto flex flex-col lg:flex-row gap-8">
           <Sidebar
@@ -633,7 +659,7 @@ const NewArrivalsPage = () => {
             resultCount={resultCount} onReset={handleReset}
           />
 
-          {/* Product Grid */}
+        
           <div className="flex-1 min-w-0">
             <motion.div
               key={activeFilter + activeDesigner + activeColors.join(',') + priceMin + priceMax + sortBy + searchQuery + currentPage}
@@ -674,7 +700,6 @@ const NewArrivalsPage = () => {
         </div>
       </section>
 
-      {/* Mobile Filter Drawer */}
       <MobileFilterDrawer
         isOpen={mobileFiltersOpen} onClose={() => setMobileFiltersOpen(false)}
         activeFilter={activeFilter} setActiveFilter={handleFilterChangeType(setActiveFilter)}

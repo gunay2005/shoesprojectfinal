@@ -1,9 +1,3 @@
-// ==========================================
-// 📁 src/pages/HomePage.jsx
-// Ana Səhifə — Главная страница
-// Секции: VideoHero, Marquee, Categories, Featured, Parallax, NewArrivals, DualBanners, OurLooks, Stats, Testimonials, Instagram, Features, Newsletter
-// ==========================================
-
 import React, { useState, useEffect, useRef } from 'react';
 import { motion, useScroll, useTransform, AnimatePresence } from 'framer-motion';
 import { Link, useNavigate } from 'react-router-dom';
@@ -13,7 +7,6 @@ import categories from '../data/categories.json';
 import { ProductCard } from '../components/ProductCard.jsx';
 import { AnimatedCounter } from '../components/AnimatedCounter.jsx';
 
-/* ---------- Testimonials data (inline, only for HomePage) ---------- */
 const testimonials = [
   { id: 1, name: "Sofiya N.", role: "Moda Bloqçusu", text: "Bu dabanlıqların keyfiyyəti inanılmazdır. Artıq 5 tədbirdə geyindim və hələ də yeni kimi görünürlər!", image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=face" },
   { id: 2, name: "Rachel L.", role: "Stilist", text: "Nəhayət, həm stil, həm də rahatlıq anlayan bir ayaqqabı mağazası tapdım. Müştərilərim hər cürdən ovsunlanıb.", image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face" },
@@ -23,7 +16,6 @@ const testimonials = [
   { id: 6, name: "Cessika T.", role: "Hüquqşünas", text: "Peşəkar görünməli, ayaqlarımı isə öldürməməli ayaqqabılar axtarırdım. Bu pompalar tam olaraq budur.", image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=100&h=100&fit=crop&crop=face" }
 ];
 
-/* =========================   VIDEO HERO  ========================= */
 const VideoHero = () => {
   const [isPlaying, setIsPlaying] = useState(true);
   const videoRef = useRef(null);
@@ -105,7 +97,6 @@ const VideoHero = () => {
   );
 };
 
-/* =========================   MARQUEE  ========================= */
 const Marquee = ({ items, direction = "left", speed = 30 }) => {
   const duplicated = [...items, ...items, ...items, ...items];
   return (
@@ -126,10 +117,7 @@ const Marquee = ({ items, direction = "left", speed = 30 }) => {
                 whileHover={{ scale: 1.55, zIndex: 50 }}
                 transition={{ type: "spring", stiffness: 400, damping: 20 }}
               >
-                {/* Элегантый фоновый ореол при ховере */}
                 <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-rose-400 via-pink-400 to-rose-300 opacity-30 group-hover:opacity-100 blur-sm transition duration-300" />
-                
-                {/* Картинка */}
                 <img 
                   src={item.image} 
                   alt="" 
@@ -173,7 +161,6 @@ const MarqueeImages = () => {
   );
 };
 
-/* =========================   TEXT STRIPS  ========================= */
 const AnimatedTextStrip = () => {
   const items = [
     { text: "Zərif Dabanlıqlar", image: "https://cdn.shopify.com/s/files/1/0336/7793/files/SAGESANDAL_RM_260420_CultGaia_Product-PF2619409_WEBBED_200x.jpg?v=1778277820" },
@@ -204,19 +191,15 @@ const AnimatedTextStripReverse = () => {
   );
 };
 
-/* =========================   CATEGORIES  ========================= */
 const Categories = () => {
   const navigate = useNavigate();
 
 const handleCategoryClick = (cat) => {
-  // Если категория относится к сумкам — перенаправляем на /cantalar
   if (cat.category === 'bags' || ['mini', 'clutches', 'bucket-bags', 'tote', 'shoulder', 'crossbody'].includes(cat.id)) {
-    // Приводим ID к правильному имени подкатегории
     const bagFilter = cat.id === 'bucket-bags' ? 'bucket' : cat.id === 'clutches' ? 'clutch' : cat.id;
     
     navigate('/cantalar', { state: { filter: bagFilter } });
   } else {
-    // В остальных случаях (обувь) переходим на /shop
     navigate(`/shop?category=${cat.id}`, { state: { filter: cat.id, category: cat.id } });
   }
 };
@@ -256,7 +239,6 @@ const handleCategoryClick = (cat) => {
   );
 };
 
-/* =========================   FEATURED PRODUCTS  ========================= */
 const FeaturedProducts = () => {
   const featured = products.slice(0, 4);
   return (
@@ -277,7 +259,6 @@ const FeaturedProducts = () => {
   );
 };
 
-/* =========================   PARALLAX BANNER  ========================= */
 const ParallaxBanner = () => {
   const { scrollYProgress } = useScroll();
   const y = useTransform(scrollYProgress, [0, 1], [0, -200]);
@@ -303,7 +284,6 @@ const ParallaxBanner = () => {
             Mövsümün ən böyük endirimini qaçırmayın. Premium dabanlıqlar, səndəllər və daha çoxu.
           </motion.p>
 
-          {/* Изменен путь с '/shop' на '/discounts' */}
           <motion.button 
             initial={{ opacity: 0, y: 20 }} 
             whileInView={{ opacity: 1, y: 0 }} 
@@ -322,7 +302,6 @@ const ParallaxBanner = () => {
   );
 };
 
-/* =========================   NEW ARRIVALS (Home)  ========================= */
 const NewArrivals = () => {
   const newProducts = products.filter(p => p.badge === 'Yeni' || p.badge === 'Ən Çox Satılan');
   const scrollRef = useRef(null);
@@ -350,17 +329,15 @@ const NewArrivals = () => {
     </section>
   );
 };
-/* =========================  DUAL BANNERS  ========================= */
+
 const DualBanners = () => {
   const navigate = useNavigate();
 
   return (
     <section className="py-20 bg-gradient-to-b from-gray-50 via-white to-gray-50 overflow-hidden">
-      {/* Слегка увеличили ширину контейнера (max-w-6xl вместо max-w-5xl) */}
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-2 gap-8 lg:gap-12">
           
-          {/* Левый баннер (Обувь) */}
           <motion.div
             initial={{ opacity: 0, x: -120 }}
             whileInView={{ opacity: 1, x: 0 }}
@@ -393,7 +370,6 @@ const DualBanners = () => {
             </div>
           </motion.div>
 
-          {/* Правый баннер (Сумки) */}
           <motion.div
             initial={{ opacity: 0, x: 120 }}
             whileInView={{ opacity: 1, x: 0 }}
@@ -432,7 +408,6 @@ const DualBanners = () => {
   );
 };
 
-/* =========================  OUR LOOKS  ========================= */
 const OurLooks = () => {
   const [hoveredIndex, setHoveredIndex] = useState(null);
   const looks = [
@@ -488,7 +463,6 @@ const OurLooks = () => {
   );
 };
 
-/* =========================  STATS  ========================= */
 const StatsSection = () => {
   return (
     <section className="py-24 bg-gray-50">
@@ -505,7 +479,6 @@ const StatsSection = () => {
   );
 };
 
-/* =========================  TESTIMONIALS  ========================= */
 const Testimonials = () => {
   return (
     <section className="py-24 bg-rose-50">
@@ -536,7 +509,6 @@ const Testimonials = () => {
   );
 };
 
-/* =========================  INSTAGRAM FEED  ========================= */
 const instagramItems = [
   {
     id: 1,
@@ -607,7 +579,6 @@ const InstagramFeed = () => {
           <h2 className="text-5xl font-bold text-gray-900 mt-2">Bizi İnstagram-da İzləyin</h2>
         </motion.div>
 
-        {/* Сетка вертикальных карточек */}
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4">
           {instagramItems.map((item, index) => (
             <motion.div
@@ -619,7 +590,6 @@ const InstagramFeed = () => {
               onClick={() => setSelectedItem(item)}
               className="relative overflow-hidden rounded-xl aspect-[4/5] group cursor-pointer bg-gray-900 shadow-sm"
             >
-              {/* Превью видео */}
               <video
                 src={item.video}
                 muted
@@ -628,15 +598,12 @@ const InstagramFeed = () => {
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
               />
 
-              {/* Легкий градиент и оверлей */}
               <div className="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition-colors duration-300" />
 
-              {/* Иконка Instagram в правом верхнем углу */}
               <div className="absolute top-3 right-3 text-white/90 drop-shadow-md z-10">
                 <Instagram size={20} />
               </div>
 
-              {/* Белая кнопка Play по центру */}
               <div className="absolute inset-0 flex items-center justify-center z-10">
                 <div className="w-14 h-14 bg-white/90 rounded-full flex items-center justify-center text-gray-900 shadow-xl transition-transform duration-300 group-hover:scale-110">
                   <Play size={24} className="fill-gray-900 translate-x-0.5" />
@@ -647,7 +614,6 @@ const InstagramFeed = () => {
         </div>
       </div>
 
-      {/* Всплывающее модальное окно */}
       <AnimatePresence>
         {selectedItem && (
           <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm">
@@ -657,7 +623,6 @@ const InstagramFeed = () => {
               exit={{ opacity: 0, scale: 0.95 }}
               className="relative bg-white rounded-3xl overflow-hidden max-w-4xl w-full max-h-[90vh] flex flex-col md:flex-row shadow-2xl"
             >
-              {/* Кнопка закрытия */}
               <button
                 onClick={() => setSelectedItem(null)}
                 className="absolute top-4 right-4 z-20 w-10 h-10 bg-black/10 hover:bg-black/20 text-gray-700 rounded-full flex items-center justify-center transition-colors"
@@ -665,7 +630,6 @@ const InstagramFeed = () => {
                 ✕
               </button>
 
-              {/* Слева: Видео во весь рост */}
               <div className="md:w-3/5 bg-black relative flex flex-col justify-between aspect-[3/4] md:aspect-auto">
                 <video
                   src={selectedItem.video}
@@ -680,7 +644,6 @@ const InstagramFeed = () => {
                 </div>
               </div>
 
-              {/* Справа: Карточка товара */}
               <div className="md:w-2/5 p-8 flex flex-col items-center justify-center text-center bg-white">
                 <div className="w-48 h-48 bg-gray-50 rounded-2xl p-4 mb-6 flex items-center justify-center border border-gray-100">
                   <img
@@ -702,7 +665,6 @@ const InstagramFeed = () => {
   );
 };
 
-/* =========================  FEATURES BAR  ========================= */
 const FeaturesBar = () => {
   const features = [
     { icon: "🚚", title: "Pulsuz Çatdırılma", desc: "$150-dən yuxarı sifarişlərdə" },
@@ -727,24 +689,22 @@ const FeaturesBar = () => {
   );
 };
 
-/* =========================  NEWSLETTER  ========================= */
 const Newsletter = () => {
   const [email, setEmail] = useState('');
   const [error, setError] = useState('');
   const [success, setSuccess] = useState(false);
 
-  // Регулярное выражение для проверки корректности email
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
   const handleSubmit = (e) => {
     e.preventDefault();
 
     if (!emailRegex.test(email)) {
-      setError('Düzgün e-poçt ünvanı daxil edin'); // Выводим предупреждение при ошибке
+      setError('Düzgün e-poçt ünvanı daxil edin');
       setSuccess(false);
     } else {
       setError('');
-      setSuccess(true); // Сообщение об успешной подписке
+      setSuccess(true);
       setEmail('');
     }
   };
@@ -788,12 +748,10 @@ const Newsletter = () => {
               </button>
             </div>
 
-            {/* Сообщение об ошибке */}
             {error && (
               <p className="text-red-400 text-sm mt-2 text-left pl-4 font-medium">{error}</p>
             )}
 
-            {/* Сообщение об успехе */}
             {success && (
               <p className="text-green-400 text-sm mt-3 font-medium">Uğurla tamamlandı!</p>
             )}
@@ -804,7 +762,6 @@ const Newsletter = () => {
   );
 };
 
-/* =========================  HOME PAGE EXPORT  ========================= */
 const HomePage = () => {
   return (
     <div>
@@ -814,16 +771,10 @@ const HomePage = () => {
       <NewArrivals />
       <MarqueeImages />
       
-      {/* <FeaturedProducts /> */}
       <ParallaxBanner />
-      {/* <AnimatedTextStripReverse /> */}
-      {/* <NewArrivals /> */}
       <DualBanners />
-      {/* <OurLooks /> */}
       <StatsSection />
-      {/* <Testimonials /> */}
       <InstagramFeed />
-      {/* <FeaturesBar /> */}
       <Newsletter />
     </div>
   );

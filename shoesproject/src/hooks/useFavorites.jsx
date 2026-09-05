@@ -10,9 +10,8 @@ export const FavoritesProvider = ({ children }) => {
   const { user } = useAuth();
   const userKey = getUserKey(user);
 
-  // Qonaq (giriş etməmiş) rejimdə seçilmişlər YADDAŞA yazılmır — hesabdan
-  // çıxanda siyahı sıfırlanmalıdır, ona görə "qonaq" üçün heç bir
-  // localStorage oxuma/yazma yoxdur, hər şey yalnız bu React state-də yaşayır.
+  
+ 
   const [favorites, setFavorites] = useState(() => {
     if (isGuest(userKey)) return [];
     try {
@@ -23,9 +22,9 @@ export const FavoritesProvider = ({ children }) => {
     }
   });
 
-  // Aktiv hesab dəyişəndə (giriş / çıxış / başqa hesaba keçid):
-  // - çıxış olubsa (userKey === 'guest') -> siyahı SIFIRLANIR
-  // - başqa hesaba keçilibsə -> həmin hesabın öz seçilmişləri yüklənir
+  
+  
+  
   const prevUserKey = useRef(userKey);
   useEffect(() => {
     if (prevUserKey.current === userKey) return;
@@ -43,7 +42,7 @@ export const FavoritesProvider = ({ children }) => {
     }
   }, [userKey]);
 
-  // Yalnız GİRİŞ EDİLMİŞ hesab üçün hər dəyişiklikdə yaddaşa yazırıq
+  
   useEffect(() => {
     if (isGuest(userKey)) return;
     try {

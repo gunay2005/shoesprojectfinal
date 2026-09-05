@@ -1,7 +1,4 @@
-// ==========================================
-// 📁 src/pages/AboutPage.jsx
-// Haqqımızda — О нас
-// ==========================================
+
 
 import React, { useState } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
@@ -9,7 +6,7 @@ import { MapPin, Phone, Mail, Clock, Award, Users, Truck, Shield, Heart, Star, I
 import { AnimatedCounter } from '../components/AnimatedCounter.jsx';
 
 
-/* =========================  INFO CARD  ========================= */
+
 const InfoCard = ({ icon: Icon, title, value, delay }) => (
   <motion.div
     initial={{ opacity: 0, y: 30 }}
@@ -28,7 +25,7 @@ const InfoCard = ({ icon: Icon, title, value, delay }) => (
 );
 
 
-/* =========================  TEAM MEMBER  ========================= */
+
 const TeamMember = ({ name, role, image, delay }) => (
   <motion.div
     initial={{ opacity: 0, y: 30 }}
@@ -57,7 +54,7 @@ const TeamMember = ({ name, role, image, delay }) => (
 );
 
 
-/* =========================  TIMELINE ITEM  ========================= */
+
 const TimelineItem = ({ year, title, description, isLeft, delay }) => (
   <motion.div
     initial={{ opacity: 0, x: isLeft ? -50 : 50 }}
@@ -79,14 +76,14 @@ const TimelineItem = ({ year, title, description, isLeft, delay }) => (
 );
 
 
-/* =========================  HERO WITH RESPONSIVE VIDEO  ========================= */
+
 const AboutHero = () => {
   const { scrollYProgress } = useScroll();
   const y = useTransform(scrollYProgress, [0, 1], [0, -80]);
 
   return (
     <div className="relative min-h-[60vh] md:min-h-[70vh] flex items-center justify-center overflow-hidden bg-gray-800">
-      {/* Видеоблок с максимальной яркостью и минимальным затемнением */}
+    
       <motion.div style={{ y }} className="absolute inset-0 w-full h-full">
         <video 
           playsInline
@@ -99,11 +96,11 @@ const AboutHero = () => {
         >
           <source type="video/mp4" src="https://www.aldoshoes.com/cdn/shop/videos/c/vp/c2a76ab404924741a9d0d9c17ba55d77/c2a76ab404924741a9d0d9c17ba55d77.HD-1080p-4.8Mbps-92071424.mp4?v=0" />
         </video>
-        {/* Очень легкий градиент только для читаемости текста */}
+        
         <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/10 to-black/30" />
       </motion.div>
 
-      {/* Текстовый контент слева */}
+    
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 w-full flex justify-start">
         <motion.div 
           initial={{ opacity: 0, x: -30 }} 
@@ -126,7 +123,7 @@ const AboutHero = () => {
   );
 };
 
-/* =========================  STATS  ========================= */
+
 const StatsSection = () => (
   <section className="py-20 bg-gray-50">
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -141,7 +138,7 @@ const StatsSection = () => (
 );
 
 
-/* =========================  STORE INFO  ========================= */
+
 const StoreInfo = () => {
   const infoItems = [
     { 
@@ -229,7 +226,7 @@ const StoreInfo = () => {
   );
 };
 
-/* =========================  TIMELINE  ========================= */
+
 const Timeline = () => {
   const events = [
     { year: "2015", title: "Başlanğıc", description: "Serra.az kiçik bir onlayn mağaza olaraq yaranır. İlk kolleksiyamız cəmi 12 məhsuldan ibarət idi." },
@@ -254,7 +251,7 @@ const Timeline = () => {
         </motion.div>
 
         <div className="relative space-y-12">
-          {/* Вертикальная линия по центру на десктопе, слева на мобилках */}
+         
           <div className="absolute left-2 md:left-1/2 top-0 bottom-0 w-0.5 bg-rose-200 md:-translate-x-1/2" />
 
           {events.map((event, index) => (
@@ -272,7 +269,7 @@ const Timeline = () => {
 };
 
 
-/* =========================  TEAM  ========================= */
+
 const TeamSection = () => {
   const team = [
     { name: "Aygün M.", role: "Founder & CEO", image: "https://i.postimg.cc/C1B4f9TL/download-(43).jpg" },
@@ -305,7 +302,7 @@ const TeamSection = () => {
 };
 
 
-/* =========================  VALUES  ========================= */
+
 const ValuesSection = () => {
   const values = [
     { icon: Heart, title: "Sevgi", description: "Hər cüt ayaqqabı ilə sevgi və ehtirasla hazırlayırıq." },
@@ -352,7 +349,7 @@ const ValuesSection = () => {
 };
 
 
-/* =========================  TESTIMONIALS  ========================= */
+
 const AboutTestimonials = () => {
   const testimonials = [
     { name: "Sofiya N.", role: "Moda Bloqçusu", text: "Serra.az-dan alış-veriş etmək həmişə zövqdür. Keyfiyyət və xidmət mükəmməldir!", image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=face" },
@@ -406,7 +403,7 @@ const AboutTestimonials = () => {
 };
 
 
-/* =========================  CTA  ========================= */
+
 const CTASection = () => (
   <section className="py-20">
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
@@ -437,7 +434,7 @@ const CTASection = () => (
 );
 
 
-/* =========================  PAGE EXPORT  ========================= */
+
 const AboutPage = () => {
   return (
     <div className="pt-20">

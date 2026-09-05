@@ -1,7 +1,4 @@
-// ==========================================
-// 📁 src/pages/DiscountsPage.jsx
-// Endirimlər — Страница скидок
-// ==========================================
+
 
 import React, { useState, useRef } from 'react';
 import { motion } from 'framer-motion';
@@ -11,7 +8,7 @@ import products from '../data/products.json';
 import gallery from '../data/gallery.json';
 import { ProductCard } from '../components/ProductCard.jsx';
 
-/* =========================  SALE HERO  ========================= */
+
 const SaleHero = () => {
   const navigate = useNavigate();
 
@@ -61,7 +58,7 @@ const SaleHero = () => {
   );
 };
 
-/* =========================  HORIZONTAL PRODUCT CAROUSEL SECTION  ========================= */
+
 const HorizontalProductSection = ({ title, viewAllLink, productsList, basePath = '/product' }) => {
   const scrollRef = useRef(null);
 
@@ -131,7 +128,7 @@ const HorizontalProductSection = ({ title, viewAllLink, productsList, basePath =
   );
 };
 
-/* =========================  BUNDLE DEAL  ========================= */
+
 const BundleDeal = () => {
   return (
     <section className="py-12 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 overflow-x-hidden">
@@ -152,7 +149,7 @@ const BundleDeal = () => {
   );
 };
 
-/* =========================  PAGE EXPORT  ========================= */
+
 const DiscountsPage = () => {
   const shoesSale = products.filter(
     p => p.badge && p.badge.toLowerCase().includes('endirim')

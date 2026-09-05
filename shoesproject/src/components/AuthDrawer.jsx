@@ -6,6 +6,7 @@ import { useGoogleLogin } from '@react-oauth/google';
 
 const USERS_KEY = 'shoes_users';
 
+
 const getUsers = () => {
   try {
     const raw = localStorage.getItem(USERS_KEY);
@@ -15,12 +16,16 @@ const getUsers = () => {
   }
 };
 
+// Сохраняем список пользователей обратно в localStorage
 const saveUsers = (users) => {
   localStorage.setItem(USERS_KEY, JSON.stringify(users));
 };
 
+
 const normalize = (str) => (str || '').trim().toLowerCase();
+
 const normalizePhone = (str) => (str || '').replace(/\s+/g, '');
+
 
 const getInitials = (name) => {
   if (!name) return 'U';
@@ -30,7 +35,8 @@ const getInitials = (name) => {
   return (parts[0].charAt(0) + parts[parts.length - 1].charAt(0)).toUpperCase();
 };
 
-// Email VƏ ya telefon ilə istifadəçi axtarır (login üçün)
+
+
 const findUserByIdentifier = (users, identifier) => {
   const normId = normalize(identifier);
   const normIdPhone = normalizePhone(identifier);
@@ -42,6 +48,7 @@ const findUserByIdentifier = (users, identifier) => {
 };
 
 // Email VƏ ya telefon üzrə dublikat yoxlanışı (qeydiyyat üçün)
+
 const findDuplicateUser = (users, email, phone) => {
   const normEmail = normalize(email);
   const normPhone = normalizePhone(phone);
@@ -53,43 +60,50 @@ const findDuplicateUser = (users, email, phone) => {
 };
 
 export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) => {
+ 
   const [authTab, setAuthTab] = useState('login');
+ 
   const [isLoading, setIsLoading] = useState(false);
 
-  // reCAPTCHA simulyasiyası state-ləri
-  const [captchaStatus, setCaptchaStatus] = useState('idle'); // 'idle' | 'verifying' | 'success'
+  
+  
+  const [captchaStatus, setCaptchaStatus] = useState('idle'); 
   const [regCaptchaStatus, setRegCaptchaStatus] = useState('idle');
 
-  // Giriş state-ləri
-  const [loginIdentifier, setLoginIdentifier] = useState('');
+
+  
+  const [loginIdentifier, setLoginIdentifier] = useState(''); 
   const [loginPassword, setLoginPassword] = useState('');
-  const [showLoginPassword, setShowLoginPassword] = useState(false);
+  const [showLoginPassword, setShowLoginPassword] = useState(false); 
   const [loginError, setLoginError] = useState('');
   const [loginSuccessMsg, setLoginSuccessMsg] = useState(false);
 
-  // Qeydiyyat state-ləri
+
+  // --- Состояния формы регистрации ---
   const [firstName, setFirstName] = useState('');
   const [lastName, setLastName] = useState('');
-  const [phonePrefix, setPhonePrefix] = useState('050');
-  const [phoneNumber, setPhoneNumber] = useState('');
+  const [phonePrefix, setPhonePrefix] = useState('050'); 
+  const [phoneNumber, setPhoneNumber] = useState(''); 
   const [regEmail, setRegEmail] = useState('');
   const [birthDate, setBirthDate] = useState('');
-  const [gender, setGender] = useState('Kişi');
+  const [gender, setGender] = useState('Kişi'); 
   const [regPassword, setRegPassword] = useState('');
   const [showRegPassword, setShowRegPassword] = useState(false);
   const [confirmPassword, setConfirmPassword] = useState('');
   const [showConfirmPassword, setShowConfirmPassword] = useState(false);
-  const [agreedToTerms, setAgreedToTerms] = useState(false);
+  const [agreedToTerms, setAgreedToTerms] = useState(false); 
   const [regError, setRegError] = useState('');
   const [regSuccessMsg, setRegSuccessMsg] = useState(false);
 
-  // Şifrəni unutdum rejimi
+
+  // --- Режим "Забыли пароль" ---
   const [isForgotPassword, setIsForgotPassword] = useState(false);
   const [forgotEmail, setForgotEmail] = useState('');
   const [forgotSuccess, setForgotSuccess] = useState(false);
   const [forgotError, setForgotError] = useState('');
 
-  // Formu sıfırlamaq üçün funksiya (pəncərə bağlananda işləyəcək)
+  
+  // Сбрасывает ВСЕ поля всех форм и закрывает панель (вызывается при закрытии окна)
   const handleResetAndClose = () => {
     setLoginIdentifier('');
     setLoginPassword('');
@@ -118,7 +132,8 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
     onClose();
   };
 
-  // ReCAPTCHA kliklənmə funksiyası (Giriş üçün)
+
+  // Клик по имитации reCAPTCHA на форме ВХОДА: сначала "проверка" (спиннер), потом "успех"
   const handleCaptchaClick = () => {
     if (captchaStatus === 'success' || captchaStatus === 'verifying') return;
     setCaptchaStatus('verifying');
@@ -127,7 +142,8 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
     }, 800);
   };
 
-  // ReCAPTCHA kliklənmə funksiyası (Qeydiyyat üçün)
+
+  
   const handleRegCaptchaClick = () => {
     if (regCaptchaStatus === 'success' || regCaptchaStatus === 'verifying') return;
     setRegCaptchaStatus('verifying');
@@ -136,16 +152,19 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
     }, 800);
   };
 
-  // 1. Adi Giriş Məntiqi
+  
+ 
   const handleLoginSubmit = (e) => {
     e.preventDefault();
     setLoginError('');
 
+    
     if (!loginIdentifier.trim() || !loginPassword.trim()) {
       setLoginError('Bütün xanaları doldurun.');
       return;
     }
 
+    
     if (captchaStatus !== 'success') {
       setLoginError('Zəhmət olmasa "Mən robot deyiləm" təsdiqini tamamlayın.');
       return;
@@ -154,88 +173,102 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
     const users = getUsers();
     const foundUser = findUserByIdentifier(users, loginIdentifier);
 
+    
     if (!foundUser) {
       setLoginError('Belə bir e-poçt və ya istifadəçi tapılmadı. Zəhmət olmasa əvvəlcə qeydiyyatdan keçin.');
       return;
     }
 
-    // Google hesabında şifrə yoxdur — adi formada onu keçmək OLMAZ.
-    // (Əvvəlki versiyada bu yoxlama yalnız provider === 'credentials' olduqda
-    // işləyirdi, yəni Google hesabına İXTİYARİ şifrə ilə daxil olmaq mümkün idi.)
+    
+   
+  
+    // раньше можно было зайти в Google-аккаунт с любым паролем.
     if (foundUser.provider === 'google' || !foundUser.password) {
       setLoginError('Bu hesab Google ilə qeydiyyatdan keçib. Zəhmət olmasa "Google ilə davam et" düyməsini istifadə edin.');
       return;
     }
 
+   
     if (foundUser.password !== loginPassword) {
       setLoginError('Daxil etdiyiniz şifrə yanlışdır.');
       return;
     }
 
     // Şifrəni frontend state-inə/parent-ə ötürmürük
+ 
     const { password, ...safeUserData } = foundUser;
     const userData = {
       ...safeUserData,
       emailOrPhone: foundUser.email || foundUser.phone,
     };
 
+   
     setIsLoading(true);
     setLoginSuccessMsg(true);
 
     setTimeout(() => {
       setIsLoading(false);
-      onLoginSuccess(userData);
+      onLoginSuccess(userData); 
       setLoginSuccessMsg(false);
-      handleResetAndClose();
+      handleResetAndClose(); 
     }, 1500);
   };
 
-  // 2. Qeydiyyat Məntiqi
+  
+  
   const handleRegisterSubmit = (e) => {
     e.preventDefault();
     setRegError('');
 
+    
     if (!firstName.trim() || !lastName.trim() || !phoneNumber.trim() || !regEmail.trim() || !regPassword.trim()) {
       setRegError('Bütün zəruri xanaları doldurun.');
       return;
     }
 
+    
     if (!/^\d{7}$/.test(phoneNumber)) {
       setRegError('Telefon nömrəsi düz 7 rəqəmdən ibarət olmalıdır.');
       return;
     }
 
+    // Пароль и подтверждение пароля должны совпадать
     if (regPassword !== confirmPassword) {
       setRegError('Şifrələr bir-biri ilə eyni deyil!');
       return;
     }
 
+    // Минимальная длина парол
     if (regPassword.length < 8) {
       setRegError('Şifrə minimum 8 simvoldan ibarət olmalıdır.');
       return;
     }
 
+    
     if (!agreedToTerms) {
       setRegError('Qaydalar və Şərtlərlə razılaşmalısınız.');
       return;
     }
 
+    
     if (regCaptchaStatus !== 'success') {
       setRegError('Zəhmət olmasa "Mən robot deyiləm" təsdiqini tamamlayın.');
       return;
     }
 
+   
     const fullPhone = `${phonePrefix} ${phoneNumber}`.trim();
     const users = getUsers();
 
-    // Dublikat yoxlanışı — əvvəlki versiyada bu YOX idi, yeni qeydiyyat
-    // köhnə hesabın üstündən sükutla yazırdı.
+   
+    
     const duplicate = findDuplicateUser(users, regEmail, fullPhone);
     if (duplicate) {
       setRegError('Bu e-poçt və ya telefon nömrəsi ilə istifadəçi artıq mövcuddur. Zəhmət olmasa daxil olun.');
       return;
     }
 
+    // Формируем нового пользователя и сохраняем его в localStorage
     const newUser = {
       name: `${firstName} ${lastName}`.trim(),
       email: regEmail.trim(),
@@ -243,14 +276,16 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
       birthDate,
       gender,
       password: regPassword,
-      provider: 'credentials',
+      provider: 'credentials', 
     };
 
     saveUsers([...users, newUser]);
 
+    // Пароль наружу не передаём
     const { password, ...safeUserData } = newUser;
     const userData = { ...safeUserData, emailOrPhone: newUser.email };
 
+    
     setIsLoading(true);
     setRegSuccessMsg(true);
 
@@ -263,10 +298,12 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
   };
 
   // 3. Google ilə Giriş
+ 
   const handleGoogleLogin = useGoogleLogin({
     onSuccess: async (tokenResponse) => {
       setIsLoading(true);
       try {
+        
         const res = await fetch('https://www.googleapis.com/oauth2/v3/userinfo', {
           headers: { Authorization: `Bearer ${tokenResponse.access_token}` },
         });
@@ -277,6 +314,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
 
         const googleData = await res.json();
         const users = getUsers();
+        
         const existing = users.find((u) => normalize(u.email) === normalize(googleData.email));
 
         const googleUser = {
@@ -284,10 +322,11 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
           email: googleData.email,
           avatar: googleData.picture,
           provider: 'google',
-          // Əgər bu email əvvəllər adi formada qeydiyyatdan keçibsə, telefonunu saxlayaq
+         
           phone: existing?.phone,
         };
 
+       
         const updatedUsers = existing
           ? users.map((u) => (normalize(u.email) === normalize(googleData.email) ? { ...u, ...googleUser } : u))
           : [...users, googleUser];
@@ -316,7 +355,8 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
     },
   });
 
-  // 4. Şifrə bərpası
+ 
+  // === 4. Восстановление пароля (имитация отправки письма) ===
   const handleForgotSubmit = (e) => {
     e.preventDefault();
     setForgotError('');
@@ -329,23 +369,29 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
     const users = getUsers();
     const foundUser = findUserByIdentifier(users, forgotEmail);
 
+   
     if (!foundUser) {
       setForgotError('Bu e-poçt ünvanı ilə istifadəçi tapılmadı.');
       return;
     }
 
+    
     if (foundUser.provider === 'google' || !foundUser.password) {
       setForgotError('Bu hesab Google ilə qeydiyyatdan keçib, şifrə bərpası tələb olunmur. "Google ilə davam et" düyməsini istifadə edin.');
       return;
     }
 
+    
     setForgotSuccess(true);
   };
 
+ 
   if (!isOpen) return null;
 
   return (
+   
     <div className="fixed inset-0 z-50 flex justify-end">
+     
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
@@ -354,6 +400,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
         className="absolute inset-0 bg-black/50 backdrop-blur-sm"
       />
 
+     
       <motion.div
         initial={{ x: '100%' }}
         animate={{ x: 0 }}
@@ -361,6 +408,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
         transition={{ type: 'spring', damping: 25, stiffness: 200 }}
         className="relative w-full max-w-md bg-white h-full shadow-2xl z-10 flex flex-col p-6 sm:p-8 overflow-y-auto"
       >
+        {/* Оверлей загрузки поверх всей панели, пока идёт "вход/регистрация" */}
         {isLoading && (
           <div className="absolute inset-0 bg-white/80 backdrop-blur-sm z-50 flex flex-col items-center justify-center text-center p-6">
             <div className="w-16 h-16 bg-rose-50 rounded-full flex items-center justify-center mb-4 shadow-inner relative">
@@ -371,6 +419,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
           </div>
         )}
 
+       
         <div className="flex items-center justify-between pb-4 border-b border-gray-100">
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-rose-50 text-rose-500 rounded-full flex items-center justify-center">
@@ -389,6 +438,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
         </div>
 
         {user ? (
+        
           <div className="py-8 flex flex-col items-center text-center flex-grow">
             <div className="w-20 h-20 bg-rose-100 text-rose-600 rounded-full flex items-center justify-center text-2xl font-bold mb-4 shadow-inner overflow-hidden">
               {getInitials(user.name)}
@@ -396,6 +446,8 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
             <h3 className="text-xl font-bold text-gray-900 mb-1">{user.name}</h3>
             <p className="text-sm text-gray-500 mb-8">{user.emailOrPhone || user.email}</p>
 
+            {/* Закомментированный блок — заготовка для будущих пунктов меню кабинета
+                (заказы, избранное, настройки), пока не используется */}
             {/* <div className="w-full space-y-3 text-left">
               <div className="p-4 bg-gray-50 rounded-xl border border-gray-100 text-sm font-medium text-gray-700 cursor-pointer hover:bg-gray-100 transition-colors">
                 📦 Sifarişlərim
@@ -422,8 +474,10 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
             </div>
           </div>
         ) : (
+          // === Пользователь не авторизован: формы входа/регистрации/восстановления пароля ===
           <div className="flex-grow flex flex-col pt-4">
             {isForgotPassword ? (
+              // --- Экран "Восстановление пароля" ---
               <div className="py-4">
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Şifrənin bərpası</h3>
                 <p className="text-xs text-gray-500 mb-6">E-poçt ünvanınızı daxil edin, sizə şifrə sıfırlama linki göndərəcəyik.</p>
@@ -435,6 +489,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                 )}
 
                 {forgotSuccess ? (
+                  // Сообщение об успешной "отправке" письма
                   <div className="p-4 bg-emerald-50 text-emerald-700 rounded-xl text-sm font-medium mb-4">
                     Bərpa linki e-poçtunuza göndərildi! Zəhmət olmasa poçtunuzu yoxlayın.
                   </div>
@@ -461,6 +516,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                   </form>
                 )}
 
+              
                 <button
                   type="button"
                   onClick={() => {
@@ -475,6 +531,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
               </div>
             ) : (
               <>
+               
                 {(loginSuccessMsg || regSuccessMsg) && (
                   <motion.div
                     initial={{ opacity: 0, y: -10 }}
@@ -488,12 +545,14 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                   </motion.div>
                 )}
 
+              
                 {loginError && authTab === 'login' && (
                   <div className="p-3 bg-rose-50 text-rose-600 rounded-xl text-xs font-medium mb-4">
                     {loginError}
                   </div>
                 )}
 
+              
                 <div className="flex border-b border-gray-200 mb-6">
                   <button
                     type="button"
@@ -504,6 +563,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                   >
                     Giriş
                     {authTab === 'login' && (
+                     
                       <motion.div layoutId="activeAuthTab" className="absolute bottom-0 left-0 right-0 h-0.5 bg-gray-900" />
                     )}
                   </button>
@@ -521,12 +581,14 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                   </button>
                 </div>
 
+               
                 <div className="mb-6 space-y-3">
                   <button
                     type="button"
                     onClick={() => handleGoogleLogin()}
                     className="w-full flex items-center justify-center gap-3 py-3 px-4 border border-gray-200 rounded-xl hover:bg-gray-50 transition-colors text-sm font-semibold text-gray-700 shadow-sm cursor-pointer"
                   >
+                    
                     <svg className="w-5 h-5" viewBox="0 0 24 24">
                       <path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/>
                       <path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.13 0-5.78-2.11-6.73-4.96H1.2v3.15C3.18 21.34 7.22 24 12 24z"/>
@@ -537,6 +599,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                   </button>
                 </div>
 
+               
                 <div className="relative flex py-2 items-center mb-4">
                   <div className="flex-grow border-t border-gray-200"></div>
                   <span className="flex-shrink mx-4 text-xs text-gray-400 uppercase tracking-wider">və ya</span>
@@ -544,6 +607,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                 </div>
 
                 {authTab === 'login' ? (
+                  // --- Форма входа ---
                   <form onSubmit={handleLoginSubmit} className="space-y-4">
                     <div>
                       <label className="block text-xs font-semibold text-gray-700 uppercase mb-1">E-poçt / Telefon</label>
@@ -564,6 +628,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                     <div>
                       <div className="flex items-center justify-between mb-1">
                         <label className="block text-xs font-semibold text-gray-700 uppercase">Şifrə</label>
+                        {/* Переход в режим восстановления пароля */}
                         <button
                           type="button"
                           onClick={() => { setIsForgotPassword(true); setLoginError(''); }}
@@ -584,6 +649,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                           }}
                           className="w-full px-4 py-3 bg-gray-50 border border-gray-200 rounded-xl text-sm focus:outline-none pr-10"
                         />
+                        {/* Кнопка-глазик для показа/скрытия пароля */}
                         <button
                           type="button"
                           onClick={() => setShowLoginPassword(!showLoginPassword)}
@@ -594,7 +660,8 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                       </div>
                     </div>
 
-                    {/* ReCAPTCHA Box (Giriş) */}
+                  
+                   
                     <div
                       onClick={handleCaptchaClick}
                       className="border border-gray-200 rounded-xl p-3.5 flex items-center justify-between bg-white shadow-sm cursor-pointer hover:border-gray-300 transition-all select-none"
@@ -622,12 +689,14 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                     </button>
                   </form>
                 ) : (
+                  // --- Форма регистрации ---
                   <form onSubmit={handleRegisterSubmit} className="space-y-4">
                     {regError && (
                       <div className="p-3 bg-rose-50 text-rose-600 rounded-xl text-xs font-medium">
                         {regError}
                       </div>
                     )}
+                 
                     <div className="grid grid-cols-2 gap-3">
                       <div>
                         <label className="block text-xs font-semibold text-gray-700 uppercase mb-1">Adınız</label>
@@ -662,6 +731,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                     <div>
                       <label className="block text-xs font-semibold text-gray-700 uppercase mb-1">Telefon</label>
                       <div className="grid grid-cols-3 gap-2">
+                      
                         <select
                           value={phonePrefix}
                           onChange={(e) => setPhonePrefix(e.target.value)}
@@ -683,6 +753,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                           maxLength={7}
                           value={phoneNumber}
                           onChange={(e) => {
+                            
                             const digitsOnly = e.target.value.replace(/\D/g, '').slice(0, 7);
                             setPhoneNumber(digitsOnly);
                             if (regError) setRegError('');
@@ -710,6 +781,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                       />
                     </div>
 
+                    {/* Дата рождения и пол в два столбца */}
                     <div className="grid grid-cols-2 gap-3">
                       <div>
                         <label className="block text-xs font-semibold text-gray-700 uppercase mb-1">Doğum tarixi</label>
@@ -784,6 +856,7 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                       </div>
                     </div>
 
+                   
                     <div className="flex items-center gap-2 pt-1">
                       <input
                         type="checkbox"
@@ -800,7 +873,8 @@ export const AuthDrawer = ({ isOpen, onClose, user, onLoginSuccess, onLogout }) 
                       </label>
                     </div>
 
-                    {/* ReCAPTCHA Box (Qeydiyyat) */}
+                  
+                    {/* Имитация блока reCAPTCHA для формы регистрации */}
                     <div
                       onClick={handleRegCaptchaClick}
                       className="border border-gray-200 rounded-xl p-3.5 flex items-center justify-between bg-white shadow-sm cursor-pointer hover:border-gray-300 transition-all select-none"

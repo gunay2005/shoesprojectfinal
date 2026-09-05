@@ -1,8 +1,3 @@
-// ==========================================
-// 📁 src/components/PromoModal.jsx
-// Адаптивное всплывающее рекламное окно в стиле Emporium
-// ==========================================
-
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X } from 'lucide-react';
@@ -37,7 +32,6 @@ export const PromoModal = () => {
     <AnimatePresence>
       {isOpen && (
         <div className="fixed inset-0 z-[99999] flex items-center justify-center p-3 sm:p-4 md:p-6 pointer-events-auto overflow-y-auto">
-          {/* Полупрозрачный темный фон */}
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
@@ -46,7 +40,6 @@ export const PromoModal = () => {
             className="fixed inset-0 bg-black/70 backdrop-blur-sm"
           />
 
-          {/* Карточка модального окна с защитой от выхода за границы экрана */}
           <motion.div
             initial={{ opacity: 0, scale: 0.95, y: 15 }}
             animate={{ opacity: 1, scale: 1, y: 0 }}
@@ -54,7 +47,6 @@ export const PromoModal = () => {
             transition={{ duration: 0.3, ease: "easeOut" }}
             className="relative bg-white w-full max-w-4xl max-h-[90vh] overflow-y-auto md:overflow-hidden shadow-2xl flex flex-col md:flex-row z-10 rounded-lg md:rounded-none my-auto"
           >
-            {/* Кнопка закрытия (крестик) */}
             <button
               onClick={handleClose}
               className="absolute top-4 left-4 md:top-5 md:left-5 z-30 text-gray-800 hover:text-black transition-colors p-2 bg-white/90 shadow-sm rounded-full"
@@ -63,7 +55,6 @@ export const PromoModal = () => {
               <X size={22} strokeWidth={1.5} />
             </button>
 
-            {/* Левая часть: Текст */}
             <div className="w-full md:w-1/2 p-6 sm:p-8 md:p-12 flex flex-col items-center justify-center text-center bg-white order-2 md:order-1">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-light text-gray-900 mb-2 tracking-wide mt-6 md:mt-0">
                 Serra.az-da
@@ -91,7 +82,6 @@ export const PromoModal = () => {
               </p>
             </div>
 
-            {/* Правая часть: Картинка (адаптивная высота для мобилок и ПК) */}
             <div className="w-full md:w-1/2 relative min-h-[220px] sm:min-h-[280px] md:min-h-[500px] order-1 md:order-2">
               <img
                 src="https://cdn.shopify.com/s/files/1/0336/7793/files/EvianaClutchIvoryFALTcopy_3_c9945d7e-d169-4470-9e85-e30d26d4f7da_832x.jpg?v=1784072658"
